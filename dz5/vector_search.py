@@ -106,6 +106,23 @@ def search(
     return results[:top_k]
 
 
+class VectorSearchEngine:
+    def __init__(self, terms_tfidf_dir: Path):
+        self.doc_vectors, self.idf_map = load_document_vectors(terms_tfidf_dir)
+        self.doc_norms = {doc_id: compute_norm(vec) for doc_id, vec in self.doc_vectors.items()}
+        self.inverted = build_inverted_doc_weights(self.doc_vectors)
+
+    def search(self, query: str, top_k: int = 10) -> List[Tuple[str, float]]:
+        return search(
+            query=query,
+            doc_vectors=self.doc_vectors,
+            doc_norms=self.doc_norms,
+            inverted=self.inverted,
+            idf_map=self.idf_map,
+            top_k=top_k,
+        )
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description="Vector search with TF-IDF and cosine similarity")
     parser.add_argument(
@@ -118,13 +135,10 @@ def main() -> None:
     args = parser.parse_args()
 
     terms_dir = Path(args.terms_tfidf_dir)
-    doc_vectors, idf_map = load_document_vectors(terms_dir)
-    doc_norms = {doc_id: compute_norm(vec) for doc_id, vec in doc_vectors.items()}
-    inverted = build_inverted_doc_weights(doc_vectors)
+    engine = VectorSearchEngine(terms_dir)
+    results = engine.search(args.query, top_k=args.top_k)
 
-    results = search(args.query, doc_vectors, doc_norms, inverted, idf_map, top_k=args.top_k)
-
-    print(f"Documents in index: {len(doc_vectors)}")
+    print(f"Documents in index: {len(engine.doc_vectors)}")
     print(f"Query: {args.query}")
     print(f"Top {args.top_k} results:")
     for rank, (doc_id, score) in enumerate(results, start=1):
