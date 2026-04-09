@@ -1,0 +1,1153 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available skin-theme-clientpref-thumb-standard" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Газета.ru — Википедия</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available skin-theme-clientpref-thumb-standard";var cookie=document.cookie.match(/(?:^|; )ruwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"89d4fc1f-9bce-4839-a22e-445027d8b897","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Газета.ru","wgTitle":"Газета.ru","wgCurRevisionId":147124268,"wgRevisionId":147124268,"wgArticleId":1395421,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Cite web (не указан язык)","Страницы, использующие волшебные ссылки ISBN","Википедия:Статьи с источниками из Викиданных","ПРО:ИТ:Статьи по алфавиту","ПРО:ИТ:Последняя правка: в прошлом году","Википедия:Статьи с утверждениями, основанными на первичном источнике","Википедия:Статьи, требующие конкретизации","Википедия:Статьи с шаблонами недостатков по алфавиту","Сайты по алфавиту","Сайты, появившиеся в 1999 году","Интернет-СМИ России","Периодические издания","Газета.ru","Lenta.ru"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Газета.ru","wgRelevantArticleId":1395421,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Газета.ру","wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":147124268,"wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":50000,"wgInternalRedirectTargetUrl":"/wiki/%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru","wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q595181","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgTestKitchenUserExperiments":{"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[]}};
+RLSTATE={"ext.gadget.common-site":"ready","ext.gadget.darkModeFixes":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.wikimediamessages.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","ext.scribunto.logs","ext.parsermigration.survey","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.edittop","ext.gadget.navboxDefaultGadgets","ext.gadget.markadmins","ext.gadget.wikibugs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.quicksurveys.init","ext.growthExperiments.SuggestedEditSession","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cmediawiki.codex.messagebox.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.gadget.common-site%2CdarkModeFixes&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector-2022"></noscript>
+<meta name="generator" content="MediaWiki 1.46.0-wmf.22">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Газета.ru — Википедия">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Газета_ru rootpage-Газета_ru skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Перейти к содержанию</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Сайт">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Главное меню" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Главное меню"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Главное меню</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Главное меню</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Навигация
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-participation" class="vector-menu mw-portlet mw-portlet-participation"  >
+	<div class="vector-menu-heading">
+		Участие
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-lang" class="vector-menu mw-portlet mw-portlet-lang"  >
+	<div class="vector-menu-heading">
+		На других языках
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Gazeta.Ru" title="Gazeta.Ru — английский" lang="en" hreflang="en" data-title="Gazeta.Ru" data-language-autonym="English" data-language-local-name="английский" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Gazeta.ru" title="Gazeta.ru — эстонский" lang="et" hreflang="et" data-title="Gazeta.ru" data-language-autonym="Eesti" data-language-local-name="эстонский" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Gazeta.ru" title="Gazeta.ru — французский" lang="fr" hreflang="fr" data-title="Gazeta.ru" data-language-autonym="Français" data-language-local-name="французский" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Gazeta.ru" title="Gazeta.ru — итальянский" lang="it" hreflang="it" data-title="Gazeta.ru" data-language-autonym="Italiano" data-language-local-name="итальянский" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%82%AC%E3%82%BC%E3%83%BC%E3%82%BF%E3%83%BB%E3%83%AB%E3%83%BC" title="ガゼータ・ルー — японский" lang="ja" hreflang="ja" data-title="ガゼータ・ルー" data-language-autonym="日本語" data-language-local-name="японский" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Gazeta.ru" title="Gazeta.ru — норвежский букмол" lang="nb" hreflang="nb" data-title="Gazeta.ru" data-language-autonym="Norsk bokmål" data-language-local-name="норвежский букмол" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Gazeta.ru" title="Gazeta.ru — польский" lang="pl" hreflang="pl" data-title="Gazeta.ru" data-language-autonym="Polski" data-language-local-name="польский" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.Ru" title="Газета.Ru — украинский" lang="uk" hreflang="uk" data-title="Газета.Ru" data-language-autonym="Українська" data-language-local-name="украинский" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/Gazeta.Ru" title="Gazeta.Ru — китайский" lang="zh" hreflang="zh" data-title="Gazeta.Ru" data-language-autonym="中文" data-language-local-name="китайский" class="interlanguage-link-target"><span>中文</span></a></li>
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q595181#sitelinks-wikipedia" title="Править ссылки на другие языки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Википедия" src="/static/images/mobile/copyright/wikipedia-wordmark-ru.svg" style="width: 7.5em; height: 1.25em;">
+		<img class="mw-logo-tagline" alt="свободная энциклопедия" src="/static/images/mobile/copyright/wikipedia-tagline-ru.svg" width="120" height="11" style="width: 7.5em; height: 0.6875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Искать в Википедии [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="none" spellcheck="false" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Служебная:Поиск">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Найти</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Персональные инструменты">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Измените внешний вид страницы, размер, ширину и цвет шрифта." >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Внешний вид"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Внешний вид</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" class=""><span>Пожертвовать</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно." class=""><span>Создать учётную запись</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o" class=""><span>Войти</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Больше возможностей" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Персональные инструменты"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Персональные инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Пользовательское меню" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru"><span class="vector-icon mw-ui-icon-heart mw-ui-icon-wikimedia-heart"></span> <span>Пожертвовать</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Создать учётную запись</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Сайт">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Содержание" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	data-pinned-container-id="vector-toc-pinned-container"
+	data-unpinned-container-id="vector-toc-unpinned-container"
+>
+	<h2 class="vector-pinnable-header-label">Содержание</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">скрыть</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Начало</div>
+			</a>
+		</li>
+		<li id="toc-История"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#История">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>История</span>
+			</div>
+		</a>
+		
+		<ul id="toc-История-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Колумнисты"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Колумнисты">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>Колумнисты</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Колумнисты-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Проекты_издания"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Проекты_издания">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>Проекты издания</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Проекты_издания-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Награды_и_юбилеи"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Награды_и_юбилеи">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>Награды и юбилеи</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Награды_и_юбилеи-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Достижения"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Достижения">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">5</span>
+				<span>Достижения</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Достижения-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Блокировки"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Блокировки">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">6</span>
+				<span>Блокировки</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Блокировки-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Главные_редакторы"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Главные_редакторы">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">7</span>
+				<span>Главные редакторы</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Главные_редакторы-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Критика"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Критика">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">8</span>
+				<span>Критика</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Критика-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Примечания"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Примечания">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">9</span>
+				<span>Примечания</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Примечания-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Ссылки"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Ссылки">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">10</span>
+				<span>Ссылки</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Ссылки-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Содержание" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Газета.ru</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Перейти к статье на другом языке. Доступно на 9 языках"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-9" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">9 языков</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Gazeta.Ru" title="Gazeta.Ru — английский" lang="en" hreflang="en" data-title="Gazeta.Ru" data-language-autonym="English" data-language-local-name="английский" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Gazeta.ru" title="Gazeta.ru — эстонский" lang="et" hreflang="et" data-title="Gazeta.ru" data-language-autonym="Eesti" data-language-local-name="эстонский" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Gazeta.ru" title="Gazeta.ru — французский" lang="fr" hreflang="fr" data-title="Gazeta.ru" data-language-autonym="Français" data-language-local-name="французский" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Gazeta.ru" title="Gazeta.ru — итальянский" lang="it" hreflang="it" data-title="Gazeta.ru" data-language-autonym="Italiano" data-language-local-name="итальянский" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%82%AC%E3%82%BC%E3%83%BC%E3%82%BF%E3%83%BB%E3%83%AB%E3%83%BC" title="ガゼータ・ルー — японский" lang="ja" hreflang="ja" data-title="ガゼータ・ルー" data-language-autonym="日本語" data-language-local-name="японский" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Gazeta.ru" title="Gazeta.ru — норвежский букмол" lang="nb" hreflang="nb" data-title="Gazeta.ru" data-language-autonym="Norsk bokmål" data-language-local-name="норвежский букмол" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Gazeta.ru" title="Gazeta.ru — польский" lang="pl" hreflang="pl" data-title="Gazeta.ru" data-language-autonym="Polski" data-language-local-name="польский" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.Ru" title="Газета.Ru — украинский" lang="uk" hreflang="uk" data-title="Газета.Ru" data-language-autonym="Українська" data-language-local-name="украинский" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/Gazeta.Ru" title="Gazeta.Ru — китайский" lang="zh" hreflang="zh" data-title="Gazeta.Ru" data-language-autonym="中文" data-language-local-name="китайский" class="interlanguage-link-target"><span>中文</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q595181#sitelinks-wikipedia" title="Править ссылки на другие языки" class="wbc-editpage">Править ссылки</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Пространства имён">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Изменить вариант языка"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">русский</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Просмотры">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru"><span>Читать</span></a></li><li id="ca-ve-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Инструменты"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Инструменты</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Больше возможностей" >
+	<div class="vector-menu-heading">
+		Действия
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru"><span>Читать</span></a></li><li id="ca-more-ve-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-more-edit" class="collapsible vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru&amp;action=history"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		Основное
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru&amp;oldid=147124268" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru&amp;id=147124268&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2593%25D0%25B0%25D0%25B7%25D0%25B5%25D1%2582%25D0%25B0.ru"><span>Получить короткий URL</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Печать/экспорт
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		В других проектах
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Gazeta.ru" hreflang="en"><span>Викисклад</span></a></li><li class="wb-otherproject-link wb-otherproject-wikinews mw-list-item"><a href="https://ru.wikinews.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.Ru" hreflang="ru"><span>Викиновости</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q595181" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Внешний вид</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">скрыть</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"><span class="mw-redirectedfrom">(перенаправлено с «<a href="/w/index.php?title=%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.%D1%80%D1%83&amp;redirect=no" class="mw-redirect" title="Газета.ру">Газета.ру</a>»)</span></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div role="note" class="hatnote navigation-not-searchable dabhide">Термин «газета» имеет также <a href="/wiki/%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)" class="mw-disambig" title="Газета (значения)">другие значения</a>.</div>
+<table class="infobox infobox-72d94a0eea449091" style="" data-name="Сайт"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="">Газета.ru</th></tr><tr><td colspan="2" class="infobox-image" style=""> <span data-wikidata-claim-id="Q595181$1c18c2e2-4388-94aa-9fc6-d40efdffaa3b" class="wikidata-claim" data-wikidata-property-id="P154"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File/Frameless"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Gazeta.ru_logo.svg" class="mw-file-description"><img alt="Изображение логотипа" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gazeta.ru_logo.svg/250px-Gazeta.ru_logo.svg.png" decoding="async" width="220" height="28" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gazeta.ru_logo.svg/500px-Gazeta.ru_logo.svg.png 2x" data-file-width="512" data-file-height="66" /></a></span></span></span> </td></tr>
+<tr>
+<th scope="row" class="plainlist"><a href="/wiki/URL" title="URL">URL</a></th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q595181$0531E764-048F-4315-8B54-C1035ACA7A0D" class="wikidata-claim" data-wikidata-property-id="P856"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://www.gazeta.ru/">gazeta.ru</a>&#160;<span class="ref-info" title="на русском языке" style="cursor:help;">(рус.)</span></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Тип сайта</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q595181$E23C81F1-193E-4A71-BC6E-1B23DE1E28D2" class="wikidata-claim" data-wikidata-property-id="P31&#91;!Q35127&#93;"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%B8%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5" title="Интернет-издание">интернет-издание</a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Регистрация</th>
+<td class="plainlist">
+<a href="/wiki/21_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F" title="21 апреля">21 апреля</a> <a href="/wiki/1998_%D0%B3%D0%BE%D0%B4" title="1998 год">1998</a></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Язык</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q595181$52957570-A847-40C4-8A35-4AE99FCAE3D5" class="wikidata-claim" data-wikidata-property-id="P407&#91;!Q20923490&#93;"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Русский язык">русский</a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Владелец</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q595181$25682B6E-9540-4822-906C-E578AF7CA166" class="wikidata-claim" data-wikidata-property-id="P127"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/Rambler%26Co" title="Rambler&amp;Co">Rambler&amp;Co</a></span><sup id="cite&#95;ref-&#95;5462ba8b93f70183&#95;1-0" class="reference"><a href="#cite_note-_5462ba8b93f70183-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Создатель</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q595181$2b09cd75-45e5-daf8-edf6-9f9996470151" class="wikidata-claim" data-wikidata-property-id="P112"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9D%D0%BE%D1%81%D0%B8%D0%BA,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD_%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D0%B8%D1%87" title="Носик, Антон Борисович">Антон Носик</a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Главный редактор</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q595181$1C898AB2-0378-4CB3-AA52-6B40B5B87BCF" class="wikidata-claim" data-wikidata-property-id="P5769"><span class="wikidata-snak wikidata-main-snak"><style data-mw-deduplicate="TemplateStyles:r138326222">.mw-parser-output .ts-Wikidata-redLink a{background:none;padding:0}.mw-parser-output .ts-Wikidata-redLink a.external{color:#ba0000;color:var(--color-link-red,#ba0000)}.mw-parser-output .ts-Wikidata-redLink a.external:visited{color:#a55858;color:var(--color-link-red--visited,#a55858)}</style><span class="ts-Wikidata-redLink plainlinks"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%98%D1%80%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B8%D0%B3%D0%BE%D0%B2%D0%B0&amp;action=edit&amp;editintro=T:Нет_статьи/editintro&amp;preload=T:Нет_статьи/preload&amp;preloadparams%5B%5D=Q117845755&amp;preloadparams%5B%5D=%D0%98%D1%80%D0%B8%D0%BD%D0%B0+%D0%A1%D0%B8%D0%B3%D0%BE%D0%B2%D0%B0&amp;preloadparams%5B%5D=%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0">Ирина Сигова</a></span><sup class="noprint"><a href="https://www.wikidata.org/wiki/Q117845755#sitelinks-wikipedia" class="extiw" title="d:Q117845755"><span>[вд]</span></a></sup></span><sup id="cite&#95;ref-&#95;065ad76444b9af37&#95;2-0" class="reference"><a href="#cite_note-_065ad76444b9af37-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Начало работы</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P571" class="no-wikidata">февраль <a href="/wiki/1999_%D0%B3%D0%BE%D0%B4" title="1999 год">1999</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Страна</th>
+<td class="plainlist">
+<ul><li><span data-wikidata-claim-id="Q595181$BFCA7512-7B5E-4572-A48B-163D310119D9" class="wikidata-claim" data-wikidata-property-id="P17"><span class="mw-image-border" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/20px-Flag_of_Russia.svg.png" decoding="async" width="20" height="13" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/40px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" /></span></span>&#160;<span class="country-name"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия">Россия</a></span></span></span></li></ul></td>
+</tr><tr><td colspan="2" class="infobox-below" style=";"><span data-wikidata-claim-id="Q595181$73614ccf-4069-fd4a-d712-2926c1fab730" class="wikidata-claim" data-wikidata-property-id="P373"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File"><a href="https://commons.wikimedia.org/wiki/Category:Gazeta.ru" title="commons:Category:Gazeta.ru"><img alt="Логотип Викисклада" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png" decoding="async" width="15" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></span>&#160;<a href="https://commons.wikimedia.org/wiki/Category:Gazeta.ru" class="extiw" title="commons:Category:Gazeta.ru">Медиафайлы на Викискладе</a></span></span></td></tr>
+</tbody></table>
+<p><b>«Газета.ru»</b>&#160;— российское общественно-политическое <a href="/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%B8%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5" title="Интернет-издание">интернет-издание</a>, основанное в 1998 году. Круглосуточно освещает российские и мировые новости. Входит в группу компаний <a href="/wiki/Rambler%26Co" title="Rambler&amp;Co">Rambler&amp;Co</a><sup id="cite&#95;ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>Согласно данным <a href="/wiki/LiveInternet" title="LiveInternet">LiveInternet</a><sup id="cite&#95;ref-LiveInternet&#95;4-0" class="reference"><a href="#cite_note-LiveInternet-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>, «Газета.ru» входила в Топ-10 самых посещаемых ресурсов <a href="/wiki/%D0%A0%D1%83%D0%BD%D0%B5%D1%82" title="Рунет">Рунета</a> в категории «Новости и СМИ». По сообщению «<a href="/wiki/%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Медиалогия">Медиалогии</a>», в ноябре 2014 года «Газета.ru» вошла в тройку самых цитируемых новостных ресурсов страны<sup id="cite&#95;ref-autogenerated1&#95;5-0" class="reference"><a href="#cite_note-autogenerated1-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#История"><span class="tocnumber">1</span> <span class="toctext">История</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Колумнисты"><span class="tocnumber">2</span> <span class="toctext">Колумнисты</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Проекты_издания"><span class="tocnumber">3</span> <span class="toctext">Проекты издания</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Награды_и_юбилеи"><span class="tocnumber">4</span> <span class="toctext">Награды и юбилеи</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Достижения"><span class="tocnumber">5</span> <span class="toctext">Достижения</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Блокировки"><span class="tocnumber">6</span> <span class="toctext">Блокировки</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Главные_редакторы"><span class="tocnumber">7</span> <span class="toctext">Главные редакторы</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Критика"><span class="tocnumber">8</span> <span class="toctext">Критика</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Примечания"><span class="tocnumber">9</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Ссылки"><span class="tocnumber">10</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+
+<div class="mw-heading mw-heading2"><h2 id="История"><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F"></span>История</h2><span class="mw-editsection">
+<a role="button" href="/w/index.php?title=%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru&amp;action=edit&amp;section=1" title="Редактировать раздел «История»" class="cdx-button cdx-button--size-large cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--icon-only cdx-button--weight-quiet ">
+    <span class="minerva-icon minerva-icon--edit"></span>
+<span>править</span>
+</a>
+
+</span>
+
+</div>
+<p><a href="/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%B8%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5" title="Интернет-издание">Интернет-издание</a> с названием «Газета.ру» начало работу в феврале 1999&#160;года как проект <a href="/wiki/%D0%A4%D0%BE%D0%BD%D0%B4_%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B9_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B8" title="Фонд эффективной политики">Фонда эффективной политики</a> (ФЭПа) под руководством <a href="/wiki/%D0%9D%D0%BE%D1%81%D0%B8%D0%BA,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD_%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D0%B8%D1%87" title="Носик, Антон Борисович">Антона Носика</a><sup id="cite&#95;ref-zero&#95;6-0" class="reference"><a href="#cite_note-zero-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup> с дизайном <a href="/wiki/%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2,_%D0%90%D1%80%D1%82%D0%B5%D0%BC%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" title="Лебедев, Артемий Андреевич">Артемия Лебедева</a><sup id="cite&#95;ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup> при финансировании компании <a href="/wiki/%D0%AE%D0%9A%D0%9E%D0%A1" title="ЮКОС">ЮКОС</a>. ФЭП, известный затем по работе над кампанией Владимира Путина, занимался развитием русскоязычных средств массовой информации и осваивал Интернет как новую вещательную площадку, поэтому глава ФЭПа <a href="/wiki/%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9,_%D0%93%D0%BB%D0%B5%D0%B1_%D0%9E%D0%BB%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D1%87" title="Павловский, Глеб Олегович">Глеб Павло́вский</a> был озадачен созданием таких СМИ и самолично придумал название «Газета.ру», выкупил домен у предыдущих владельцев за тысячу долларов США и оформил на себя<sup id="cite&#95;ref-8" class="reference"><a href="#cite_note-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup>. В сентябре 1999&#160;года компания ЮКОС решила организовать под этим же названием новое издание, руководителем которого был назначен <a href="/wiki/%D0%91%D0%BE%D1%80%D0%BE%D0%B4%D1%83%D0%BB%D0%B8%D0%BD,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2_%D0%93%D0%B5%D0%BD%D0%BD%D0%B0%D0%B4%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Бородулин, Владислав Геннадьевич">Владислав Бородулин</a> (Антон Носик отказался работать с «ЮКОСом»: <i>«изнутри „ЮКОС“, точнее, его недобывающее подразделение, представлял собой классическое советское министерство, с интригами и подсиживаниями»</i><sup id="cite&#95;ref-9" class="reference"><a href="#cite_note-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>; <a href="/wiki/%D0%9A%D1%83%D0%B7%D0%BD%D0%B5%D1%86%D0%BE%D0%B2,_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Кузнецов, Сергей Юрьевич">С. Кузнецов</a> уточняет: <i>«Носик рассказывал, что на каком-то этапе шли переговоры о передаче домена вместе с редакцией, но Антона якобы отпугнула юкосовская бюрократия и анкета на шести листах, которую его попросили заполнить. Вернувшись с переговоров, Антон говорил, что почувствовал себя в атмосфере советского учреждения, и восклицал, что нет таких денег, за которые он согласится вернуться в Советский Союз»</i><sup id="cite&#95;ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup>). Редакция первого издания в течение первых двух недель помогала работать новой команде<sup id="cite&#95;ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup>, при этом запуская на базе ФЭПа два новых проекта в сфере интернет-журналистики: «<a href="/wiki/%D0%9B%D0%B5%D0%BD%D1%82%D0%B0.%D1%80%D1%83" class="mw-redirect" title="Лента.ру">Ленту.ру</a>» и «<a href="/wiki/%D0%92%D0%B5%D1%81%D1%82%D0%B8.%D1%80%D1%83" title="Вести.ру">Вести.ру</a>»<sup id="cite&#95;ref-12" class="reference"><a href="#cite_note-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>В 1998&#160;году Владислав Бородулин покинул пост редактора еженедельника «<a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%81%D0%B0%D0%BD%D1%82%D1%8A-%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C" title="Коммерсантъ-Власть">Коммерсантъ-Власть</a>» после конфликта с шеф-редактором <a href="/wiki/%D0%A8%D0%B0%D0%BA%D0%B8%D1%80%D0%BE%D0%B2,_%D0%A0%D0%B0%D1%84_%D0%A1%D0%B0%D0%BB%D0%B8%D1%85%D0%BE%D0%B2%D0%B8%D1%87" title="Шакиров, Раф Салихович">Рафом Шакировым</a>. Причиной стала его статья «15&#160;млрд долларов потеряла Россия благодаря Примакову», в которой речь шла о последствиях скандального «разворота над Атлантикой» и отмены визита премьер-министра Российской Федерации <a href="/wiki/%D0%9F%D1%80%D0%B8%D0%BC%D0%B0%D0%BA%D0%BE%D0%B2,_%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9_%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%BE%D0%B2%D0%B8%D1%87" title="Примаков, Евгений Максимович">Евгения Примакова</a> в США<sup id="cite&#95;ref-13" class="reference"><a href="#cite_note-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup>. Эта статья была по горячим следам переопубликована интернет-сайтом «Газета.ru», а в сентябре 1999&#160;года Бородулин стал его главным редактором. При этом сам Владислав Бородулин считает, что «уход из „Ъ“ и приход в „Газету“&#160;— стояли рядом, но не были причиной и следствием»<sup id="cite&#95;ref-14" class="reference"><a href="#cite_note-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>До 2005&#160;года 100&#160;% акций издания принадлежали Владиславу Бородулину, который в ноябре 2005&#160;года продал их издательскому дому «<a href="/wiki/%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82_%D1%84%D0%B8%D1%80%D0%BC%D1%8B" title="Секрет фирмы">Секрет фирмы</a>». В 2006&#160;году предприниматель <a href="/wiki/%D0%A3%D1%81%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2,_%D0%90%D0%BB%D0%B8%D1%88%D0%B5%D1%80_%D0%91%D1%83%D1%80%D1%85%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Усманов, Алишер Бурханович">Алишер Усманов</a> купил за 50&#160;млн долларов США издательский дом «Секрет фирмы», а в июне 2008&#160;года ИД «<a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%81%D0%B0%D0%BD%D1%82%D1%8A_(%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%BE%D0%BC)" title="Коммерсантъ (издательский дом)">Коммерсантъ</a>» и владельцы компании «СУП» произвели обмен активами. «Коммерсантъ» получил до 50&#160;% «СУПа». В свою очередь, «СУП» стал владельцем 100&#160;% «Газеты.ru».
+</p><p>Перед <a href="/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%83%D1%8E_%D0%B4%D1%83%D0%BC%D1%83_(2011)" title="Выборы в Государственную думу (2011)">думскими выборами</a> 2011&#160;года пост заместителя главного редактора «Газеты.ru» покинул <a href="/wiki/%D0%91%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD,_%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" title="Баданин, Роман Сергеевич">Роман Баданин</a>. Причиной увольнения стало решение руководства издания снять с сайта баннер совместного проекта с правозащитной организацией «Голос», в рамках которого читатели сообщали о нарушениях в ходе избирательной кампании. Главный редактор Михаил Котов объяснил решение снять баннер коммерческими соображениями, сказав, что место освобождали под рекламу. Глава ИД «Коммерсантъ» Демьян Кудрявцев (в то время «Газета» входила с ИД в общий холдинг) говорил, что конфликт произошел из-за отказа Баданина ставить на сайт рекламу «<a href="/wiki/%D0%95%D0%B4%D0%B8%D0%BD%D0%B0%D1%8F_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Единая Россия">Единой России</a>»<sup id="cite&#95;ref-M&#95;15-0" class="reference"><a href="#cite_note-M-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>После выборов 2012&#160;года холдинг SUP Media, владевший «Газетой.ru», полностью перешел предпринимателю Александру Мамуту. В марте 2013&#160;года издание покинул Михаил Котов, его заменила Светлана Лолаева, работавшая в «Газете.ru» с 2007&#160;года. Через несколько месяцев владельцы «Газеты.Ru» решили заменить её на бывшую сотрудницу «Известий» и РИА «Новости» Светлану Бабаеву. К сентябрю 2013&#160;года, когда «Газету.ru» возглавила Бабаева, в издании почти полностью сменился отдел политики и ушли многие сотрудники, освещавшие избирательные кампании 2011 и <a href="/wiki/%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_(2012)" title="Президентские выборы в России (2012)">2012&#160;годов</a><sup id="cite&#95;ref-M&#95;15-1" class="reference"><a href="#cite_note-M-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>В декабре 2014&#160;года «Газета.ru» запустила новую версию мобильного сайта<sup id="cite&#95;ref-16" class="reference"><a href="#cite_note-16"><span class="cite-bracket">&#91;</span>16<span class="cite-bracket">&#93;</span></a></sup>. По данным <a href="/wiki/Alexa_Internet" title="Alexa Internet">Alexa.com</a> за 2014&#160;год, «Газета.ru» также входила в Топ-50 самых популярных сайтов Рунета<sup id="cite&#95;ref-17" class="reference"><a href="#cite_note-17"><span class="cite-bracket">&#91;</span>17<span class="cite-bracket">&#93;</span></a></sup> и в 1000 самых популярных ресурсов мирового интернета<sup id="cite&#95;ref-autogenerated2&#95;18-0" class="reference"><a href="#cite_note-autogenerated2-18"><span class="cite-bracket">&#91;</span>18<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Колумнисты"><span id=".D0.9A.D0.BE.D0.BB.D1.83.D0.BC.D0.BD.D0.B8.D1.81.D1.82.D1.8B"></span>Колумнисты</h2><span class="mw-editsection">
+<a role="button" href="/w/index.php?title=%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru&amp;action=edit&amp;section=2" title="Редактировать раздел «Колумнисты»" class="cdx-button cdx-button--size-large cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--icon-only cdx-button--weight-quiet ">
+    <span class="minerva-icon minerva-icon--edit"></span>
+<span>править</span>
+</a>
+
+</span>
+
+</div>
+<p>В ноябре 1999 года в «Газете.ru» запустился раздел «Публицистика». Как это происходило, вспоминает один из первых журналистов издания, бывший главный редактор «Газеты.Ru» Михаил Котов:
+</p><p>«Влад Бородулин пригласил Андрея Гришковца в „Газету.ru“ делать раздел „Публицистика“. Дело в том, что Гришковец работал в „Коммерсанте“ с так называемыми „золотыми перьями“, очень мощным отделом спецкоров: <a href="/wiki/%D0%9A%D0%B0%D0%B1%D0%B0%D0%BA%D0%BE%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D0%B1%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B8%D1%87" title="Кабаков, Александр Абрамович">Александром Кабаковым</a>, <a href="/wiki/%D0%93%D0%B5%D0%B2%D0%BE%D1%80%D0%BA%D1%8F%D0%BD,_%D0%9D%D0%B0%D1%82%D0%B0%D0%BB%D0%B8%D1%8F_%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0" title="Геворкян, Наталия Павловна">Наталией Геворкян</a>, <a href="/wiki/%D0%9F%D1%8C%D1%8F%D0%BD%D1%8B%D1%85,_%D0%93%D0%BB%D0%B5%D0%B1_%D0%92%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Пьяных, Глеб Валентинович">Глебом Пьяных</a>, <a href="/wiki/%D0%A1%D0%B2%D0%B8%D0%BD%D0%B0%D1%80%D0%B5%D0%BD%D0%BA%D0%BE,_%D0%98%D0%B3%D0%BE%D1%80%D1%8C_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87" title="Свинаренко, Игорь Николаевич">Игорем Свинаренко</a>, <a href="/wiki/%D0%94%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2,_%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D0%B9_%D0%94%D0%B6%D0%B5%D0%BC%D1%81%D0%BE%D0%B2%D0%B8%D1%87" title="Дранников, Валерий Джемсович">Валерием Дранниковым</a>, <a href="/wiki/%D0%9A%D0%BE%D0%BB%D0%B5%D1%81%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2,_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Колесников, Андрей Иванович">Андреем Колесниковым</a>, <a href="/wiki/%D0%9F%D0%B0%D0%BD%D1%8E%D1%88%D0%BA%D0%B8%D0%BD,_%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D0%B9_%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Панюшкин, Валерий Валерьевич">Валерием Панюшкиным</a>… И у Бородулина была идея, чтобы эти известные фигуры в журналистике, люди с именами, стали писать колонки в „Газету.ru“. Андрей начал договариваться с авторами. Кроме „коммерсантовцев“ были, конечно, и другие. Например, у нас была опубликована колонка <a href="/wiki/%D0%A1%D1%82%D1%80%D1%83%D0%B3%D0%B0%D1%86%D0%BA%D0%B8%D0%B9,_%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%9D%D0%B0%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Стругацкий, Борис Натанович">Бориса Стругацкого</a>. И она не была бы последней, если бы мы решили физическую проблему отправки ему гонораров в Питер… Ещё колонки писали <a href="/wiki/%D0%9C%D1%83%D1%80%D1%81%D0%B0%D0%BB%D0%B8%D0%B5%D0%B2,_%D0%90%D0%B7%D0%B5%D1%80_%D0%90%D1%80%D0%B8%D1%84%D0%BE%D0%B2%D0%B8%D1%87" title="Мурсалиев, Азер Арифович">Азер Мурсалиев</a>, <a href="/wiki/%D0%93%D0%BE%D1%80%D0%B8%D0%BD,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D0%B5%D0%B2%D0%B8%D1%87" title="Горин, Григорий Израилевич">Григорий Горин</a>, позже появился поэт-правдоруб <a href="/wiki/%D0%98%D1%80%D1%82%D0%B5%D0%BD%D1%8C%D0%B5%D0%B2,_%D0%98%D0%B3%D0%BE%D1%80%D1%8C_%D0%9C%D0%BE%D0%B8%D1%81%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" title="Иртеньев, Игорь Моисеевич">Игорь Иртеньев</a>… „Публицистика“ фактически превратилась в рубрику с колонками&#160;— в ней выходил один материал в день»<sup id="cite&#95;ref-pervyi&#95;maket&#95;19-0" class="reference"><a href="#cite_note-pervyi_maket-19"><span class="cite-bracket">&#91;</span>19<span class="cite-bracket">&#93;</span></a></sup><style data-mw-deduplicate="TemplateStyles:r141254988">.mw-parser-output .ts-fix-template{font-style:normal;font-weight:normal;white-space:nowrap}.mw-parser-output .ts-fix-error{font-size:inherit}@media screen{.mw-parser-output .ts-fix-text{border:1px solid var(--border-color-base,#a2a9b1);box-decoration-break:clone;margin:0 -0.1em;padding:0 0.1em;transition:background 0.1s}.mw-parser-output .ts-fix-text:hover{background:#fee7e6}html.skin-theme-clientpref-night .mw-parser-output .ts-fix-text:hover{background:#4f1312}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .ts-fix-text:hover{background:#4f1312}}@media screen and (hover:hover){.mw-parser-output .ts-fix-comment,.mw-parser-output .ts-fix-commented>a:not(:hover){border-bottom:1px dotted;text-decoration:none}}</style><sup class="ts-fix-template noprint">&#91;<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8#ВП:АИ#ПИ" title="Википедия:Авторитетные источники"><span title="утверждение по контексту основано на первичном источнике, требуется непервичный">первичный источник</span></a></i>&#93;</sup>.
+</p><p>В их число колумнистов входили Наталия Осс<sup id="cite&#95;ref-20" class="reference"><a href="#cite_note-20"><span class="cite-bracket">&#91;</span>20<span class="cite-bracket">&#93;</span></a></sup>, <a href="/wiki/%D0%94%D0%BE%D0%BB%D0%B8%D0%BD,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Долин, Антон Владимирович">Антон Долин</a><sup id="cite&#95;ref-21" class="reference"><a href="#cite_note-21"><span class="cite-bracket">&#91;</span>21<span class="cite-bracket">&#93;</span></a></sup>, <a href="/wiki/%D0%9A%D0%B8%D1%81%D0%B5%D0%BB%D1%91%D0%B2,_%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" title="Киселёв, Евгений Алексеевич">Евгений Киселёв</a>, <a href="/wiki/%D0%9B%D1%83%D0%BA%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2,_%D0%A4%D1%91%D0%B4%D0%BE%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Лукьянов, Фёдор Александрович">Фёдор Лукьянов</a><sup id="cite&#95;ref-22" class="reference"><a href="#cite_note-22"><span class="cite-bracket">&#91;</span>22<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Проекты_издания"><span id=".D0.9F.D1.80.D0.BE.D0.B5.D0.BA.D1.82.D1.8B_.D0.B8.D0.B7.D0.B4.D0.B0.D0.BD.D0.B8.D1.8F"></span>Проекты издания</h2><span class="mw-editsection">
+<a role="button" href="/w/index.php?title=%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru&amp;action=edit&amp;section=3" title="Редактировать раздел «Проекты издания»" class="cdx-button cdx-button--size-large cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--icon-only cdx-button--weight-quiet ">
+    <span class="minerva-icon minerva-icon--edit"></span>
+<span>править</span>
+</a>
+
+</span>
+
+</div>
+<p>По словам Михаила Котова, в «Газете.ru» впервые появились онлайн-интервью, начало которым положило интервью с президентом России <a href="/wiki/%D0%9F%D1%83%D1%82%D0%B8%D0%BD,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Путин, Владимир Владимирович">Владимиром Путиным</a> в 2001 году<sup id="cite&#95;ref-pervyi&#95;maket&#95;19-1" class="reference"><a href="#cite_note-pervyi_maket-19"><span class="cite-bracket">&#91;</span>19<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>В последние<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r141254988" /><sup class="ts-fix-template">&#91;<i><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D0%B5%D0%B3%D0%B0%D0%B9%D1%82%D0%B5_%D0%BD%D0%B5%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2%D1%8B%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9" title="Википедия:Избегайте неопределённых выражений">какие?</a></i>&#93;</sup> годы на сайте издания стали активно развиваться спецпроекты. В ноябре 2014 года «Газета.ru» запустила специальный проект, посвященный годовщине «<a href="/wiki/%D0%95%D0%B2%D1%80%D0%BE%D0%BC%D0%B0%D0%B9%D0%B4%D0%B0%D0%BD" title="Евромайдан">евромайдана</a>»<sup id="cite&#95;ref-23" class="reference"><a href="#cite_note-23"><span class="cite-bracket">&#91;</span>23<span class="cite-bracket">&#93;</span></a></sup>. Над спецпроектом «Газета.Ru» работала совместно со студией инфографики группы компаний «Rambler &amp; Co».
+</p><p>«Мы были под сильным впечатлением от фотографий с „майдана“, когда все это происходило. И идея сделать акцент на крупные изображения возникла с самого начала проекта. Мы попробовали переупаковать „лонгрид“ в мультимедийное слайд-шоу,&#160;— говорит дизайн-директор студии „Рамблер Инфографика“ Василий Шихачевский.&#160;— Первая версия, содержавшая преимущественно фотографии, показалась нам „сухой“, тогда появились анимированные кадры и просто несложные анимации статичных фотографий, чтобы разнообразить повествование. Всю изобразительную часть мы сознательно делали более спокойной, так как основной контент (фото и видео, в первую очередь) нам кажется достаточно интересным сам по себе»<sup id="cite&#95;ref-24" class="reference"><a href="#cite_note-24"><span class="cite-bracket">&#91;</span>24<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>Совместные спецпроекты «Газеты.Ru» и «Рамблер Инфографики» были посвящены 10-летию <a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BA%D1%82_%D0%B2_%D0%91%D0%B5%D1%81%D0%BB%D0%B0%D0%BD%D0%B5" title="Террористический акт в Беслане">трагедии в Беслане</a><sup id="cite&#95;ref-25" class="reference"><a href="#cite_note-25"><span class="cite-bracket">&#91;</span>25<span class="cite-bracket">&#93;</span></a></sup>, <a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D0%B0%D1%8F_%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0" title="Первая мировая война">Первой мировой войне</a><sup id="cite&#95;ref-26" class="reference"><a href="#cite_note-26"><span class="cite-bracket">&#91;</span>26<span class="cite-bracket">&#93;</span></a></sup> и 15-летию пребывания Владимира Путина у власти<sup id="cite&#95;ref-27" class="reference"><a href="#cite_note-27"><span class="cite-bracket">&#91;</span>27<span class="cite-bracket">&#93;</span></a></sup>. Последний представлен в формате лонгрида с использованием мультимедийного контента, который подаётся с эффектом асинхронного движения фона. В профессиональной среде его также называют «параллакс-сайт» или «скролл-сайт».
+</p><p>В мае 2016 года были запущены видеопроекты «Чайная Партия» и «7 минут с <a href="/wiki/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE,_%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B0%D1%80%D0%B4%D0%BE%D0%B2%D0%B8%D1%87" title="Шевченко, Максим Леонардович">Максимом Шевченко</a>». Ведущими первой программы стали колумнист издания Георгий Бовт и специальный корреспондент уральского интернет-издания «<a href="/wiki/Znak.com" title="Znak.com">Znak.com</a>» <a href="/wiki/%D0%92%D0%B8%D0%BD%D0%BE%D0%BA%D1%83%D1%80%D0%BE%D0%B2%D0%B0,_%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%BD%D0%B0" title="Винокурова, Екатерина Владимировна">Екатерина Винокурова</a>, покинувшая «Газету.ru» в 2013 году после увольнения Светланы Лолаевой, обсуждающие прошедшие события в жанре <a href="/wiki/%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B0" title="Сатира">сатиры</a><sup id="cite&#95;ref-28" class="reference"><a href="#cite_note-28"><span class="cite-bracket">&#91;</span>28<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Награды_и_юбилеи"><span id=".D0.9D.D0.B0.D0.B3.D1.80.D0.B0.D0.B4.D1.8B_.D0.B8_.D1.8E.D0.B1.D0.B8.D0.BB.D0.B5.D0.B8"></span>Награды и юбилеи</h2><span class="mw-editsection">
+<a role="button" href="/w/index.php?title=%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru&amp;action=edit&amp;section=4" title="Редактировать раздел «Награды и юбилеи»" class="cdx-button cdx-button--size-large cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--icon-only cdx-button--weight-quiet ">
+    <span class="minerva-icon minerva-icon--edit"></span>
+<span>править</span>
+</a>
+
+</span>
+
+</div>
+<p>В 2009 году в честь своего 10-летия на сайте «Газеты.ru» был опубликован спецвыпуск, посвященный истории проекта<sup id="cite&#95;ref-29" class="reference"><a href="#cite_note-29"><span class="cite-bracket">&#91;</span>29<span class="cite-bracket">&#93;</span></a></sup>. В том же году «Газета.Ru» была признана лучшим деловым средством массовой информации на Всероссийском конкурсе деловой журналистики <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D1%8E%D0%B7_%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%B8_%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Российский союз промышленников и предпринимателей">РСПП</a>. В 2010 году «Газета.Ru» получила награду Всероссийского конкурса деловой журналистики РСПП в номинации «Рубрика года» (за рубрику «Комментарии»)<sup id="cite&#95;ref-30" class="reference"><a href="#cite_note-30"><span class="cite-bracket">&#91;</span>30<span class="cite-bracket">&#93;</span></a></sup>. В 2014 году вышел спецпроект к 15-летию «Газеты.ru»<sup id="cite&#95;ref-31" class="reference"><a href="#cite_note-31"><span class="cite-bracket">&#91;</span>31<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Достижения"><span id=".D0.94.D0.BE.D1.81.D1.82.D0.B8.D0.B6.D0.B5.D0.BD.D0.B8.D1.8F"></span>Достижения</h2><span class="mw-editsection">
+<a role="button" href="/w/index.php?title=%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru&amp;action=edit&amp;section=5" title="Редактировать раздел «Достижения»" class="cdx-button cdx-button--size-large cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--icon-only cdx-button--weight-quiet ">
+    <span class="minerva-icon minerva-icon--edit"></span>
+<span>править</span>
+</a>
+
+</span>
+
+</div>
+<p>В 2014 году ежемесячная аудитория сайта в среднем насчитывала более 18&#160;млн уникальных посетителей. Согласно открытым данным, рекордный трафик издания был зафиксирован в марте 2014 года&#160;— за месяц сайт газеты посетили более 20&#160;млн человек. В 2014 году «Газета.ru» входила в первую тройку самых цитируемых интернет-ресурсов<sup id="cite&#95;ref-autogenerated1&#95;5-1" class="reference"><a href="#cite_note-autogenerated1-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>. Согласно исследованию <a href="/wiki/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81" title="Яндекс">Яндекса</a><sup id="cite&#95;ref-32" class="reference"><a href="#cite_note-32"><span class="cite-bracket">&#91;</span>32<span class="cite-bracket">&#93;</span></a></sup>, «Газета.Ru» вошла в Топ-10 российских СМИ, на которые чаще всего ссылались, и в Топ-10 российских СМИ, лидирующих по числу ежедневных публикаций. «Газета.ru» также входит в Топ-10 самых посещаемых ресурсов Рунета в категории «Новости и СМИ»<sup id="cite&#95;ref-LiveInternet&#95;4-1" class="reference"><a href="#cite_note-LiveInternet-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup><sup id="cite&#95;ref-33" class="reference"><a href="#cite_note-33"><span class="cite-bracket">&#91;</span>33<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Блокировки"><span id=".D0.91.D0.BB.D0.BE.D0.BA.D0.B8.D1.80.D0.BE.D0.B2.D0.BA.D0.B8"></span>Блокировки</h2><span class="mw-editsection">
+<a role="button" href="/w/index.php?title=%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru&amp;action=edit&amp;section=6" title="Редактировать раздел «Блокировки»" class="cdx-button cdx-button--size-large cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--icon-only cdx-button--weight-quiet ">
+    <span class="minerva-icon minerva-icon--edit"></span>
+<span>править</span>
+</a>
+
+</span>
+
+</div>
+<p>25 июня 2013 года в Ульяновске по решению прокуратуры интернет-провайдер «<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC" title="Ростелеком">Ростелеком</a>» заблокировал сайт «Газета.ru»<sup id="cite&#95;ref-34" class="reference"><a href="#cite_note-34"><span class="cite-bracket">&#91;</span>34<span class="cite-bracket">&#93;</span></a></sup>, как содержащий «информацию о способах дачи взяток, об обстоятельствах, при которых необходимо давать взятку, а также о способах уклонения от уголовной ответственности за дачу взятки». При этом на судебное заседание никто из представителей «Газеты.ru» приглашён не был, а о самом решении редакция сайта узнала от своих читателей. Также отмечается, что в этом решении не указаны ссылки на конкретные материалы, якобы пропагандирующие коррупцию.
+</p><p>Несколько раз ресурс был заблокирован операторами связи из-за технических ошибок. 17 февраля 2014 года пользователи «<a href="/wiki/%D0%91%D0%B8%D0%BB%D0%B0%D0%B9%D0%BD" title="Билайн">Билайна</a>» испытали сложности с доступом к сайту «Газеты.ru». По версии оператора связи, неполадки были вызваны высокой нагрузкой на технических платформах<sup id="cite&#95;ref-35" class="reference"><a href="#cite_note-35"><span class="cite-bracket">&#91;</span>35<span class="cite-bracket">&#93;</span></a></sup>. 25 июля 2014 года доступ к «Газете.ru» был заблокирован у нижегородских пользователей провайдера «Ростелеком». Блокировка произошла из-за модернизации оборудования, используемого для фильтрации контента<sup id="cite&#95;ref-36" class="reference"><a href="#cite_note-36"><span class="cite-bracket">&#91;</span>36<span class="cite-bracket">&#93;</span></a></sup>. 26 июня 2014 года, также из-за технической ошибки «Ростелекома», доступ к «Газете.Ru» по всему миру был ограничен в течение часа<sup id="cite&#95;ref-37" class="reference"><a href="#cite_note-37"><span class="cite-bracket">&#91;</span>37<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Главные_редакторы"><span id=".D0.93.D0.BB.D0.B0.D0.B2.D0.BD.D1.8B.D0.B5_.D1.80.D0.B5.D0.B4.D0.B0.D0.BA.D1.82.D0.BE.D1.80.D1.8B"></span>Главные редакторы</h2><span class="mw-editsection">
+<a role="button" href="/w/index.php?title=%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru&amp;action=edit&amp;section=7" title="Редактировать раздел «Главные редакторы»" class="cdx-button cdx-button--size-large cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--icon-only cdx-button--weight-quiet ">
+    <span class="minerva-icon minerva-icon--edit"></span>
+<span>править</span>
+</a>
+
+</span>
+
+</div>
+<ul><li><a href="/wiki/%D0%9D%D0%BE%D1%81%D0%B8%D0%BA,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD_%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D0%B8%D1%87" title="Носик, Антон Борисович">Антон Носик</a> (gazeta.lenta.ru)&#160;— с февраля по сентябрь 1999 года.</li>
+<li><a href="/wiki/%D0%91%D0%BE%D1%80%D0%BE%D0%B4%D1%83%D0%BB%D0%B8%D0%BD,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2_%D0%93%D0%B5%D0%BD%D0%BD%D0%B0%D0%B4%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Бородулин, Владислав Геннадьевич">Владислав Бородулин</a>&#160;— с сентября 1999 года по июль 2005 года.</li>
+<li>Александр Писарев&#160;— с июля 2005 года по март 2006 года.</li>
+<li><a href="/wiki/%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%B8%D0%BD,_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Михайлин, Михаил Анатольевич">Михаил Михайлин</a>&#160;— с января 2006 года по июль 2010 года.</li>
+<li><a href="/wiki/%D0%9A%D0%BE%D1%82%D0%BE%D0%B2,_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Котов, Михаил Юрьевич">Михаил Котов</a>&#160;— с июля 2010 года по март 2013 года.</li>
+<li><a href="/w/index.php?title=%D0%9B%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B0,_%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B0%D0%BD%D0%B0_%D0%9F%D0%B0%D1%80%D0%B8%D0%B6%D0%B5%D0%B2%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Лолаева, Светлана Парижевна (страница отсутствует)">Светлана Лолаева</a>&#160;— с марта по сентябрь 2013 года<sup id="cite&#95;ref-38" class="reference"><a href="#cite_note-38"><span class="cite-bracket">&#91;</span>38<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li><a href="/w/index.php?title=%D0%91%D0%B0%D0%B1%D0%B0%D0%B5%D0%B2%D0%B0,_%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B0%D0%BD%D0%B0_%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Бабаева, Светлана Валерьевна (страница отсутствует)">Светлана Бабаева</a>&#160;— с сентября 2013 года по июль 2016 года.</li>
+<li><a href="/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D0%B0,_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B0_%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0" title="Алексеева, Ольга Валерьевна">Ольга Алексеева</a>&#160;— с июля 2016 по октябрь 2019 года.</li>
+<li><a href="/w/index.php?title=%D0%A0%D1%8B%D0%B1%D0%BA%D0%B0,_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;redlink=1" class="new" title="Рыбка, Сергей Владимирович (страница отсутствует)">Сергей Рыбка</a>&#160;— с октября 2019 по 25 апреля 2023.</li>
+<li>Ирина Сигова<sup id="cite&#95;ref-39" class="reference"><a href="#cite_note-39"><span class="cite-bracket">&#91;</span>39<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Критика"><span id=".D0.9A.D1.80.D0.B8.D1.82.D0.B8.D0.BA.D0.B0"></span>Критика</h2><span class="mw-editsection">
+<a role="button" href="/w/index.php?title=%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru&amp;action=edit&amp;section=8" title="Редактировать раздел «Критика»" class="cdx-button cdx-button--size-large cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--icon-only cdx-button--weight-quiet ">
+    <span class="minerva-icon minerva-icon--edit"></span>
+<span>править</span>
+</a>
+
+</span>
+
+</div>
+<p>Российский мезоамериканист <a href="https://www.wikidata.org/wiki/Q116633691" class="extiw" title="d:Q116633691">Дмитрий Беляев</a> критиковал в 2008 году материалы издания по тематике археологии доколумбовой Америки<sup id="cite&#95;ref-40" class="reference"><a href="#cite_note-40"><span class="cite-bracket">&#91;</span>40<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>В ноябре 2013 года в социальных сетях обратили внимание на материал «<a href="/wiki/%D0%9D%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Навальный, Алексей Анатольевич">Навальный</a> нашел terra incognita» о публикации политиком Алексеем Навальным о дачном кооперативе «Сосны», где проживает ряд членов партии «Единая Россия». В нём автор Наталья Галимова жаловалась на невозможность дозвониться до оппозиционных политологов, из-за чего в статье была представлена только точка зрения провластных деятелей<sup id="cite&#95;ref-41" class="reference"><a href="#cite_note-41"><span class="cite-bracket">&#91;</span>41<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>В феврале 2015 года освещавший <a href="/wiki/%D0%92%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BD%D1%84%D0%BB%D0%B8%D0%BA%D1%82_%D0%BD%D0%B0_%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D0%BA%D0%B5_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%8B" class="mw-redirect" title="Вооружённый конфликт на востоке Украины">вооружённый конфликт на востоке Украины</a> журналист <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i> <a href="/wiki/%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%9B%D0%BE%D0%B9%D0%BA%D0%BE" class="mw-redirect" title="Сергей Лойко">Сергей Лойко</a> опубликовал переписку с заместителем главного редактора «Газеты.ru» Петром Власовым. В ней российский медиаменеджер выражал угрозы физического характера, попутно обвиняя коллегу в работе на «хозяев в штатах»<sup id="cite&#95;ref-42" class="reference"><a href="#cite_note-42"><span class="cite-bracket">&#91;</span>42<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>31 марта 2015 года группа «<a href="/wiki/%D0%90%D0%BD%D0%BE%D0%BD%D0%B8%D0%BC%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB" title="Анонимный интернационал">Анонимный интернационал</a>» выложила для свободного скачивания СМС-переписку за 2011—2014 годы заместителя главы <a href="/wiki/%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Администрация президента России">Управления Президента Российской Федерации по внутренней политике</a> <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%BA%D0%BE%D0%BF%D0%B5%D0%BD%D0%BA%D0%BE,_%D0%A2%D0%B8%D0%BC%D1%83%D1%80_%D0%92%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Прокопенко, Тимур Валентинович">Тимура Прокопенко</a><sup id="cite&#95;ref-43" class="reference"><a href="#cite_note-43"><span class="cite-bracket">&#91;</span>43<span class="cite-bracket">&#93;</span></a></sup>. В одном из сообщений чиновник обращался к топ-менеджеру Рамблера <a href="/wiki/%D0%93%D0%BE%D1%80%D0%B5%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D0%BA%D0%B8%D0%B9,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" title="Гореславский, Алексей Сергеевич">Алексею Гореславскому</a>, а через него&#160;— к главреду «Газеты. Ru» Светлане Бабаевой с требованиями в срочном порядке отреагировать на критику <a href="/wiki/%D0%9E%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B_%D0%B2_%D0%A1%D0%BE%D1%87%D0%B8" class="mw-redirect" title="Олимпийские игры в Сочи">Олимпийских игр в России</a> со стороны <a href="/wiki/%D0%A8%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D0%BE%D0%B2%D0%B8%D1%87,_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Шендерович, Виктор Анатольевич">Виктора Шендеровича</a>. На следующий день «Газета. Ru» выпустила редакционный материал, начинавшийся словами «Поразительно, насколько интернет мешает рядовым россиянам безоглядно радоваться Олимпийским играм». В заметке обсуждалось, как несправедливо блогеры критикуют <a href="/wiki/%D0%9E%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B_%D0%B2_%D0%A1%D0%BE%D1%87%D0%B8" class="mw-redirect" title="Олимпийские игры в Сочи">Олимпийские игры в Сочи</a><sup id="cite&#95;ref-44" class="reference"><a href="#cite_note-44"><span class="cite-bracket">&#91;</span>44<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>В 2016 году обозреватель агентства <i><a href="/wiki/Bloomberg" title="Bloomberg">Bloomberg</a></i> <a href="/wiki/%D0%91%D0%B5%D1%80%D1%88%D0%B8%D0%B4%D1%81%D0%BA%D0%B8%D0%B9,_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87" title="Бершидский, Леонид Давидович">Леонид Бершидский</a> назвал «Газета.Ru» «<a href="/wiki/%D0%9F%D1%83%D1%82%D0%B8%D0%BD,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Путин, Владимир Владимирович">пропутинским</a> СМИ», действующим в интересах российских властей<sup id="cite&#95;ref-45" class="reference"><a href="#cite_note-45"><span class="cite-bracket">&#91;</span>45<span class="cite-bracket">&#93;</span></a></sup>. В 2022 году <a href="/wiki/The_Bell" title="The Bell">The Bell</a> причислял издание к пропагандистским медиа<sup id="cite&#95;ref-46" class="reference"><a href="#cite_note-46"><span class="cite-bracket">&#91;</span>46<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>В августе 2022 года издание <a href="/wiki/Meduza" title="Meduza">Meduza</a> опубликовало материал о подготовке <a href="/wiki/%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Администрация президента России">администрацией президента РФ</a> методичек для провластных СМИ и политиков, где рекомендуют проводить параллели между <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE-%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0" title="Российско-украинская война">войной с Украиной</a>, <a href="/wiki/%D0%9A%D1%80%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A0%D1%83%D1%81%D0%B8" title="Крещение Руси">крещением Руси</a> и <a href="/wiki/%D0%9D%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D1%82%D0%B2%D0%B0" title="Невская битва">Невской битвой</a>. К моменту выхода статьи на пользовании темником были пойманы сразу несколько провластных СМИ, включая Газету.Ru (попросту скопировавшую абзацы о «защите угнетаемых» и «борьбы с безбожниками» из пособия)<sup id="cite&#95;ref-47" class="reference"><a href="#cite_note-47"><span class="cite-bracket">&#91;</span>47<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Примечания"><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span>Примечания</h2><span class="mw-editsection">
+<a role="button" href="/w/index.php?title=%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru&amp;action=edit&amp;section=9" title="Редактировать раздел «Примечания»" class="cdx-button cdx-button--size-large cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--icon-only cdx-button--weight-quiet ">
+    <span class="minerva-icon minerva-icon--edit"></span>
+<span>править</span>
+</a>
+
+</span>
+
+</div>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite&#95;note-&#95;5462ba8b93f70183-1"><span class="mw-cite-backlink"><a href="#cite_ref-_5462ba8b93f70183_1-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.gazeta.ru/about/">https://www.gazeta.ru/about/</a><span class="wef&#95;low&#95;priority&#95;links"></span></span>
+</li>
+<li id="cite&#95;note-&#95;065ad76444b9af37-2"><span class="mw-cite-backlink"><a href="#cite_ref-_065ad76444b9af37_2-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.kommersant.ru/doc/5953579">https://www.kommersant.ru/doc/5953579</a><span class="wef&#95;low&#95;priority&#95;links"></span></span>
+</li>
+<li id="cite&#95;note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ru"><a rel="nofollow" class="external text" href="http://rambler-co.ru/">Rambler&amp;Co</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<span class="ref-info" title="на русском языке" style="cursor:help;">(рус.)</span></span>.&#32;Дата обращения: 4 ноября 2021.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20211103184827/https://rambler-co.ru/">Архивировано</a> 3 ноября 2021 года.</span></span>
+</li>
+<li id="cite&#95;note-LiveInternet-4"><span class="mw-cite-backlink">↑ <a href="#cite_ref-LiveInternet_4-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-LiveInternet_4-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="ru"><a rel="nofollow" class="external text" href="https://www.liveinternet.ru/rating/ru/media/#period=month;geo=ru;group=media;">Новости и СМИ (Россия) - Рейтинг сайтов</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<span class="ref-info" title="на русском языке" style="cursor:help;">(рус.)</span></span>.&#32;LiveInternet.&#32;Дата обращения: 4 ноября 2021.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20140605024023/http://www.liveinternet.ru/rating/ru/media/">Архивировано</a> 5 июня 2014 года.</span></span>
+</li>
+<li id="cite&#95;note-autogenerated1-5"><span class="mw-cite-backlink">↑ <a href="#cite_ref-autogenerated1_5-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-autogenerated1_5-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="ru"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150315025049/http://www.mlg.ru/ratings/federal_media">Рейтинги СМИ и интернет-ресурсов России. Все влиятельные российские СМИ в рейтинге цитируемости Медиалогии</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<span class="ref-info" title="на русском языке" style="cursor:help;">(рус.)</span></span>.&#32;Архивировано из <a rel="nofollow" class="external text" href="http://www.mlg.ru/ratings/federal_media/">оригинала</a> 15 марта 2015 года.</span></span>
+</li>
+<li id="cite&#95;note-zero-6"><span class="mw-cite-backlink"><a href="#cite_ref-zero_6-0">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ru"><a rel="nofollow" class="external text" href="http://15.gazeta.ru/articles/nulevoi_nomer_gazety_ru.shtml">Нулевой номер «Газеты.Ru»</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<span class="ref-info" title="на русском языке" style="cursor:help;">(рус.)</span></span>.&#32;<i>Газета.Ru</i>&#32;(28 февраля 1999).&#32;Дата обращения: 20 января 2015.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20150120125457/http://15.gazeta.ru/articles/nulevoi_nomer_gazety_ru.shtml">Архивировано</a> 20 января 2015 года.</span></span>
+</li>
+<li id="cite&#95;note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://www.artlebedev.ru/gazeta.ru/site/">Сайт «Газеты.ру» 1.0</a></span><span class="hidden-ref" style="display:none;">&#160;</span>.&#32;Дата обращения: 2 мая 2019.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20190502085318/https://www.artlebedev.ru/gazeta.ru/site/">Архивировано</a> 2 мая 2019 года.</span></span>
+</li>
+<li id="cite&#95;note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">В книге <a href="/wiki/%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%92%D0%B8%D0%B7%D0%B5%D0%BB%D1%8C" class="mw-redirect" title="Михаил Визель">М.&#160;Я.&#160;Визеля</a> «Создатель» (<a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785171328276" class="internal mw-magiclink-isbn">ISBN 978-5-17-132827-6</a>), стр. 165: <i>«Эдемское название, образованное по той же „словообразовательной модели“, по которой Адам в раю раздавал имена всем новосозданным творениям, усиленно намекает, что „Gazeta.Ru“ [„Название придумал я“,&#160;— уверял [Визеля] Глеб Павловский], „нулевой номер“ которой появился в открытом доступе в Сети 28 февраля 1999&#160;года, была первой русской газетой в Интернете»</i>.</span>
+</li>
+<li id="cite&#95;note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160219235838/http://internet.afisha.ru/gazeta-lenta/">Gazeta.ru и Lenta.ru: «Что это?»&#160;— спросил «ЮКОС». «Ваша газета,&#160;— ответил Павловский»&#160;— История Интернета&#160;— Афиша</a></span>
+</li>
+<li id="cite&#95;note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5867933318" class="internal mw-magiclink-isbn">ISBN 5-86793-331-8</a> (2004) цитируется по <a rel="nofollow" class="external free" href="https://in.wiki/Носик,_Антон_Борисович">https://in.wiki/Носик,_Антон_Борисович</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20240424101718/https://in.wiki/%D0%9D%D0%BE%D1%81%D0%B8%D0%BA%2C_%D0%90%D0%BD%D1%82%D0%BE%D0%BD_%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D0%B8%D1%87">Архивная копия</a> от 24 апреля 2024 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>, там же по книге «Дорогая редакция» (2014, <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785170869701" class="internal mw-magiclink-isbn">ISBN 978-5-17-086970-1</a>): А. Носик, цитируя Павловского в 1999 году: <i>«Просто расскажите мне, что бы вы хотели делать после «Gazeta.Ru», и я обеспечу финансирование для вас и всей команды, — сказал Глеб. — В декабре, когда я взял деньги на проект у ЮКОСа, это была моя ошибка, за которую мы теперь расплачиваемся, но она больше не повторится. Я сказал, что рынок требует новостного издания»</i>.</span>
+</li>
+<li id="cite&#95;note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">В книге <a href="/wiki/%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%92%D0%B8%D0%B7%D0%B5%D0%BB%D1%8C" class="mw-redirect" title="Михаил Визель">М.&#160;Я.&#160;Визеля</a> «Создатель» (<a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785171328276" class="internal mw-magiclink-isbn">ISBN 978-5-17-132827-6</a>), стр. 203: <i>«В период с 1 по 13 сентября 1999&#160;года „Gazeta.Ru“ стала совместным предприятием двух команд. Одна&#160;— команда Влада&#160;— писала туда колонки, интервью, комментарии, заметки „От редакции“. Мы их получали по электронной почте и выкладывали. А блок новостей делался нашими силами&#160;— и отправлял читателей за продолжением анонса на „Ленту“. К тому моменту, как команда Влада созрела переводить домен на себя (13 сентября 1999&#160;года), „Лента“ уже успела получить всю старую аудиторию новостного блока „Газеты“»</i></span>
+</li>
+<li id="cite&#95;note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text">Мария Зубарева. <a rel="nofollow" class="external text" href="https://deziiign.ru/project/3394de642bde42ecb4e9da89d53ada77">Специфика развития Lenta.ru и её последователей</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20241222033748/https://deziiign.ru/project/3394de642bde42ecb4e9da89d53ada77">Архивная копия</a> от 22 декабря 2024 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite&#95;note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><span class="citation"><i>Владислав Бородулин.</i>&#32;<span lang="ru"><a rel="nofollow" class="external text" href="http://www.kommersant.ru/doc/215418">15 млрд долларов потеряла Россия благодаря Примакову</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<span class="ref-info" title="на русском языке" style="cursor:help;">(рус.)</span></span>.&#32;<a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%81%D0%B0%D0%BD%D1%82%D1%8A" title="Коммерсантъ">Коммерсантъ</a>&#32;(24 марта 1999).&#32;Дата обращения: 21 января 2015.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20150121183913/http://www.kommersant.ru/doc/215418">Архивировано</a> 21 января 2015 года.</span></span>
+</li>
+<li id="cite&#95;note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><span class="citation"><i>Владислав Бородулин.</i>&#32;<span lang="ru"><a rel="nofollow" class="external text" href="http://15.gazeta.ru/articles/my_prishli_i_skazali_daite_nam_11_bukv_i_dve_tochki.shtml">Мы пришли и сказали: дайте нам 11 букв и 2 точки</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<span class="ref-info" title="на русском языке" style="cursor:help;">(рус.)</span></span>.&#32;<i>Газета.ru</i>&#32;(9 сентября 2014).&#32;Дата обращения: 20 января 2015.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20150120125035/http://15.gazeta.ru/articles/my_prishli_i_skazali_daite_nam_11_bukv_i_dve_tochki.shtml">Архивировано</a> 20 января 2015 года.</span></span>
+</li>
+<li id="cite&#95;note-M-15"><span class="mw-cite-backlink">↑ <a href="#cite_ref-M_15-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-M_15-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="ru"><a rel="nofollow" class="external text" href="https://meduza.io/feature/2016/05/17/12-redaktsiy-za-pyat-let">12 редакций за пять лет</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<span class="ref-info" title="на русском языке" style="cursor:help;">(рус.)</span></span>.&#32;«<a href="/wiki/Meduza" title="Meduza">Meduza</a>»&#32;(17 мая 2016).&#32;Дата обращения: 28 мая 2016.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20170913183251/https://meduza.io/feature/2016/05/17/12-redaktsiy-za-pyat-let">Архивировано</a> 13 сентября 2017 года.</span></span>
+</li>
+<li id="cite&#95;note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ru"><a rel="nofollow" class="external text" href="http://m.gazeta.ru/">Мобильная версия «Газеты.Ru»</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<span class="ref-info" title="на русском языке" style="cursor:help;">(рус.)</span></span>.&#32;Дата обращения: 20 января 2015.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20150121085519/http://m.gazeta.ru/">Архивировано</a> 21 января 2015 года.</span></span>
+</li>
+<li id="cite&#95;note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.alexa.com/topsites/countries;1/RU">Top Sites in Russia</a></span>&#160;<span class="ref-info" title="на английском языке" style="cursor:help;">(англ.)</span>.&#32;<a href="/wiki/Alexa.com" class="mw-redirect" title="Alexa.com">Alexa.com</a>.&#32;Дата обращения: 6 декабря 2011.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20111108052538/http://www.alexa.com/topsites/countries;1/ru">Архивировано</a> 8 ноября 2011 года.</span></span>
+</li>
+<li id="cite&#95;note-autogenerated2-18"><span class="mw-cite-backlink"><a href="#cite_ref-autogenerated2_18-0">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.alexa.com/siteinfo/gazeta.ru">Статистика сайта «Газета.Ru»</a></span>&#160;<span class="ref-info" title="на английском языке" style="cursor:help;">(англ.)</span>.&#32;<a href="/wiki/Alexa.com" class="mw-redirect" title="Alexa.com">Alexa.com</a>.&#32;Дата обращения: 20 января 2015.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20190125103007/https://www.alexa.com/siteinfo/gazeta.ru">Архивировано</a> 25 января 2019 года.</span></span>
+</li>
+<li id="cite&#95;note-pervyi&#95;maket-19"><span class="mw-cite-backlink">↑ <a href="#cite_ref-pervyi_maket_19-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-pervyi_maket_19-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Михаил Котов.</i>&#32;<span lang="ru"><a rel="nofollow" class="external text" href="http://15.gazeta.ru/articles/pervyi_maket_sostoyal_iz_mordy_i_treh_ushei.shtml">Первый макет состоял из «морды» и трех «ушей»</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<span class="ref-info" title="на русском языке" style="cursor:help;">(рус.)</span></span>.&#32;<i>Газета.Ru</i>&#32;(15 сентября 2014).&#32;Дата обращения: 20 января 2015.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20150120154836/http://15.gazeta.ru/articles/pervyi_maket_sostoyal_iz_mordy_i_treh_ushei.shtml">Архивировано</a> 20 января 2015 года.</span></span>
+</li>
+<li id="cite&#95;note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ru"><a rel="nofollow" class="external text" href="https://www.gazeta.ru/comments/column/oss/">Наталия Осс</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<span class="ref-info" title="на русском языке" style="cursor:help;">(рус.)</span></span>.&#32;<i>Газета.Ru</i>.&#160;— Мнения.&#32;Дата обращения: 15 марта 2023.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20230315125310/https://www.gazeta.ru/comments/column/oss/">Архивировано</a> 15 марта 2023 года.</span></span>
+</li>
+<li id="cite&#95;note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ru"><a rel="nofollow" class="external text" href="https://www.gazeta.ru/comments/column/dolin/">Антон Долин</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<span class="ref-info" title="на русском языке" style="cursor:help;">(рус.)</span></span>.&#32;<i>Газета.Ru</i>.&#160;— Мнения.&#32;Дата обращения: 15 марта 2023.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20230315125315/https://www.gazeta.ru/comments/column/dolin/">Архивировано</a> 15 марта 2023 года.</span></span>
+</li>
+<li id="cite&#95;note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ru"><a rel="nofollow" class="external text" href="https://www.gazeta.ru/comments/column/lukyanov/">Федор Лукьянов</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<span class="ref-info" title="на русском языке" style="cursor:help;">(рус.)</span></span>.&#32;<i>Газета.Ru</i>.&#160;— Мнения.&#32;Дата обращения: 15 марта 2023.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20230315125313/https://www.gazeta.ru/comments/column/lukyanov/">Архивировано</a> 15 марта 2023 года.</span></span>
+</li>
+<li id="cite&#95;note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ru"><a rel="nofollow" class="external text" href="http://www.gazeta.ru/politics/euromaidan/">Хроника «Евромайдана»: как мирные протесты переросли в революцию"</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<span class="ref-info" title="на русском языке" style="cursor:help;">(рус.)</span></span>.&#32;<i>Газета.ru</i>&#32;(21 ноября 2014).&#32;Дата обращения: 20 января 2015.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20150120155227/http://www.gazeta.ru/politics/euromaidan/">Архивировано</a> 20 января 2015 года.</span></span>
+</li>
+<li id="cite&#95;note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ru"><a rel="nofollow" class="external text" href="http://www.gazeta.ru/politics/news/2014/11/21/n_6670049.shtml">«Газета.Ru» запускает спецпроект, посвященный годовщине «евромайдана»</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<span class="ref-info" title="на русском языке" style="cursor:help;">(рус.)</span></span>.&#32;<i>Газета.ru</i>&#32;(21 ноября 2014).&#32;Дата обращения: 20 января 2015.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20150120155211/http://www.gazeta.ru/politics/news/2014/11/21/n_6670049.shtml">Архивировано</a> 20 января 2015 года.</span></span>
+</li>
+<li id="cite&#95;note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ru"><a rel="nofollow" class="external text" href="http://www.gazeta.ru/social/beslan/">Спецпроект, посвященный трагедии в Беслане</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<span class="ref-info" title="на русском языке" style="cursor:help;">(рус.)</span></span>.&#32;<i>Газета.ru</i>.&#32;Дата обращения: 20 января 2015.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20150120163552/http://www.gazeta.ru/social/beslan/">Архивировано</a> 20 января 2015 года.</span></span>
+</li>
+<li id="cite&#95;note-26"><span class="mw-cite-backlink"><a href="#cite_ref-26">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ru"><a rel="nofollow" class="external text" href="http://www.gazeta.ru/science/ww1/">Первая Мировая война в деталях: инфографика</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<span class="ref-info" title="на русском языке" style="cursor:help;">(рус.)</span></span>.&#32;<i>Газета.ru</i>.&#32;Дата обращения: 20 января 2015.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20141123195055/http://www.gazeta.ru/science/ww1/">Архивировано</a> 23 ноября 2014 года.</span></span>
+</li>
+<li id="cite&#95;note-27"><span class="mw-cite-backlink"><a href="#cite_ref-27">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.gazeta.ru/politics/putin15/">15 лет с Путиным</a></span><span class="hidden-ref" style="display:none;">&#160;</span>.&#32;Газета.ru.&#32;Дата обращения: 20 января 2015.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20150120155207/http://www.gazeta.ru/politics/putin15/">Архивировано</a> 20 января 2015 года.</span></span>
+</li>
+<li id="cite&#95;note-28"><span class="mw-cite-backlink"><a href="#cite_ref-28">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ru"><a rel="nofollow" class="external text" href="http://www.vesti.ru/doc.html?id=2755946">7 минут для «Чайной Партии»</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<span class="ref-info" title="на русском языке" style="cursor:help;">(рус.)</span></span>.&#32;<i><a href="/wiki/%D0%92%D0%B5%D1%81%D1%82%D0%B8.%D1%80%D1%83" title="Вести.ру">Вести.ру</a></i>&#32;(20 мая 2016).&#32;Дата обращения: 28 мая 2016.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20180807033352/http://www.vesti.ru/doc.html?id=2755946">Архивировано</a> 7 августа 2018 года.</span></span>
+</li>
+<li id="cite&#95;note-29"><span class="mw-cite-backlink"><a href="#cite_ref-29">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ru"><a rel="nofollow" class="external text" href="http://10.gazeta.ru/">10 лет «Газете.Ru»</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<span class="ref-info" title="на русском языке" style="cursor:help;">(рус.)</span></span>.&#32;Дата обращения: 20 января 2015.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20150120175551/http://10.gazeta.ru/">Архивировано</a> 20 января 2015 года.</span></span>
+</li>
+<li id="cite&#95;note-30"><span class="mw-cite-backlink"><a href="#cite_ref-30">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ru"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150120170252/http://xn--o1aabe.xn--p1ai/news/view/700">РСПП вручил награды лучшим представителям деловой журналистики России</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<span class="ref-info" title="на русском языке" style="cursor:help;">(рус.)</span></span>.&#32;<i>Российский союз промышленников и предпринимателей</i>.&#32;Дата обращения: 20 января 2015.&#32;Архивировано из <a rel="nofollow" class="external text" href="http://xn--o1aabe.xn--p1ai/news/view/700">оригинала</a> 20 января 2015 года.</span></span>
+</li>
+<li id="cite&#95;note-31"><span class="mw-cite-backlink"><a href="#cite_ref-31">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ru"><a rel="nofollow" class="external text" href="http://15.gazeta.ru/">Проект, посвященный 15-летию «Газеты.ru»</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<span class="ref-info" title="на русском языке" style="cursor:help;">(рус.)</span></span>.&#32;Дата обращения: 20 января 2015.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20150120125554/http://15.gazeta.ru/">Архивировано</a> 20 января 2015 года.</span></span>
+</li>
+<li id="cite&#95;note-32"><span class="mw-cite-backlink"><a href="#cite_ref-32">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ru"><a rel="nofollow" class="external text" href="http://company.yandex.ru/researches/reports/2014/ya_news.xml">Компания Яндекс - Новости в интернете: СМИ и читатели</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<span class="ref-info" title="на русском языке" style="cursor:help;">(рус.)</span></span>.&#32;Дата обращения: 20 января 2015.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20150123122150/http://company.yandex.ru/researches/reports/2014/ya_news.xml">Архивировано</a> 23 января 2015 года.</span></span>
+</li>
+<li id="cite&#95;note-33"><span class="mw-cite-backlink"><a href="#cite_ref-33">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ru"><a rel="nofollow" class="external text" href="http://top100.rambler.ru/navi/?range=01.12.2014+-+31.12.2014&amp;statcol=0%2C1%2C2%2C3&amp;theme=440">Рамблер ТОП100/ Новости и СМИ</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<span class="ref-info" title="на русском языке" style="cursor:help;">(рус.)</span></span>.&#32;Дата обращения: 20 января 2015.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20150120163654/http://top100.rambler.ru/navi/?range=01.12.2014+-+31.12.2014&amp;statcol=0%2C1%2C2%2C3&amp;theme=440">Архивировано</a> 20 января 2015 года.</span></span>
+</li>
+<li id="cite&#95;note-34"><span class="mw-cite-backlink"><a href="#cite_ref-34">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ru"><a rel="nofollow" class="external text" href="http://lenta.ru/news/2013/06/25/gazetaru/">В Ульяновске «Газету.Ru» заблокировали за подрыв авторитета власти</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<span class="ref-info" title="на русском языке" style="cursor:help;">(рус.)</span></span>.&#32;<i><a href="/wiki/Lenta.ru" title="Lenta.ru">lenta.ru</a></i>&#32;(25 июня 2013).&#32;Дата обращения: 25 июня 2013.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20130629000209/http://lenta.ru/news/2013/06/25/gazetaru">Архивировано</a> 29 июня 2013 года.</span></span>
+</li>
+<li id="cite&#95;note-35"><span class="mw-cite-backlink"><a href="#cite_ref-35">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ru"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150121184042/http://mir-politika.ru/10203-bilayn-rasckazal-o-prichinah-blokirovki-zhzh-i-gazetyru-roskomnadzor-ne-pri-chem.html">"БиЛайн" рассказал о причинах блокировки ЖЖ и Газеты.Ru: Роскомнадзор ни при чём.</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<span class="ref-info" title="на русском языке" style="cursor:help;">(рус.)</span></span>&#32;<i>mir-politika.ru</i>&#32;(17 февраля 2014).&#32;Дата обращения: 21 января 2015.&#32;Архивировано из <a rel="nofollow" class="external text" href="http://mir-politika.ru/10203-bilayn-rasckazal-o-prichinah-blokirovki-zhzh-i-gazetyru-roskomnadzor-ne-pri-chem.html">оригинала</a> 21 января 2015 года.</span></span>
+</li>
+<li id="cite&#95;note-36"><span class="mw-cite-backlink"><a href="#cite_ref-36">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ru"><a rel="nofollow" class="external text" href="http://www.gazeta.ru/social/news/2014/07/25/n_6341205.shtml">«Ростелеком» восстановил доступ к «Газете.ru» в Нижнем Новгороде</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<span class="ref-info" title="на русском языке" style="cursor:help;">(рус.)</span></span>.&#32;<i>Газета.Ru</i>&#32;(25 июля 2014).&#32;Дата обращения: 20 января 2015.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20150120154804/http://www.gazeta.ru/social/news/2014/07/25/n_6341205.shtml">Архивировано</a> 20 января 2015 года.</span></span>
+</li>
+<li id="cite&#95;note-37"><span class="mw-cite-backlink"><a href="#cite_ref-37">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ru"><a rel="nofollow" class="external text" href="http://www.gazeta.ru/business/news/2014/06/26/n_6261609.shtml">«Газета.Ru» была заблокирована из-за ошибки «Ростелекома»</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<span class="ref-info" title="на русском языке" style="cursor:help;">(рус.)</span></span>.&#32;<i>Газета.ru</i>&#32;(26 июня 2014).&#32;Дата обращения: 20 января 2015.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20150120155252/http://www.gazeta.ru/business/news/2014/06/26/n_6261609.shtml">Архивировано</a> 20 января 2015 года.</span></span>
+</li>
+<li id="cite&#95;note-38"><span class="mw-cite-backlink"><a href="#cite_ref-38">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ru"><a rel="nofollow" class="external text" href="http://lenta.ru/news/2013/09/08/gazetaru/">Главред «Газеты.ру» ушла со своего поста</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<span class="ref-info" title="на русском языке" style="cursor:help;">(рус.)</span></span>.&#32;<i><a href="/wiki/Lenta.ru" title="Lenta.ru">Lenta.ru</a></i>&#32;(8 сентября 2013).&#32;Дата обращения: 8 сентября 2013.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20160202135330/https://lenta.ru/news/2013/09/08/gazetaru/">Архивировано</a> 2 февраля 2016 года.</span></span>
+</li>
+<li id="cite&#95;note-39"><span class="mw-cite-backlink"><a href="#cite_ref-39">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ru"><a rel="nofollow" class="external text" href="https://www.gazeta.ru/social/news/2023/08/01/20986904.shtml">Редакцию «Газеты.Ru» возглавила Ирина Сигова</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<span class="ref-info" title="на русском языке" style="cursor:help;">(рус.)</span></span>.&#32;<i>Газета.Ru</i>&#32;(1 августа 2023).&#32;Дата обращения: 29 августа 2023.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20230829090741/https://www.gazeta.ru/social/news/2023/08/01/20986904.shtml">Архивировано</a> 29 августа 2023 года.</span></span>
+</li>
+<li id="cite&#95;note-40"><span class="mw-cite-backlink"><a href="#cite_ref-40">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://maoist.livejournal.com/989.html">Газета.Ру - "Наука": maoist — LiveJournal</a></span><span class="hidden-ref" style="display:none;">&#160;</span>.&#32;Дата обращения: 4 февраля 2023.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20230204060405/https://maoist.livejournal.com/989.html">Архивировано</a> 4 февраля 2023 года.</span></span>
+</li>
+<li id="cite&#95;note-41"><span class="mw-cite-backlink"><a href="#cite_ref-41">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://republic.ru/fast/russia/kommersant-ubral-s-sayta-zametku-o-navalnom-i-dache-volodina-1026203.xhtml">«Коммерсантъ» убрал с сайта заметку о Навальном и даче Володина</a></span><span class="hidden-ref" style="display:none;">&#160;</span>.&#32;Дата обращения: 23 января 2017.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20170202012217/https://republic.ru/fast/russia/kommersant-ubral-s-sayta-zametku-o-navalnom-i-dache-volodina-1026203.xhtml">Архивировано</a> 2 февраля 2017 года.</span></span>
+</li>
+<li id="cite&#95;note-42"><span class="mw-cite-backlink"><a href="#cite_ref-42">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ru"><a rel="nofollow" class="external text" href="http://mediananny.com/novosti/2309070/">Интеллигент в кубе. Как замглавреда «Газеты.ру» обматерил Сергея Лойко</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<span class="ref-info" title="на русском языке" style="cursor:help;">(рус.)</span></span>.&#32;«<a href="/w/index.php?title=%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0%D0%BD%D1%8F%D0%BD%D1%8F&amp;action=edit&amp;redlink=1" class="new" title="Медианяня (страница отсутствует)">Медианяня</a>»&#32;(19 февраля 2015).&#32;Дата обращения: 28 мая 2016.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20160610173806/http://mediananny.com/novosti/2309070/">Архивировано</a> 10 июня 2016 года.</span></span>
+</li>
+<li id="cite&#95;note-43"><span class="mw-cite-backlink"><a href="#cite_ref-43">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://tvrain.ru/articles/gendirektor_rbk_podtverdil_podlinnost_opublikovannoj_perepiski_s_kremlem-384863/">Гендиректор РБК подтвердил подлинность опубликованной переписки с Кремлем</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150404002100/http://tvrain.ru/articles/gendirektor_rbk_podtverdil_podlinnost_opublikovannoj_perepiski_s_kremlem-384863/">Архивная копия</a> от 4 апреля 2015 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> // Телеканал «<a href="/wiki/%D0%94%D0%BE%D0%B6%D0%B4%D1%8C_(%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB)" title="Дождь (телеканал)">Дождь</a>».</span>
+</li>
+<li id="cite&#95;note-44"><span class="mw-cite-backlink"><a href="#cite_ref-44">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ru"><a rel="nofollow" class="external text" href="http://paperpaper.ru/papernews/2015/04/02/galustyan/">В сети появилась SMS-переписка Администрации президента с «Галустяном», «Яровой» и руководителями СМИ</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<span class="ref-info" title="на русском языке" style="cursor:help;">(рус.)</span></span>.&#32;«Бумага»&#32;(2 апреля 2015).&#32;Дата обращения: 5 марта 2016.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20160306113826/http://paperpaper.ru/papernews/2015/04/02/galustyan/">Архивировано</a> 6 марта 2016 года.</span></span>
+</li>
+<li id="cite&#95;note-45"><span class="mw-cite-backlink"><a href="#cite_ref-45">↑</a></span> <span class="reference-text"><span class="citation"><i>Leonid Bershidsky.</i>&#32;<span lang="en"><a rel="nofollow" class="external text" href="http://www.bloombergview.com/articles/2016-04-25/being-a-russian-media-mogul-is-dangerous">Being a Russian Media Mogul Is Dangerous</a></span>&#160;<span class="ref-info" title="на английском языке" style="cursor:help;">(англ.)</span>.&#32;Bloomberg View&#32;(25 апреля 2016).&#32;Дата обращения: 26 апреля 2016.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20160426051340/http://www.bloombergview.com/articles/2016-04-25/being-a-russian-media-mogul-is-dangerous">Архивировано</a> 26 апреля 2016 года.</span></span>
+</li>
+<li id="cite&#95;note-46"><span class="mw-cite-backlink"><a href="#cite_ref-46">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r150646110">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"«""»""„""“"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a::after,.mw-parser-output .id-lock-limited a::after,.mw-parser-output .id-lock-registration a::after,.mw-parser-output .id-lock-subscription a::after,.mw-parser-output .cs1-ws-icon a::after{content:"";width:1.1em;height:1.1em;display:inline-block;vertical-align:middle;background-position:center;background-repeat:no-repeat;background-size:contain}.mw-parser-output .id-lock-free.id-lock-free a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")}.mw-parser-output .id-lock-limited.id-lock-limited a::after,.mw-parser-output .id-lock-registration.id-lock-registration a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")}.mw-parser-output .id-lock-subscription.id-lock-subscription a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")}.mw-parser-output .cs1-ws-icon a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}html.skin-theme-clientpref-night .mw-parser-output .id-lock-free a::after,html.skin-theme-clientpref-night .mw-parser-output .id-lock-limited a::after,html.skin-theme-clientpref-night .mw-parser-output .id-lock-registration a::after,html.skin-theme-clientpref-night .mw-parser-output .id-lock-subscription a::after{filter:invert(1)hue-rotate(180deg)}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}html.skin-theme-clientpref-os .mw-parser-output .id-lock-free a::after,html.skin-theme-clientpref-os .mw-parser-output .id-lock-limited a::after,html.skin-theme-clientpref-os .mw-parser-output .id-lock-registration a::after,html.skin-theme-clientpref-os .mw-parser-output .id-lock-subscription a::after{filter:invert(1)hue-rotate(180deg)}}</style><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://thebell.io/kto-vedet-voennyy-telegram-kanal-rybar-rassledovanie-the-bell">Кто ведет военный телеграм-канал «Рыбарь»: расследование The Bell</a>. <i>The Bell</i>. 16 ноября 2022. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20221118074138/https://thebell.io/kto-vedet-voennyy-telegram-kanal-rybar-rassledovanie-the-bell">Архивировано</a> 18 ноября 2022<span class="reference-accessdate">. Дата обращения: 18 ноября 2022</span>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Bell&amp;rft.atitle=%D0%9A%D1%82%D0%BE+%D0%B2%D0%B5%D0%B4%D0%B5%D1%82+%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9+%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB+%C2%AB%D0%A0%D1%8B%D0%B1%D0%B0%D1%80%D1%8C%C2%BB%3A+%D1%80%D0%B0%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+The+Bell&amp;rft.date=2022-11-16&amp;rft&#95;id=https%3A%2F%2Fthebell.io%2Fkto-vedet-voennyy-telegram-kanal-rybar-rassledovanie-the-bell&amp;rfr&#95;id=info%3Asid%2Fru.wikipedia.org%3A%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-47"><span class="mw-cite-backlink"><a href="#cite_ref-47">↑</a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r150646110" /><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://meduza.io/feature/2022/08/01/v-kremle-podgotovili-novuyu-metodichku-o-tom-kak-propaganda-dolzhna-rasskazyvat-o-voyne-my-ee-prochitali">В Кремле подготовили новую методичку о том, как пропаганда должна рассказывать о войне. Мы ее прочитали «Спецоперацию» нужно сравнивать с крещением Руси, а Путина — с Александром Невским</a>. <i>Meduza</i>. 1 августа 2022. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20220801163633/https://meduza.io/feature/2022/08/01/v-kremle-podgotovili-novuyu-metodichku-o-tom-kak-propaganda-dolzhna-rasskazyvat-o-voyne-my-ee-prochitali">Архивировано</a> 1 августа 2022<span class="reference-accessdate">. Дата обращения: 1 августа 2022</span>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Meduza&amp;rft.atitle=%D0%92+%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D0%B5+%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%B8%D0%BB%D0%B8+%D0%BD%D0%BE%D0%B2%D1%83%D1%8E+%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D1%87%D0%BA%D1%83+%D0%BE+%D1%82%D0%BE%D0%BC%2C+%D0%BA%D0%B0%D0%BA+%D0%BF%D1%80%D0%BE%D0%BF%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0+%D0%B4%D0%BE%D0%BB%D0%B6%D0%BD%D0%B0+%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D1%8B%D0%B2%D0%B0%D1%82%D1%8C+%D0%BE+%D0%B2%D0%BE%D0%B9%D0%BD%D0%B5.+%D0%9C%D1%8B+%D0%B5%D0%B5+%D0%BF%D1%80%D0%BE%D1%87%D0%B8%D1%82%D0%B0%D0%BB%D0%B8+%C2%AB%D0%A1%D0%BF%D0%B5%D1%86%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8E%C2%BB+%D0%BD%D1%83%D0%B6%D0%BD%D0%BE+%D1%81%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D0%B2%D0%B0%D1%82%D1%8C+%D1%81+%D0%BA%D1%80%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC+%D0%A0%D1%83%D1%81%D0%B8%2C+%D0%B0+%D0%9F%D1%83%D1%82%D0%B8%D0%BD%D0%B0+%E2%80%94+%D1%81+%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%BC+%D0%9D%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%BC&amp;rft.date=2022-08-01&amp;rft&#95;id=https%3A%2F%2Fmeduza.io%2Ffeature%2F2022%2F08%2F01%2Fv-kremle-podgotovili-novuyu-metodichku-o-tom-kak-propaganda-dolzhna-rasskazyvat-o-voyne-my-ee-prochitali&amp;rfr&#95;id=info%3Asid%2Fru.wikipedia.org%3A%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<div class="mw-heading mw-heading2"><h2 id="Ссылки"><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span>Ссылки</h2><span class="mw-editsection">
+<a role="button" href="/w/index.php?title=%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru&amp;action=edit&amp;section=10" title="Редактировать раздел «Ссылки»" class="cdx-button cdx-button--size-large cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--icon-only cdx-button--weight-quiet ">
+    <span class="minerva-icon minerva-icon--edit"></span>
+<span>править</span>
+</a>
+
+</span>
+
+</div>
+<ul><li><a rel="nofollow" class="external text" href="https://www.gazeta.ru/">gazeta.ru</a>&#32;— официальный сайт «Газета.ru»</li>
+<li><a rel="nofollow" class="external text" href="https://instagram.com/gazetaru/">Аккаунт «Газеты.ru»</a> в сети «Инстаграм»</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Ссылки&#95;на&#95;внешние&#95;ресурсы" data-name="External links" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a></span></span><div id="Ссылки&#95;на&#95;внешние&#95;ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div class="skin-invert-image" style="float: left;"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a></span>&#160;<span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q595181#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/40px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></div>&#160;&#160;В социальных сетях</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://vk.com/gazeta">ВКонтакте</a></li>
+<li><a rel="nofollow" class="external text" href="https://ok.ru/gazetaru">Одноклассники</a></li>
+<li><a rel="nofollow" class="external text" href="https://x.com/gazetaru">X</a></li>
+<li><a rel="nofollow" class="external text" href="https://x.com/GazetaRu">X</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.facebook.com/gazeta.ru">Facebook</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.instagram.com/gazetaru/">Instagram</a></li>
+<li><a rel="nofollow" class="external text" href="https://t.me/gazetaru">Telegram</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Фото, видео и аудио</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://www.youtube.com/channel/UC2FISUXUjHiXlgXBN3vOewg">YouTube</a></li>
+<li><a rel="nofollow" class="external text" href="https://dzen.ru/gazeta">Дзен</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐5c645d96cd‐nfmcq
+Cached time: 20260409011633
+Cache expiry: 82800
+Cache expiry source: Модуль:Wikidata (os.time)
+Reduced expiry: true
+Complications: [vary‐revision‐sha1, prevent‐selective‐update, show‐toc]
+CPU time usage: 0.872 seconds
+Real time usage: 1.091 seconds
+Preprocessor visited node count: 5154/1000000
+Revision size: 47784/2097152 bytes
+Post‐expand include size: 85837/2097152 bytes
+Template argument size: 3040/2097152 bytes
+Highest expansion depth: 16/100
+Expensive parser function count: 10/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 58546/5000000 bytes
+Lua time usage: 0.598/10.000 seconds
+Lua memory usage: 9820761/52428800 bytes
+Number of Wikibase entities loaded: 14/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  999.902      1 -total
+ 55.45%  554.484      1 Шаблон:Сайт
+ 50.52%  505.103      1 Шаблон:Карточка
+ 28.09%  280.907      1 Шаблон:Примечания
+ 23.47%  234.706     11 Шаблон:Wikidata
+ 12.87%  128.719     37 Шаблон:Cite_web
+ 10.60%  106.010      2 Шаблон:Cite_news
+  7.99%   79.863      3 Шаблон:Wikidata_plural_switch
+  7.81%   78.075      1 Шаблон:Карточка/оригинал_названия
+  7.44%   74.419      1 Шаблон:ВС
+-->
+
+<!-- Saved in parser cache with key ruwiki:stable-pcache:1395421:|#|:idhash:canonical and timestamp 20260409011633 and revision id 147124268. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Газета.ru&amp;oldid=147124268">https://ru.wikipedia.org/w/index.php?title=Газета.ru&amp;oldid=147124268</a></div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B0%D0%B9%D1%82%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Сайты по алфавиту">Сайты по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B0%D0%B9%D1%82%D1%8B,_%D0%BF%D0%BE%D1%8F%D0%B2%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_1999_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Сайты, появившиеся в 1999 году">Сайты, появившиеся в 1999 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%A1%D0%9C%D0%98_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Интернет-СМИ России">Интернет-СМИ России</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F" title="Категория:Периодические издания">Периодические издания</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru" title="Категория:Газета.ru">Газета.ru</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:Lenta.ru" title="Категория:Lenta.ru">Lenta.ru</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8_%D0%B8%D0%B7_%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" title="Категория:Википедия:Статьи с источниками из Викиданных">Википедия:Статьи с источниками из Викиданных</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E:%D0%98%D0%A2:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:ПРО:ИТ:Статьи по алфавиту">ПРО:ИТ:Статьи по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E:%D0%98%D0%A2:%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:_%D0%B2_%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%BE%D0%BC_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:ПРО:ИТ:Последняя правка: в прошлом году">ПРО:ИТ:Последняя правка: в прошлом году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D1%83%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8,_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%BF%D0%B5%D1%80%D0%B2%D0%B8%D1%87%D0%BD%D0%BE%D0%BC_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B5" title="Категория:Википедия:Статьи с утверждениями, основанными на первичном источнике">Википедия:Статьи с утверждениями, основанными на первичном источнике</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8,_%D1%82%D1%80%D0%B5%D0%B1%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%BA%D0%BE%D0%BD%D0%BA%D1%80%D0%B5%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8" title="Категория:Википедия:Статьи, требующие конкретизации">Википедия:Статьи, требующие конкретизации</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Википедия:Статьи с шаблонами недостатков по алфавиту">Википедия:Статьи с шаблонами недостатков по алфавиту</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 25 июля 2025 года в 10:48.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br />
+Wikipedia®&#160;— зарегистрированный товарный знак некоммерческой организации <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/ru/">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-legal-safety-contacts"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information">Контакты по вопросам права и безопасности</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikipedia.org/w/index.php?title=%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Искать в Википедии">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Служебная:Поиск">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Найти</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">Газета.ru</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>9 языков</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Добавить тему</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-66cfd459dc-9pf7g","wgBackendResponseTime":184,"wgPageParseReport":{"limitreport":{"cputime":"0.872","walltime":"1.091","ppvisitednodes":{"value":5154,"limit":1000000},"revisionsize":{"value":47784,"limit":2097152},"postexpandincludesize":{"value":85837,"limit":2097152},"templateargumentsize":{"value":3040,"limit":2097152},"expansiondepth":{"value":16,"limit":100},"expensivefunctioncount":{"value":10,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":58546,"limit":5000000},"entityaccesscount":{"value":14,"limit":500},"timingprofile":["100.00%  999.902      1 -total"," 55.45%  554.484      1 Шаблон:Сайт"," 50.52%  505.103      1 Шаблон:Карточка"," 28.09%  280.907      1 Шаблон:Примечания"," 23.47%  234.706     11 Шаблон:Wikidata"," 12.87%  128.719     37 Шаблон:Cite_web"," 10.60%  106.010      2 Шаблон:Cite_news","  7.99%   79.863      3 Шаблон:Wikidata_plural_switch","  7.81%   78.075      1 Шаблон:Карточка/оригинал_названия","  7.44%   74.419      1 Шаблон:ВС"]},"scribunto":{"limitreport-timeusage":{"value":"0.598","limit":"10.000"},"limitreport-memusage":{"value":9820761,"limit":52428800},"limitreport-logs":"Loaded datatype commonsMedia of P154 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P277 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P50 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P50 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P112 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P277 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P127 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P5769 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype monolingualtext of P1451 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw-web.eqiad.main-5c645d96cd-nfmcq","timestamp":"20260409011633","ttl":82800,"transientcontent":true,"expiry-source":"Модуль:Wikidata (os.time)"}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0413\u0430\u0437\u0435\u0442\u0430.ru","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%93%D0%B0%D0%B7%D0%B5%D1%82%D0%B0.ru","sameAs":"http:\/\/www.wikidata.org\/entity\/Q595181","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q595181","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-09-19T11:44:39Z","headline":"\u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0435 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u0438\u0437\u0434\u0430\u043d\u0438\u0435"}</script>
+</body>
+</html>

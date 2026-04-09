@@ -1,0 +1,16 @@
+# Русскоязычные стартовые страницы Википедии
+https://ru.wikipedia.org/wiki/Россия
+https://ru.wikipedia.org/wiki/Москва
+https://ru.wikipedia.org/wiki/Санкт-Петербург
+https://ru.wikipedia.org/wiki/Наука
+https://ru.wikipedia.org/wiki/Технология
+https://ru.wikipedia.org/wiki/Математика
+https://ru.wikipedia.org/wiki/Физика
+https://ru.wikipedia.org/wiki/Химия
+https://ru.wikipedia.org/wiki/Биология
+https://ru.wikipedia.org/wiki/Литература
+https://ru.wikipedia.org/wiki/История
+https://ru.wikipedia.org/wiki/Искусство
+https://ru.wikipedia.org/wiki/Музыка
+https://ru.wikipedia.org/wiki/Экономика
+https://ru.wikipedia.org/wiki/Программирование
