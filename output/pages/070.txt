@@ -1,0 +1,1030 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available skin-theme-clientpref-thumb-standard" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Гвоздичные — Википедия</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available skin-theme-clientpref-thumb-standard";var cookie=document.cookie.match(/(?:^|; )ruwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"6d7f6003-7136-44f2-ab0a-9f87a01b358f","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Гвоздичные","wgTitle":"Гвоздичные","wgCurRevisionId":149477601,"wgRevisionId":149477601,"wgArticleId":723850,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Страницы, использующие волшебные ссылки ISBN","Википедия:Статьи для обновления по WFOPL","Растения по алфавиту","Гвоздичноцветные","Семейства растений"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Гвоздичные","wgRelevantArticleId":723850,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":149477601,"wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q25995","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgTestKitchenUserExperiments":{"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[]}};
+RLSTATE={"ext.gadget.common-site":"ready","ext.gadget.darkModeFixes":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","ext.wikimediamessages.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.math.polyfills","ext.scribunto.logs","ext.parsermigration.survey","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.edittop","ext.gadget.navboxDefaultGadgets","ext.gadget.markadmins","ext.gadget.wikibugs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.quicksurveys.init","ext.growthExperiments.SuggestedEditSession","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cext.wikimediamessages.styles%7Cjquery.makeCollapsible.styles%7Cmediawiki.codex.messagebox.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.gadget.common-site%2CdarkModeFixes&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector-2022"></noscript>
+<meta name="generator" content="MediaWiki 1.46.0-wmf.22">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Illustration_Dianthus_deltoides0-clean.jpg/960px-Illustration_Dianthus_deltoides0-clean.jpg">
+<meta property="og:image:width" content="727">
+<meta property="og:image:height" content="1200">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Гвоздичные — Википедия">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Гвоздичные rootpage-Гвоздичные skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Перейти к содержанию</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Сайт">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Главное меню" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Главное меню"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Главное меню</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Главное меню</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Навигация
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-participation" class="vector-menu mw-portlet mw-portlet-participation"  >
+	<div class="vector-menu-heading">
+		Участие
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-lang" class="vector-menu mw-portlet mw-portlet-lang"  >
+	<div class="vector-menu-heading">
+		На других языках
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%82%D8%B1%D9%86%D9%81%D9%84%D9%8A%D8%A9" title="قرنفلية — арабский" lang="ar" hreflang="ar" data-title="قرنفلية" data-language-autonym="العربية" data-language-local-name="арабский" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D9%82%D8%B1%D9%86%D9%81%D9%84%D9%8A%D9%87" title="قرنفليه — Egyptian Arabic" lang="arz" hreflang="arz" data-title="قرنفليه" data-language-autonym="مصرى" data-language-local-name="Egyptian Arabic" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — астурийский" lang="ast" hreflang="ast" data-title="Caryophyllaceae" data-language-autonym="Asturianu" data-language-local-name="астурийский" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Q%C9%99r%C9%99nfilkimil%C9%99r" title="Qərənfilkimilər — азербайджанский" lang="az" hreflang="az" data-title="Qərənfilkimilər" data-language-autonym="Azərbaycanca" data-language-local-name="азербайджанский" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-azb mw-list-item"><a href="https://azb.wikipedia.org/wiki/%D9%82%D8%B1%D9%87%E2%80%8C%D9%86%D9%81%DB%8C%D9%84_%DA%A9%DB%8C%D9%85%DB%8C%E2%80%8C%D9%84%D8%B1" title="قره‌نفیل کیمی‌لر — South Azerbaijani" lang="azb" hreflang="azb" data-title="قره‌نفیل کیمی‌لر" data-language-autonym="تۆرکجه" data-language-local-name="South Azerbaijani" class="interlanguage-link-target"><span>تۆرکجه</span></a></li><li class="interlanguage-link interwiki-be-x-old mw-list-item"><a href="https://be-tarask.wikipedia.org/wiki/%D0%93%D0%B2%D0%B0%D0%B7%D1%8C%D0%B4%D0%B7%D1%96%D0%BA%D0%BE%D0%B2%D1%8B%D1%8F" title="Гвазьдзіковыя — белорусский (тарашкевица)" lang="be-tarask" hreflang="be-tarask" data-title="Гвазьдзіковыя" data-language-autonym="Беларуская (тарашкевіца)" data-language-local-name="белорусский (тарашкевица)" class="interlanguage-link-target"><span>Беларуская (тарашкевіца)</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%93%D0%B2%D0%B0%D0%B7%D0%B4%D0%B7%D1%96%D0%BA%D0%BE%D0%B2%D1%8B%D1%8F" title="Гваздзіковыя — белорусский" lang="be" hreflang="be" data-title="Гваздзіковыя" data-language-autonym="Беларуская" data-language-local-name="белорусский" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%BC%D1%84%D0%B8%D0%BB%D0%BE%D0%B2%D0%B8" title="Карамфилови — болгарский" lang="bg" hreflang="bg" data-title="Карамфилови" data-language-autonym="Български" data-language-local-name="болгарский" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — боснийский" lang="bs" hreflang="bs" data-title="Caryophyllaceae" data-language-autonym="Bosanski" data-language-local-name="боснийский" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Cariofil%C2%B7l%C3%A0cies" title="Cariofil·làcies — каталанский" lang="ca" hreflang="ca" data-title="Cariofil·làcies" data-language-autonym="Català" data-language-local-name="каталанский" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-ceb mw-list-item"><a href="https://ceb.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — себуано" lang="ceb" hreflang="ceb" data-title="Caryophyllaceae" data-language-autonym="Cebuano" data-language-local-name="себуано" class="interlanguage-link-target"><span>Cebuano</span></a></li><li class="interlanguage-link interwiki-co mw-list-item"><a href="https://co.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — корсиканский" lang="co" hreflang="co" data-title="Caryophyllaceae" data-language-autonym="Corsu" data-language-local-name="корсиканский" class="interlanguage-link-target"><span>Corsu</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Hvozd%C3%ADkovit%C3%A9" title="Hvozdíkovité — чешский" lang="cs" hreflang="cs" data-title="Hvozdíkovité" data-language-autonym="Čeština" data-language-local-name="чешский" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-cv mw-list-item"><a href="https://cv.wikipedia.org/wiki/%D0%A2%D1%83%D0%BF%D0%B0%D0%BB%D0%B0%D0%BA_%D0%B9%D1%8B%D1%88%D1%88%D0%B8%D1%81%D0%B5%D0%BC" title="Тупалак йышшисем — чувашский" lang="cv" hreflang="cv" data-title="Тупалак йышшисем" data-language-autonym="Чӑвашла" data-language-local-name="чувашский" class="interlanguage-link-target"><span>Чӑвашла</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Nellike-familien" title="Nellike-familien — датский" lang="da" hreflang="da" data-title="Nellike-familien" data-language-autonym="Dansk" data-language-local-name="датский" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de badge-Q17437798 badge-goodarticle mw-list-item" title="хорошая статья"><a href="https://de.wikipedia.org/wiki/Nelkengew%C3%A4chse" title="Nelkengewächse — немецкий" lang="de" hreflang="de" data-title="Nelkengewächse" data-language-autonym="Deutsch" data-language-local-name="немецкий" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — английский" lang="en" hreflang="en" data-title="Caryophyllaceae" data-language-autonym="English" data-language-local-name="английский" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Kariofilacoj" title="Kariofilacoj — эсперанто" lang="eo" hreflang="eo" data-title="Kariofilacoj" data-language-autonym="Esperanto" data-language-local-name="эсперанто" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — испанский" lang="es" hreflang="es" data-title="Caryophyllaceae" data-language-autonym="Español" data-language-local-name="испанский" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Nelgilised" title="Nelgilised — эстонский" lang="et" hreflang="et" data-title="Nelgilised" data-language-autonym="Eesti" data-language-local-name="эстонский" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — баскский" lang="eu" hreflang="eu" data-title="Caryophyllaceae" data-language-autonym="Euskara" data-language-local-name="баскский" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%AE%DA%A9%DB%8C%D8%A7%D9%86" title="میخکیان — персидский" lang="fa" hreflang="fa" data-title="میخکیان" data-language-autonym="فارسی" data-language-local-name="персидский" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Kohokkikasvit" title="Kohokkikasvit — финский" lang="fi" hreflang="fi" data-title="Kohokkikasvit" data-language-autonym="Suomi" data-language-local-name="финский" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — французский" lang="fr" hreflang="fr" data-title="Caryophyllaceae" data-language-autonym="Français" data-language-local-name="французский" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-frr mw-list-item"><a href="https://frr.wikipedia.org/wiki/Neegelken" title="Neegelken — северный фризский" lang="frr" hreflang="frr" data-title="Neegelken" data-language-autonym="Nordfriisk" data-language-local-name="северный фризский" class="interlanguage-link-target"><span>Nordfriisk</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Cariofil%C3%A1ceas" title="Cariofiláceas — галисийский" lang="gl" hreflang="gl" data-title="Cariofiláceas" data-language-autonym="Galego" data-language-local-name="галисийский" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%A6%D7%99%D7%A4%D7%95%D7%A8%D7%A0%D7%99%D7%99%D7%9D_(%D7%9E%D7%A9%D7%A4%D7%97%D7%94)" title="ציפורניים (משפחה) — иврит" lang="he" hreflang="he" data-title="ציפורניים (משפחה)" data-language-autonym="עברית" data-language-local-name="иврит" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Klin%C4%8Di%C4%87evke" title="Klinčićevke — хорватский" lang="hr" hreflang="hr" data-title="Klinčićevke" data-language-autonym="Hrvatski" data-language-local-name="хорватский" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-hsb mw-list-item"><a href="https://hsb.wikipedia.org/wiki/Nalikowe_rostliny" title="Nalikowe rostliny — верхнелужицкий" lang="hsb" hreflang="hsb" data-title="Nalikowe rostliny" data-language-autonym="Hornjoserbsce" data-language-local-name="верхнелужицкий" class="interlanguage-link-target"><span>Hornjoserbsce</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Szegf%C5%B1f%C3%A9l%C3%A9k" title="Szegfűfélék — венгерский" lang="hu" hreflang="hu" data-title="Szegfűfélék" data-language-autonym="Magyar" data-language-local-name="венгерский" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — индонезийский" lang="id" hreflang="id" data-title="Caryophyllaceae" data-language-autonym="Bahasa Indonesia" data-language-local-name="индонезийский" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-is mw-list-item"><a href="https://is.wikipedia.org/wiki/Hjartagrasa%C3%A6tt" title="Hjartagrasaætt — исландский" lang="is" hreflang="is" data-title="Hjartagrasaætt" data-language-autonym="Íslenska" data-language-local-name="исландский" class="interlanguage-link-target"><span>Íslenska</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — итальянский" lang="it" hreflang="it" data-title="Caryophyllaceae" data-language-autonym="Italiano" data-language-local-name="итальянский" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3%E7%A7%91" title="ナデシコ科 — японский" lang="ja" hreflang="ja" data-title="ナデシコ科" data-language-autonym="日本語" data-language-local-name="японский" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-jv mw-list-item"><a href="https://jv.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — яванский" lang="jv" hreflang="jv" data-title="Caryophyllaceae" data-language-autonym="Jawa" data-language-local-name="яванский" class="interlanguage-link-target"><span>Jawa</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/%E1%83%9B%E1%83%98%E1%83%AE%E1%83%90%E1%83%99%E1%83%98%E1%83%A1%E1%83%94%E1%83%91%E1%83%A0%E1%83%9C%E1%83%98" title="მიხაკისებრნი — грузинский" lang="ka" hreflang="ka" data-title="მიხაკისებრნი" data-language-autonym="ქართული" data-language-local-name="грузинский" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-kab mw-list-item"><a href="https://kab.wikipedia.org/wiki/Tin%C9%A3erfelt" title="Tinɣerfelt — кабильский" lang="kab" hreflang="kab" data-title="Tinɣerfelt" data-language-autonym="Taqbaylit" data-language-local-name="кабильский" class="interlanguage-link-target"><span>Taqbaylit</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D2%9A%D0%B0%D0%BB%D0%B0%D0%BC%D0%BF%D1%8B%D1%80%D0%BB%D0%B0%D1%80_%D1%82%D2%B1%D2%9B%D1%8B%D0%BC%D0%B4%D0%B0%D1%81%D1%8B" title="Қалампырлар тұқымдасы — казахский" lang="kk" hreflang="kk" data-title="Қалампырлар тұқымдасы" data-language-autonym="Қазақша" data-language-local-name="казахский" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-kn mw-list-item"><a href="https://kn.wikipedia.org/wiki/%E0%B2%AA%E0%B3%8C%E0%B2%A6%E0%B3%86%E0%B2%AE%E0%B3%81%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B3%81" title="ಪೌದೆಮುಳ್ಳು — каннада" lang="kn" hreflang="kn" data-title="ಪೌದೆಮುಳ್ಳು" data-language-autonym="ಕನ್ನಡ" data-language-local-name="каннада" class="interlanguage-link-target"><span>ಕನ್ನಡ</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%84%9D%EC%A3%BD%EA%B3%BC" title="석죽과 — корейский" lang="ko" hreflang="ko" data-title="석죽과" data-language-autonym="한국어" data-language-local-name="корейский" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-ky mw-list-item"><a href="https://ky.wikipedia.org/wiki/%D0%A7%D0%B5%D0%B3%D0%B5_%D0%B3%D2%AF%D0%BB%D0%B4%D2%AF%D0%BB%D3%A9%D1%80" title="Чеге гүлдүлөр — киргизский" lang="ky" hreflang="ky" data-title="Чеге гүлдүлөр" data-language-autonym="Кыргызча" data-language-local-name="киргизский" class="interlanguage-link-target"><span>Кыргызча</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — латинский" lang="la" hreflang="la" data-title="Caryophyllaceae" data-language-autonym="Latina" data-language-local-name="латинский" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Gvazdikiniai" title="Gvazdikiniai — литовский" lang="lt" hreflang="lt" data-title="Gvazdikiniai" data-language-autonym="Lietuvių" data-language-local-name="литовский" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/Ne%C4%BC%C4%B7u_dzimta" title="Neļķu dzimta — латышский" lang="lv" hreflang="lv" data-title="Neļķu dzimta" data-language-autonym="Latviešu" data-language-local-name="латышский" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%BD%D1%84%D0%B8%D0%BB%D0%B8" title="Каранфили — македонский" lang="mk" hreflang="mk" data-title="Каранфили" data-language-autonym="Македонски" data-language-local-name="македонский" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%95%E0%B4%BE%E0%B4%B0%E0%B4%BF%E0%B4%AF%E0%B5%8B%E0%B4%AB%E0%B4%BF%E0%B4%B2%E0%B5%8D%E0%B4%B2%E0%B5%87%E0%B4%B8%E0%B5%80" title="കാരിയോഫില്ലേസീ — малаялам" lang="ml" hreflang="ml" data-title="കാരിയോഫില്ലേസീ" data-language-autonym="മലയാളം" data-language-local-name="малаялам" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — малайский" lang="ms" hreflang="ms" data-title="Caryophyllaceae" data-language-autonym="Bahasa Melayu" data-language-local-name="малайский" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Anjerfamilie" title="Anjerfamilie — нидерландский" lang="nl" hreflang="nl" data-title="Anjerfamilie" data-language-autonym="Nederlands" data-language-local-name="нидерландский" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Nellikfamilien" title="Nellikfamilien — нюнорск" lang="nn" hreflang="nn" data-title="Nellikfamilien" data-language-autonym="Norsk nynorsk" data-language-local-name="нюнорск" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Nellikfamilien" title="Nellikfamilien — норвежский букмол" lang="nb" hreflang="nb" data-title="Nellikfamilien" data-language-autonym="Norsk bokmål" data-language-local-name="норвежский букмол" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-os mw-list-item"><a href="https://os.wikipedia.org/wiki/%D0%94%D0%B0%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D0%BE%D0%BD%D1%82%C3%A6" title="Даричинонтæ — осетинский" lang="os" hreflang="os" data-title="Даричинонтæ" data-language-autonym="Ирон" data-language-local-name="осетинский" class="interlanguage-link-target"><span>Ирон</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Go%C5%BAdzikowate" title="Goździkowate — польский" lang="pl" hreflang="pl" data-title="Goździkowate" data-language-autonym="Polski" data-language-local-name="польский" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — португальский" lang="pt" hreflang="pt" data-title="Caryophyllaceae" data-language-autonym="Português" data-language-local-name="португальский" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-qu mw-list-item"><a href="https://qu.wikipedia.org/wiki/Klawil_yura_rikch%27aq_ayllu" title="Klawil yura rikch&#039;aq ayllu — кечуа" lang="qu" hreflang="qu" data-title="Klawil yura rikch&#039;aq ayllu" data-language-autonym="Runa Simi" data-language-local-name="кечуа" class="interlanguage-link-target"><span>Runa Simi</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Cariofilacee" title="Cariofilacee — румынский" lang="ro" hreflang="ro" data-title="Cariofilacee" data-language-autonym="Română" data-language-local-name="румынский" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-scn mw-list-item"><a href="https://scn.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — сицилийский" lang="scn" hreflang="scn" data-title="Caryophyllaceae" data-language-autonym="Sicilianu" data-language-local-name="сицилийский" class="interlanguage-link-target"><span>Sicilianu</span></a></li><li class="interlanguage-link interwiki-sco mw-list-item"><a href="https://sco.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — шотландский" lang="sco" hreflang="sco" data-title="Caryophyllaceae" data-language-autonym="Scots" data-language-local-name="шотландский" class="interlanguage-link-target"><span>Scots</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — сербскохорватский" lang="sh" hreflang="sh" data-title="Caryophyllaceae" data-language-autonym="Srpskohrvatski / српскохрватски" data-language-local-name="сербскохорватский" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — Simple English" lang="en-simple" hreflang="en-simple" data-title="Caryophyllaceae" data-language-autonym="Simple English" data-language-local-name="Simple English" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Silenkovit%C3%A9" title="Silenkovité — словацкий" lang="sk" hreflang="sk" data-title="Silenkovité" data-language-autonym="Slovenčina" data-language-local-name="словацкий" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%BD%D1%84%D0%B8%D0%BB%D0%B8" title="Каранфили — сербский" lang="sr" hreflang="sr" data-title="Каранфили" data-language-autonym="Српски / srpski" data-language-local-name="сербский" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Nejlikv%C3%A4xter" title="Nejlikväxter — шведский" lang="sv" hreflang="sv" data-title="Nejlikväxter" data-language-autonym="Svenska" data-language-local-name="шведский" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — турецкий" lang="tr" hreflang="tr" data-title="Caryophyllaceae" data-language-autonym="Türkçe" data-language-local-name="турецкий" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D0%BA%D0%BE%D0%B2%D1%96" title="Гвоздикові — украинский" lang="uk" hreflang="uk" data-title="Гвоздикові" data-language-autonym="Українська" data-language-local-name="украинский" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Chinniguldoshlar" title="Chinniguldoshlar — узбекский" lang="uz" hreflang="uz" data-title="Chinniguldoshlar" data-language-autonym="Oʻzbekcha / ўзбекча" data-language-local-name="узбекский" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/H%E1%BB%8D_C%E1%BA%A9m_ch%C6%B0%E1%BB%9Bng" title="Họ Cẩm chướng — вьетнамский" lang="vi" hreflang="vi" data-title="Họ Cẩm chướng" data-language-autonym="Tiếng Việt" data-language-local-name="вьетнамский" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-vls mw-list-item"><a href="https://vls.wikipedia.org/wiki/Anjerachtign" title="Anjerachtign — West Flemish" lang="vls" hreflang="vls" data-title="Anjerachtign" data-language-autonym="West-Vlams" data-language-local-name="West Flemish" class="interlanguage-link-target"><span>West-Vlams</span></a></li><li class="interlanguage-link interwiki-wa mw-list-item"><a href="https://wa.wikipedia.org/wiki/Djalofrinac%C3%AAyes" title="Djalofrinacêyes — валлонский" lang="wa" hreflang="wa" data-title="Djalofrinacêyes" data-language-autonym="Walon" data-language-local-name="валлонский" class="interlanguage-link-target"><span>Walon</span></a></li><li class="interlanguage-link interwiki-war mw-list-item"><a href="https://war.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — варай" lang="war" hreflang="war" data-title="Caryophyllaceae" data-language-autonym="Winaray" data-language-local-name="варай" class="interlanguage-link-target"><span>Winaray</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/%E7%9F%B3%E7%AB%B9%E7%A7%91" title="石竹科 — у" lang="wuu" hreflang="wuu" data-title="石竹科" data-language-autonym="吴语" data-language-local-name="у" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E7%9F%B3%E7%AB%B9%E7%A7%91" title="石竹科 — кантонский" lang="yue" hreflang="yue" data-title="石竹科" data-language-autonym="粵語" data-language-local-name="кантонский" class="interlanguage-link-target"><span>粵語</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E7%9F%B3%E7%AB%B9%E7%A7%91" title="石竹科 — китайский" lang="zh" hreflang="zh" data-title="石竹科" data-language-autonym="中文" data-language-local-name="китайский" class="interlanguage-link-target"><span>中文</span></a></li>
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q25995#sitelinks-wikipedia" title="Править ссылки на другие языки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Википедия" src="/static/images/mobile/copyright/wikipedia-wordmark-ru.svg" style="width: 7.5em; height: 1.25em;">
+		<img class="mw-logo-tagline" alt="свободная энциклопедия" src="/static/images/mobile/copyright/wikipedia-tagline-ru.svg" width="120" height="11" style="width: 7.5em; height: 0.6875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Искать в Википедии [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="none" spellcheck="false" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Служебная:Поиск">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Найти</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Персональные инструменты">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Измените внешний вид страницы, размер, ширину и цвет шрифта." >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Внешний вид"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Внешний вид</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" class=""><span>Пожертвовать</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно." class=""><span>Создать учётную запись</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o" class=""><span>Войти</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Больше возможностей" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Персональные инструменты"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Персональные инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Пользовательское меню" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru"><span class="vector-icon mw-ui-icon-heart mw-ui-icon-wikimedia-heart"></span> <span>Пожертвовать</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Создать учётную запись</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Сайт">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Содержание" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	data-pinned-container-id="vector-toc-pinned-container"
+	data-unpinned-container-id="vector-toc-unpinned-container"
+>
+	<h2 class="vector-pinnable-header-label">Содержание</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">скрыть</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Начало</div>
+			</a>
+		</li>
+		<li id="toc-Ботаническая_характеристика"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Ботаническая_характеристика">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>Ботаническая характеристика</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Ботаническая_характеристика-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Происхождение_и_распространение"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Происхождение_и_распространение">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>Происхождение и распространение</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Происхождение_и_распространение-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Хозяйственное_значение"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Хозяйственное_значение">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>Хозяйственное значение</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Хозяйственное_значение-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-История_изучения_и_классификация"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#История_изучения_и_классификация">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>История изучения и классификация</span>
+			</div>
+		</a>
+		
+		<ul id="toc-История_изучения_и_классификация-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Роды"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Роды">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">5</span>
+				<span>Роды</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Роды-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Примечания"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Примечания">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">6</span>
+				<span>Примечания</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Примечания-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Литература"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Литература">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">7</span>
+				<span>Литература</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Литература-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Содержание" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Гвоздичные</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Перейти к статье на другом языке. Доступно на 72 языках"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-72" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">72 языка</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%82%D8%B1%D9%86%D9%81%D9%84%D9%8A%D8%A9" title="قرنفلية — арабский" lang="ar" hreflang="ar" data-title="قرنفلية" data-language-autonym="العربية" data-language-local-name="арабский" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D9%82%D8%B1%D9%86%D9%81%D9%84%D9%8A%D9%87" title="قرنفليه — Egyptian Arabic" lang="arz" hreflang="arz" data-title="قرنفليه" data-language-autonym="مصرى" data-language-local-name="Egyptian Arabic" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — астурийский" lang="ast" hreflang="ast" data-title="Caryophyllaceae" data-language-autonym="Asturianu" data-language-local-name="астурийский" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Q%C9%99r%C9%99nfilkimil%C9%99r" title="Qərənfilkimilər — азербайджанский" lang="az" hreflang="az" data-title="Qərənfilkimilər" data-language-autonym="Azərbaycanca" data-language-local-name="азербайджанский" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-azb mw-list-item"><a href="https://azb.wikipedia.org/wiki/%D9%82%D8%B1%D9%87%E2%80%8C%D9%86%D9%81%DB%8C%D9%84_%DA%A9%DB%8C%D9%85%DB%8C%E2%80%8C%D9%84%D8%B1" title="قره‌نفیل کیمی‌لر — South Azerbaijani" lang="azb" hreflang="azb" data-title="قره‌نفیل کیمی‌لر" data-language-autonym="تۆرکجه" data-language-local-name="South Azerbaijani" class="interlanguage-link-target"><span>تۆرکجه</span></a></li><li class="interlanguage-link interwiki-be-x-old mw-list-item"><a href="https://be-tarask.wikipedia.org/wiki/%D0%93%D0%B2%D0%B0%D0%B7%D1%8C%D0%B4%D0%B7%D1%96%D0%BA%D0%BE%D0%B2%D1%8B%D1%8F" title="Гвазьдзіковыя — белорусский (тарашкевица)" lang="be-tarask" hreflang="be-tarask" data-title="Гвазьдзіковыя" data-language-autonym="Беларуская (тарашкевіца)" data-language-local-name="белорусский (тарашкевица)" class="interlanguage-link-target"><span>Беларуская (тарашкевіца)</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%93%D0%B2%D0%B0%D0%B7%D0%B4%D0%B7%D1%96%D0%BA%D0%BE%D0%B2%D1%8B%D1%8F" title="Гваздзіковыя — белорусский" lang="be" hreflang="be" data-title="Гваздзіковыя" data-language-autonym="Беларуская" data-language-local-name="белорусский" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%BC%D1%84%D0%B8%D0%BB%D0%BE%D0%B2%D0%B8" title="Карамфилови — болгарский" lang="bg" hreflang="bg" data-title="Карамфилови" data-language-autonym="Български" data-language-local-name="болгарский" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — боснийский" lang="bs" hreflang="bs" data-title="Caryophyllaceae" data-language-autonym="Bosanski" data-language-local-name="боснийский" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Cariofil%C2%B7l%C3%A0cies" title="Cariofil·làcies — каталанский" lang="ca" hreflang="ca" data-title="Cariofil·làcies" data-language-autonym="Català" data-language-local-name="каталанский" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-ceb mw-list-item"><a href="https://ceb.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — себуано" lang="ceb" hreflang="ceb" data-title="Caryophyllaceae" data-language-autonym="Cebuano" data-language-local-name="себуано" class="interlanguage-link-target"><span>Cebuano</span></a></li><li class="interlanguage-link interwiki-co mw-list-item"><a href="https://co.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — корсиканский" lang="co" hreflang="co" data-title="Caryophyllaceae" data-language-autonym="Corsu" data-language-local-name="корсиканский" class="interlanguage-link-target"><span>Corsu</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Hvozd%C3%ADkovit%C3%A9" title="Hvozdíkovité — чешский" lang="cs" hreflang="cs" data-title="Hvozdíkovité" data-language-autonym="Čeština" data-language-local-name="чешский" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-cv mw-list-item"><a href="https://cv.wikipedia.org/wiki/%D0%A2%D1%83%D0%BF%D0%B0%D0%BB%D0%B0%D0%BA_%D0%B9%D1%8B%D1%88%D1%88%D0%B8%D1%81%D0%B5%D0%BC" title="Тупалак йышшисем — чувашский" lang="cv" hreflang="cv" data-title="Тупалак йышшисем" data-language-autonym="Чӑвашла" data-language-local-name="чувашский" class="interlanguage-link-target"><span>Чӑвашла</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Nellike-familien" title="Nellike-familien — датский" lang="da" hreflang="da" data-title="Nellike-familien" data-language-autonym="Dansk" data-language-local-name="датский" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de badge-Q17437798 badge-goodarticle mw-list-item" title="хорошая статья"><a href="https://de.wikipedia.org/wiki/Nelkengew%C3%A4chse" title="Nelkengewächse — немецкий" lang="de" hreflang="de" data-title="Nelkengewächse" data-language-autonym="Deutsch" data-language-local-name="немецкий" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — английский" lang="en" hreflang="en" data-title="Caryophyllaceae" data-language-autonym="English" data-language-local-name="английский" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Kariofilacoj" title="Kariofilacoj — эсперанто" lang="eo" hreflang="eo" data-title="Kariofilacoj" data-language-autonym="Esperanto" data-language-local-name="эсперанто" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — испанский" lang="es" hreflang="es" data-title="Caryophyllaceae" data-language-autonym="Español" data-language-local-name="испанский" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Nelgilised" title="Nelgilised — эстонский" lang="et" hreflang="et" data-title="Nelgilised" data-language-autonym="Eesti" data-language-local-name="эстонский" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — баскский" lang="eu" hreflang="eu" data-title="Caryophyllaceae" data-language-autonym="Euskara" data-language-local-name="баскский" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%AE%DA%A9%DB%8C%D8%A7%D9%86" title="میخکیان — персидский" lang="fa" hreflang="fa" data-title="میخکیان" data-language-autonym="فارسی" data-language-local-name="персидский" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Kohokkikasvit" title="Kohokkikasvit — финский" lang="fi" hreflang="fi" data-title="Kohokkikasvit" data-language-autonym="Suomi" data-language-local-name="финский" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — французский" lang="fr" hreflang="fr" data-title="Caryophyllaceae" data-language-autonym="Français" data-language-local-name="французский" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-frr mw-list-item"><a href="https://frr.wikipedia.org/wiki/Neegelken" title="Neegelken — северный фризский" lang="frr" hreflang="frr" data-title="Neegelken" data-language-autonym="Nordfriisk" data-language-local-name="северный фризский" class="interlanguage-link-target"><span>Nordfriisk</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Cariofil%C3%A1ceas" title="Cariofiláceas — галисийский" lang="gl" hreflang="gl" data-title="Cariofiláceas" data-language-autonym="Galego" data-language-local-name="галисийский" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%A6%D7%99%D7%A4%D7%95%D7%A8%D7%A0%D7%99%D7%99%D7%9D_(%D7%9E%D7%A9%D7%A4%D7%97%D7%94)" title="ציפורניים (משפחה) — иврит" lang="he" hreflang="he" data-title="ציפורניים (משפחה)" data-language-autonym="עברית" data-language-local-name="иврит" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Klin%C4%8Di%C4%87evke" title="Klinčićevke — хорватский" lang="hr" hreflang="hr" data-title="Klinčićevke" data-language-autonym="Hrvatski" data-language-local-name="хорватский" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-hsb mw-list-item"><a href="https://hsb.wikipedia.org/wiki/Nalikowe_rostliny" title="Nalikowe rostliny — верхнелужицкий" lang="hsb" hreflang="hsb" data-title="Nalikowe rostliny" data-language-autonym="Hornjoserbsce" data-language-local-name="верхнелужицкий" class="interlanguage-link-target"><span>Hornjoserbsce</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Szegf%C5%B1f%C3%A9l%C3%A9k" title="Szegfűfélék — венгерский" lang="hu" hreflang="hu" data-title="Szegfűfélék" data-language-autonym="Magyar" data-language-local-name="венгерский" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — индонезийский" lang="id" hreflang="id" data-title="Caryophyllaceae" data-language-autonym="Bahasa Indonesia" data-language-local-name="индонезийский" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-is mw-list-item"><a href="https://is.wikipedia.org/wiki/Hjartagrasa%C3%A6tt" title="Hjartagrasaætt — исландский" lang="is" hreflang="is" data-title="Hjartagrasaætt" data-language-autonym="Íslenska" data-language-local-name="исландский" class="interlanguage-link-target"><span>Íslenska</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — итальянский" lang="it" hreflang="it" data-title="Caryophyllaceae" data-language-autonym="Italiano" data-language-local-name="итальянский" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%87%E3%82%B7%E3%82%B3%E7%A7%91" title="ナデシコ科 — японский" lang="ja" hreflang="ja" data-title="ナデシコ科" data-language-autonym="日本語" data-language-local-name="японский" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-jv mw-list-item"><a href="https://jv.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — яванский" lang="jv" hreflang="jv" data-title="Caryophyllaceae" data-language-autonym="Jawa" data-language-local-name="яванский" class="interlanguage-link-target"><span>Jawa</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/%E1%83%9B%E1%83%98%E1%83%AE%E1%83%90%E1%83%99%E1%83%98%E1%83%A1%E1%83%94%E1%83%91%E1%83%A0%E1%83%9C%E1%83%98" title="მიხაკისებრნი — грузинский" lang="ka" hreflang="ka" data-title="მიხაკისებრნი" data-language-autonym="ქართული" data-language-local-name="грузинский" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-kab mw-list-item"><a href="https://kab.wikipedia.org/wiki/Tin%C9%A3erfelt" title="Tinɣerfelt — кабильский" lang="kab" hreflang="kab" data-title="Tinɣerfelt" data-language-autonym="Taqbaylit" data-language-local-name="кабильский" class="interlanguage-link-target"><span>Taqbaylit</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D2%9A%D0%B0%D0%BB%D0%B0%D0%BC%D0%BF%D1%8B%D1%80%D0%BB%D0%B0%D1%80_%D1%82%D2%B1%D2%9B%D1%8B%D0%BC%D0%B4%D0%B0%D1%81%D1%8B" title="Қалампырлар тұқымдасы — казахский" lang="kk" hreflang="kk" data-title="Қалампырлар тұқымдасы" data-language-autonym="Қазақша" data-language-local-name="казахский" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-kn mw-list-item"><a href="https://kn.wikipedia.org/wiki/%E0%B2%AA%E0%B3%8C%E0%B2%A6%E0%B3%86%E0%B2%AE%E0%B3%81%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B3%81" title="ಪೌದೆಮುಳ್ಳು — каннада" lang="kn" hreflang="kn" data-title="ಪೌದೆಮುಳ್ಳು" data-language-autonym="ಕನ್ನಡ" data-language-local-name="каннада" class="interlanguage-link-target"><span>ಕನ್ನಡ</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%84%9D%EC%A3%BD%EA%B3%BC" title="석죽과 — корейский" lang="ko" hreflang="ko" data-title="석죽과" data-language-autonym="한국어" data-language-local-name="корейский" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-ky mw-list-item"><a href="https://ky.wikipedia.org/wiki/%D0%A7%D0%B5%D0%B3%D0%B5_%D0%B3%D2%AF%D0%BB%D0%B4%D2%AF%D0%BB%D3%A9%D1%80" title="Чеге гүлдүлөр — киргизский" lang="ky" hreflang="ky" data-title="Чеге гүлдүлөр" data-language-autonym="Кыргызча" data-language-local-name="киргизский" class="interlanguage-link-target"><span>Кыргызча</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — латинский" lang="la" hreflang="la" data-title="Caryophyllaceae" data-language-autonym="Latina" data-language-local-name="латинский" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Gvazdikiniai" title="Gvazdikiniai — литовский" lang="lt" hreflang="lt" data-title="Gvazdikiniai" data-language-autonym="Lietuvių" data-language-local-name="литовский" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/Ne%C4%BC%C4%B7u_dzimta" title="Neļķu dzimta — латышский" lang="lv" hreflang="lv" data-title="Neļķu dzimta" data-language-autonym="Latviešu" data-language-local-name="латышский" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%BD%D1%84%D0%B8%D0%BB%D0%B8" title="Каранфили — македонский" lang="mk" hreflang="mk" data-title="Каранфили" data-language-autonym="Македонски" data-language-local-name="македонский" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%95%E0%B4%BE%E0%B4%B0%E0%B4%BF%E0%B4%AF%E0%B5%8B%E0%B4%AB%E0%B4%BF%E0%B4%B2%E0%B5%8D%E0%B4%B2%E0%B5%87%E0%B4%B8%E0%B5%80" title="കാരിയോഫില്ലേസീ — малаялам" lang="ml" hreflang="ml" data-title="കാരിയോഫില്ലേസീ" data-language-autonym="മലയാളം" data-language-local-name="малаялам" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — малайский" lang="ms" hreflang="ms" data-title="Caryophyllaceae" data-language-autonym="Bahasa Melayu" data-language-local-name="малайский" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Anjerfamilie" title="Anjerfamilie — нидерландский" lang="nl" hreflang="nl" data-title="Anjerfamilie" data-language-autonym="Nederlands" data-language-local-name="нидерландский" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Nellikfamilien" title="Nellikfamilien — нюнорск" lang="nn" hreflang="nn" data-title="Nellikfamilien" data-language-autonym="Norsk nynorsk" data-language-local-name="нюнорск" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Nellikfamilien" title="Nellikfamilien — норвежский букмол" lang="nb" hreflang="nb" data-title="Nellikfamilien" data-language-autonym="Norsk bokmål" data-language-local-name="норвежский букмол" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-os mw-list-item"><a href="https://os.wikipedia.org/wiki/%D0%94%D0%B0%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D0%BE%D0%BD%D1%82%C3%A6" title="Даричинонтæ — осетинский" lang="os" hreflang="os" data-title="Даричинонтæ" data-language-autonym="Ирон" data-language-local-name="осетинский" class="interlanguage-link-target"><span>Ирон</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Go%C5%BAdzikowate" title="Goździkowate — польский" lang="pl" hreflang="pl" data-title="Goździkowate" data-language-autonym="Polski" data-language-local-name="польский" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — португальский" lang="pt" hreflang="pt" data-title="Caryophyllaceae" data-language-autonym="Português" data-language-local-name="португальский" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-qu mw-list-item"><a href="https://qu.wikipedia.org/wiki/Klawil_yura_rikch%27aq_ayllu" title="Klawil yura rikch&#039;aq ayllu — кечуа" lang="qu" hreflang="qu" data-title="Klawil yura rikch&#039;aq ayllu" data-language-autonym="Runa Simi" data-language-local-name="кечуа" class="interlanguage-link-target"><span>Runa Simi</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Cariofilacee" title="Cariofilacee — румынский" lang="ro" hreflang="ro" data-title="Cariofilacee" data-language-autonym="Română" data-language-local-name="румынский" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-scn mw-list-item"><a href="https://scn.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — сицилийский" lang="scn" hreflang="scn" data-title="Caryophyllaceae" data-language-autonym="Sicilianu" data-language-local-name="сицилийский" class="interlanguage-link-target"><span>Sicilianu</span></a></li><li class="interlanguage-link interwiki-sco mw-list-item"><a href="https://sco.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — шотландский" lang="sco" hreflang="sco" data-title="Caryophyllaceae" data-language-autonym="Scots" data-language-local-name="шотландский" class="interlanguage-link-target"><span>Scots</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — сербскохорватский" lang="sh" hreflang="sh" data-title="Caryophyllaceae" data-language-autonym="Srpskohrvatski / српскохрватски" data-language-local-name="сербскохорватский" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — Simple English" lang="en-simple" hreflang="en-simple" data-title="Caryophyllaceae" data-language-autonym="Simple English" data-language-local-name="Simple English" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Silenkovit%C3%A9" title="Silenkovité — словацкий" lang="sk" hreflang="sk" data-title="Silenkovité" data-language-autonym="Slovenčina" data-language-local-name="словацкий" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%BD%D1%84%D0%B8%D0%BB%D0%B8" title="Каранфили — сербский" lang="sr" hreflang="sr" data-title="Каранфили" data-language-autonym="Српски / srpski" data-language-local-name="сербский" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Nejlikv%C3%A4xter" title="Nejlikväxter — шведский" lang="sv" hreflang="sv" data-title="Nejlikväxter" data-language-autonym="Svenska" data-language-local-name="шведский" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — турецкий" lang="tr" hreflang="tr" data-title="Caryophyllaceae" data-language-autonym="Türkçe" data-language-local-name="турецкий" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D0%BA%D0%BE%D0%B2%D1%96" title="Гвоздикові — украинский" lang="uk" hreflang="uk" data-title="Гвоздикові" data-language-autonym="Українська" data-language-local-name="украинский" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Chinniguldoshlar" title="Chinniguldoshlar — узбекский" lang="uz" hreflang="uz" data-title="Chinniguldoshlar" data-language-autonym="Oʻzbekcha / ўзбекча" data-language-local-name="узбекский" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/H%E1%BB%8D_C%E1%BA%A9m_ch%C6%B0%E1%BB%9Bng" title="Họ Cẩm chướng — вьетнамский" lang="vi" hreflang="vi" data-title="Họ Cẩm chướng" data-language-autonym="Tiếng Việt" data-language-local-name="вьетнамский" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-vls mw-list-item"><a href="https://vls.wikipedia.org/wiki/Anjerachtign" title="Anjerachtign — West Flemish" lang="vls" hreflang="vls" data-title="Anjerachtign" data-language-autonym="West-Vlams" data-language-local-name="West Flemish" class="interlanguage-link-target"><span>West-Vlams</span></a></li><li class="interlanguage-link interwiki-wa mw-list-item"><a href="https://wa.wikipedia.org/wiki/Djalofrinac%C3%AAyes" title="Djalofrinacêyes — валлонский" lang="wa" hreflang="wa" data-title="Djalofrinacêyes" data-language-autonym="Walon" data-language-local-name="валлонский" class="interlanguage-link-target"><span>Walon</span></a></li><li class="interlanguage-link interwiki-war mw-list-item"><a href="https://war.wikipedia.org/wiki/Caryophyllaceae" title="Caryophyllaceae — варай" lang="war" hreflang="war" data-title="Caryophyllaceae" data-language-autonym="Winaray" data-language-local-name="варай" class="interlanguage-link-target"><span>Winaray</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/%E7%9F%B3%E7%AB%B9%E7%A7%91" title="石竹科 — у" lang="wuu" hreflang="wuu" data-title="石竹科" data-language-autonym="吴语" data-language-local-name="у" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E7%9F%B3%E7%AB%B9%E7%A7%91" title="石竹科 — кантонский" lang="yue" hreflang="yue" data-title="石竹科" data-language-autonym="粵語" data-language-local-name="кантонский" class="interlanguage-link-target"><span>粵語</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E7%9F%B3%E7%AB%B9%E7%A7%91" title="石竹科 — китайский" lang="zh" hreflang="zh" data-title="石竹科" data-language-autonym="中文" data-language-local-name="китайский" class="interlanguage-link-target"><span>中文</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q25995#sitelinks-wikipedia" title="Править ссылки на другие языки" class="wbc-editpage">Править ссылки</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Пространства имён">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Изменить вариант языка"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">русский</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Просмотры">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5"><span>Читать</span></a></li><li id="ca-ve-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Инструменты"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Инструменты</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Больше возможностей" >
+	<div class="vector-menu-heading">
+		Действия
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5"><span>Читать</span></a></li><li id="ca-more-ve-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-more-edit" class="collapsible vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5&amp;action=history"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		Основное
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5&amp;oldid=149477601" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5&amp;id=149477601&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2593%25D0%25B2%25D0%25BE%25D0%25B7%25D0%25B4%25D0%25B8%25D1%2587%25D0%25BD%25D1%258B%25D0%25B5"><span>Получить короткий URL</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Печать/экспорт
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		В других проектах
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Caryophyllaceae" hreflang="en"><span>Викисклад</span></a></li><li class="wb-otherproject-link wb-otherproject-species mw-list-item"><a href="https://species.wikimedia.org/wiki/Caryophyllaceae" hreflang="en"><span>Викивиды</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q25995" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Внешний вид</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">скрыть</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><style data-mw-deduplicate="TemplateStyles:r143790059">.mw-parser-output .ts-Таксон-ids{width:100%;border-collapse:collapse;background:transparent}.mw-parser-output .ts-Таксон-ids th{font-weight:normal;text-align:right;vertical-align:middle;width:40%}.mw-parser-output .ts-Таксон-ids td{text-align:left;vertical-align:middle}body.skin--responsive.skin-minerva .mw-parser-output .infobox .ts-Таксон-ids th,body.skin--responsive.skin-minerva .mw-parser-output .infobox .ts-Таксон-ids td{padding:4px 1px;vertical-align:middle}</style><style data-mw-deduplicate="TemplateStyles:r145942173">.mw-parser-output .ts-Taxonomy-rang-row{text-align:left;width:100%;border-spacing:0}.mw-parser-output .ts-Taxonomy-rang-row:not([hidden]){display:table}.mw-parser-output .ts-Taxonomy-rang-label{display:table-cell;text-align:right;vertical-align:top;padding-right:0.3em!important;white-space:nowrap}.mw-parser-output .ts-Taxonomy-rang-name{display:table-cell;text-align:left;vertical-align:bottom}.mw-parser-output .ts-Taxonomy-error{color:var(--color-subtle,#54595d);background:var(--background-color-disabled,#c8ccd1);font-size:85%}body.skin-minerva .mw-parser-output .ts-Taxonomy-rang-label{width:40%}@media(min-width:720px){.mw-parser-output .ts-Taxonomy-rang-label{width:40%!important}}</style>
+<table class="infobox infobox-73aad0ded4a89524" style="width: 22em; text-align: left; font-size: 88%; line-height: 1.5em; width:275px;" data-name="Таксон"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="background:#90ee90;font-size:130%;">Гвоздичные</th></tr><tr><td colspan="2" class="infobox-image" style=""> <span data-wikidata-property-id="P18" class="no-wikidata"><span typeof="mw:File/Frameless"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Illustration_Dianthus_deltoides0-clean.jpg" class="mw-file-description" title="Dianthus carthusianorum (слева) и Dianthus deltoides (справа)"><img alt="Dianthus carthusianorum (слева) и Dianthus deltoides (справа)" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Illustration_Dianthus_deltoides0-clean.jpg/250px-Illustration_Dianthus_deltoides0-clean.jpg" decoding="async" width="242" height="400" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Illustration_Dianthus_deltoides0-clean.jpg/500px-Illustration_Dianthus_deltoides0-clean.jpg 2x" data-file-width="1434" data-file-height="2367" /></a></span><br /><span data-wikidata-qualifier-id="P2096" class="media-caption" style="display:block"><i>Dianthus carthusianorum</i> (слева) и <i>Dianthus deltoides</i> (справа)</span></span> </td></tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="background:#abf2ab;font-size:110%;"><a href="/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Биологическая систематика">Научная классификация</a></th>
+</tr>
+<tr>
+<td colspan="2" class="plainlist" style="text-align:center;font-size:110%;">
+<div data-expandtext="подробно" data-collapsetext="кратко" class="mw-collapsible mw-collapsed" style="font-size:95%; background-color: transparent; color: inherit; border:0;"><div class="ts-Taxonomy-rang-row"><div class="ts-Taxonomy-rang-label" style="color:inherit">Домен:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Eukaryota" class="mw-redirect" title="Eukaryota">Эукариоты</a></div></div><div class="ts-Taxonomy-rang-row"><div class="ts-Taxonomy-rang-label" style="color:inherit">Царство:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Plantae" class="mw-redirect" title="Plantae">Растения</a></div></div><div class="ts-Taxonomy-rang-row mw-collapsible-content"><div class="ts-Taxonomy-rang-label" style="color:#6F6F00">Клада:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Angiosperms" class="mw-redirect" title="Angiosperms">Цветковые растения</a></div></div><div class="ts-Taxonomy-rang-row mw-collapsible-content"><div class="ts-Taxonomy-rang-label" style="color:#6F6F00">Клада:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Eudicots" class="mw-redirect" title="Eudicots">Эвдикоты</a></div></div><div class="ts-Taxonomy-rang-row mw-collapsible-content"><div class="ts-Taxonomy-rang-label" style="color:#6F6F00">Клада:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Superasterids" class="mw-redirect" title="Superasterids">Суперастериды</a></div></div><div class="ts-Taxonomy-rang-row"><div class="ts-Taxonomy-rang-label" style="color:inherit">Порядок:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Caryophyllales" class="mw-redirect" title="Caryophyllales">Гвоздичноцветные</a></div></div><div class="ts-Taxonomy-rang-row"><div class="ts-Taxonomy-rang-label" style="color:inherit">Семейство:</div><div class="ts-Taxonomy-rang-name"><b>Гвоздичные</b></div></div></div></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="background:#abf2ab;font-size:110%;">Международное научное название</th>
+</tr>
+<tr>
+<td colspan="2" class="plainlist" style="text-align:center;font-size:110%;">
+<i>Caryophyllaceae</i> <span style="font-variant:small-caps;"><a href="/wiki/Juss." class="mw-redirect" title="Juss.">Juss.</a>, <a href="/wiki/1789" class="mw-redirect" title="1789">1789</a></span></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="background:#abf2ab;font-size:110%;"><a href="/wiki/%D0%A0%D0%BE%D0%B4_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Род (биология)">Роды</a></th>
+</tr>
+<tr>
+<td colspan="2" class="noplainlist" style="text-align:center;font-size:110%;">
+<div align="left">
+См. <i><a href="/wiki/%D0%A0%D0%BE%D0%B4%D1%8B_%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B0_%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5" title="Роды семейства Гвоздичные">Роды семейства Гвоздичные</a></i></div></td>
+</tr><tr><td colspan="2" class="infobox-below" style="background:#c6f6c6; font-size:90%; line-height:140%;;"><table role="presentation" width="100%" class="plainlinks" cellspacing="0" cellpadding="4"><tbody><tr><td style="vertical-align:middle"><span typeof="mw:File"><a href="https://species.wikimedia.org/wiki/Caryophyllaceae?uselang=ru"><img alt="Логотип Викивидов" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/20px-Wikispecies-logo.svg.png" decoding="async" width="17" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/40px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103" /></a></span><br /><a class="external text" href="https://species.wikimedia.org/wiki/Caryophyllaceae?uselang=ru">Систематика<br />в&#160;Викивидах</a></td><td style="vertical-align:middle"><span typeof="mw:File"><a href="https://commons.wikimedia.org/wiki/Category:Caryophyllaceae"><img alt="Логотип Викисклада" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png" decoding="async" width="15" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></span><br /><a class="external text" href="https://commons.wikimedia.org/wiki/Category:Caryophyllaceae">Изображения<br />на&#160;Викискладе</a></td><td><table class="ts-Таксон-ids">
+<tbody><tr><th scope="row"><a href="/wiki/%D0%9E%D0%B1%D1%8A%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D1%82%D0%B0%D0%BA%D1%81%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D0%B0" title="Объединённая таксономическая информационная служба">ITIS</a>&#160;&#160;</th><td class="plainlinks"><span data-wikidata-claim-id="Q25995$D814FF84-D93D-4207-ACDB-C4EF960AC468" class="wikidata-claim" data-wikidata-property-id="P815"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=19942">19942</a></span></span></td></tr><tr><th scope="row"><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%86%D0%B5%D0%BD%D1%82%D1%80_%D0%B1%D0%B8%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%B8" title="Национальный центр биотехнологической информации">NCBI</a>&#160;&#160;</th><td class="plainlinks"><span data-wikidata-claim-id="Q25995$485DC88F-EE09-4844-A19A-8439BB6A50F8" class="wikidata-claim" data-wikidata-property-id="P685"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=3568">3568</a></span></span></td></tr><tr><th scope="row"><a href="/wiki/%D0%AD%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8" title="Энциклопедия жизни">EOL</a>&#160;&#160;</th><td class="plainlinks"><span data-wikidata-claim-id="Q25995$69CC64B5-0C30-49E8-BF33-33F81272658C" class="wikidata-claim" data-wikidata-property-id="P830"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://eol.org/pages/4229">4229</a></span></span></td></tr><tr><th scope="row"><a href="/wiki/Germplasm_Resources_Information_Network" title="Germplasm Resources Information Network">GRIN</a>&#160;&#160;</th><td class="plainlinks"><a rel="nofollow" class="external text" href="https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?id=222">f:222</a></td></tr><tr><th scope="row"><a href="/wiki/International_Plant_Names_Index" title="International Plant Names Index">IPNI</a>&#160;&#160;</th><td class="plainlinks"><span data-wikidata-claim-id="Q25995$DF5C7C4F-F095-46D4-B63F-E701F0092EAC" class="wikidata-claim" data-wikidata-property-id="P961"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://www.ipni.org/n/30000815-2">30000815-2</a></span></span></td></tr><tr><th scope="row"><a href="/wiki/Plants_of_the_World_Online" title="Plants of the World Online">POWO</a>&#160;</th><td class="plainlinks"><span data-wikidata-claim-id="Q25995$72D689E3-581B-4D71-BC41-923399F761AD" class="wikidata-claim" data-wikidata-property-id="P5037"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000815-2">30000815-2</a></span></span></td></tr><tr><th scope="row"><a href="/wiki/World_Flora_Online" title="World Flora Online">WFO</a>&#160;&#160;</th><td class="plainlinks"><span data-wikidata-claim-id="Q25995$FE98FA1F-E008-4C18-BA68-152E342F1CB3" class="wikidata-claim" data-wikidata-property-id="P7715"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="http://www.worldfloraonline.org/taxon/wfo-7000000117">7000000117</a></span></span></td></tr><tr><th scope="row"><a href="/wiki/Fossilworks" title="Fossilworks">FW</a>&#160;&#160;</th><td class="plainlinks"><span data-wikidata-claim-id="Q25995$8852F51C-705E-4CD6-8562-20230C23018E" class="wikidata-claim" data-wikidata-property-id="P842"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://web.archive.org/web/0/http://www.fossilworks.org/cgi-bin/bridge.pl?a=taxonInfo&amp;taxon_no=53554">53554</a></span></span></td></tr></tbody></table></td></tr></tbody></table></td></tr>
+</tbody></table>
+<p><b>Гвозди́чные</b>, или <b>Гвоздиковые</b><sup id="cite&#95;ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> (<a href="/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Латинский язык">лат.</a>&#160;<span lang="la" style="font-style:italic;">Caryophylláceae</span>)&#160;— <a href="/wiki/%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%BE" title="Семейство">семейство</a> свободнолепестных растений, состоящее из однолетних или многолетних <a href="/wiki/%D0%A2%D1%80%D0%B0%D0%B2%D1%8B" class="mw-redirect" title="Травы">трав</a> и немногих <a href="/wiki/%D0%9F%D0%BE%D0%BB%D1%83%D0%BA%D1%83%D1%81%D1%82%D0%B0%D1%80%D0%BD%D0%B8%D0%BA%D0%B8" class="mw-redirect" title="Полукустарники">полукустарников</a>. Входит в порядок <a href="/wiki/%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D0%BE%D1%86%D0%B2%D0%B5%D1%82%D0%BD%D1%8B%D0%B5" title="Гвоздичноцветные">Гвоздичноцветные</a>.
+</p>
+<meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading2"><h2 id="Ботаническая_характеристика"><span id=".D0.91.D0.BE.D1.82.D0.B0.D0.BD.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B0.D1.8F_.D1.85.D0.B0.D1.80.D0.B0.D0.BA.D1.82.D0.B5.D1.80.D0.B8.D1.81.D1.82.D0.B8.D0.BA.D0.B0"></span>Ботаническая характеристика</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Ботаническая характеристика»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5&amp;action=edit&amp;section=1" title="Редактировать код раздела «Ботаническая характеристика»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Обычно <a href="/wiki/%D0%A2%D1%80%D0%B0%D0%B2%D1%8F%D0%BD%D0%B8%D1%81%D1%82%D1%8B%D0%B5_%D1%80%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D1%8F" title="Травянистые растения">травянистые растения</a>, реже <a href="/wiki/%D0%9F%D0%BE%D0%BB%D1%83%D0%BA%D1%83%D1%81%D1%82%D0%B0%D1%80%D0%BD%D0%B8%D0%BA" title="Полукустарник">полукустарники</a> и <a href="/wiki/%D0%9A%D1%83%D1%81%D1%82%D0%B0%D1%80%D0%BD%D0%B8%D0%BA" title="Кустарник">кустарники</a>.
+</p><p>У всех видов, за немногими исключениями, <a href="/wiki/%D0%9B%D0%B8%D1%81%D1%82" title="Лист">листья</a> парные, супротивные, редко очерёдные, всегда простые, от почти линейных до овальных, изредка с небольшими плёнчатыми прилистниками.
+</p><p><a href="/wiki/%D0%A6%D0%B2%D0%B5%D1%82%D0%BE%D0%BA" title="Цветок">Цветки</a> правильные, обоеполые, реже однополые, с чашечкой и <a href="/wiki/%D0%92%D0%B5%D0%BD%D1%87%D0%B8%D0%BA" title="Венчик">венчиком</a>. Число частей пятерное, редко четверное. Околоцветник двойной (реже простой). <a href="/wiki/%D0%A7%D0%B0%D1%88%D0%B5%D1%87%D0%BA%D0%B0" title="Чашечка">Чашечка</a> из четырёх-пяти срастающихся, редко свободных чашелистиков. <a href="/wiki/%D0%A2%D1%8B%D1%87%D0%B8%D0%BD%D0%BA%D0%B0" title="Тычинка">Тычинки</a> обычно свободные или реже прирастающие к чашелистикам, в двух кругах по пять, либо четыре или пять в одном круге. <a href="/wiki/%D0%93%D0%B8%D0%BD%D0%B5%D1%86%D0%B5%D0%B9" title="Гинецей">Гинецей</a> ценокарпный, сросшийся из двух-пяти плодолистиков. Многочисленные семязачатки. <a href="/wiki/%D0%97%D0%B0%D0%B2%D1%8F%D0%B7%D1%8C" title="Завязь">Завязь</a> цельная, верхняя; <a href="/wiki/%D0%A1%D1%82%D0%BE%D0%BB%D0%B1%D0%B8%D0%BA" class="mw-redirect" title="Столбик">столбик</a> один или несколько.
+</p><p><a href="/wiki/%D0%A4%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0_%D1%86%D0%B2%D0%B5%D1%82%D0%BA%D0%B0" title="Формула цветка">Формула цветка</a>: <span class="nowrap"><span class="mwe-math-element mwe-math-element-inline"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \ast K_{5}\ oder\ K_{(5)}\;C_{5-0}\;A_{5+5}\;G_{{\underline {(5)}}-{\underline {(2)}}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>&#x2217;<!-- ∗ --></mo>
+        <msub>
+          <mi>K</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>5</mn>
+          </mrow>
+        </msub>
+        <mtext>&#xA0;</mtext>
+        <mi>o</mi>
+        <mi>d</mi>
+        <mi>e</mi>
+        <mi>r</mi>
+        <mtext>&#xA0;</mtext>
+        <msub>
+          <mi>K</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo stretchy="false">(</mo>
+            <mn>5</mn>
+            <mo stretchy="false">)</mo>
+          </mrow>
+        </msub>
+        <mspace width="thickmathspace" />
+        <msub>
+          <mi>C</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>5</mn>
+            <mo>&#x2212;<!-- − --></mo>
+            <mn>0</mn>
+          </mrow>
+        </msub>
+        <mspace width="thickmathspace" />
+        <msub>
+          <mi>A</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>5</mn>
+            <mo>+</mo>
+            <mn>5</mn>
+          </mrow>
+        </msub>
+        <mspace width="thickmathspace" />
+        <msub>
+          <mi>G</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <munder>
+                <mrow>
+                  <mo stretchy="false">(</mo>
+                  <mn>5</mn>
+                  <mo stretchy="false">)</mo>
+                </mrow>
+                <mo>&#x005F;<!-- _ --></mo>
+              </munder>
+            </mrow>
+            <mo>&#x2212;<!-- − --></mo>
+            <mrow class="MJX-TeXAtom-ORD">
+              <munder>
+                <mrow>
+                  <mo stretchy="false">(</mo>
+                  <mn>2</mn>
+                  <mo stretchy="false">)</mo>
+                </mrow>
+                <mo>&#x005F;<!-- _ --></mo>
+              </munder>
+            </mrow>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \ast K_{5}\ oder\ K_{(5)}\;C_{5-0}\;A_{5+5}\;G_{{\underline {(5)}}-{\underline {(2)}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/836705676ad4152cc183adc6173c79d138655bc8" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -1.205ex; margin-bottom: -0.633ex; width:33.327ex; height:3.676ex;" alt="{\displaystyle \ast K_{5}\ oder\ K_{(5)}\;C_{5-0}\;A_{5+5}\;G_{{\underline {(5)}}-{\underline {(2)}}}}"></span></span>.
+<a href="/wiki/%D0%A1%D0%BE%D1%86%D0%B2%D0%B5%D1%82%D0%B8%D0%B5" title="Соцветие">Соцветие</a> верхушечное, двуразвилистое или многоразвилистое, то раскидистое, то плотное, пучковатое.
+</p><p><a href="/wiki/%D0%9F%D0%BB%D0%BE%D0%B4" title="Плод">Плод</a>&#160;— <a href="/wiki/%D0%A6%D0%B5%D0%BD%D0%BE%D0%BA%D0%B0%D1%80%D0%BF%D0%B8%D0%B9" title="Ценокарпий">ценокарпий</a>, в большинстве случаев сухой, в виде <a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%B1%D0%BE%D1%87%D0%BA%D0%B0" title="Коробочка">коробочки</a> или <a href="/wiki/%D0%9E%D1%80%D0%B5%D1%85" title="Орех">ореха</a>, реже <a href="/wiki/%D0%AF%D0%B3%D0%BE%D0%B4%D0%B0_(%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0)" title="Ягода (ботаника)">ягоды</a>, раскрывающейся зубцами или полустворками, одногнёздный, с центральным семяносцем; <a href="/wiki/%D0%A1%D0%B5%D0%BC%D1%8F" title="Семя">семян</a> у большинства много, редко одно. Ягодообразный плод редок. <a href="/wiki/%D0%A1%D0%B5%D0%BC%D1%8F" title="Семя">Семена</a> мелкие, гладкие или бугорчатые, <a href="/wiki/%D0%97%D0%B0%D1%80%D0%BE%D0%B4%D1%8B%D1%88_(%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0)" title="Зародыш (ботаника)">зародыш</a> более или менее согнутый, периферический, прилегающий к белку.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Происхождение_и_распространение"><span id=".D0.9F.D1.80.D0.BE.D0.B8.D1.81.D1.85.D0.BE.D0.B6.D0.B4.D0.B5.D0.BD.D0.B8.D0.B5_.D0.B8_.D1.80.D0.B0.D1.81.D0.BF.D1.80.D0.BE.D1.81.D1.82.D1.80.D0.B0.D0.BD.D0.B5.D0.BD.D0.B8.D0.B5"></span>Происхождение и распространение</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Происхождение и распространение»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5&amp;action=edit&amp;section=2" title="Редактировать код раздела «Происхождение и распространение»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>В соответствии с современной таксономической <a href="/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_APG_IV" title="Система APG IV">системой APG IV</a> по состоянию на декабрь 2023 года семейство насчитывает 98 родов и 2 511 видов<sup id="cite&#95;ref-WFOPL&#95;2-0" class="reference"><a href="#cite_note-WFOPL-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>Распространены гвоздичные по всем континентам Земли, но неравномерно. Наибольшее число видов встречается в области древнего <a href="/wiki/%D0%A1%D1%80%D0%B5%D0%B4%D0%B8%D0%B7%D0%B5%D0%BC%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D1%8C%D0%B5" title="Средиземноморье">Средиземноморья</a>, районах <a href="/wiki/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%90%D0%B7%D0%B8%D1%8F" title="Центральная Азия">Центральной</a> и <a href="/wiki/%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B0%D1%8F_%D0%90%D0%B7%D0%B8%D1%8F" title="Восточная Азия">Восточной Азии</a>. Гвоздичные играют большую роль во многих <a href="/wiki/%D0%A2%D1%80%D0%B0%D0%B2%D1%8F%D0%BD%D0%B8%D1%81%D1%82%D1%8B%D0%B5_%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0" title="Травянистые сообщества">травянистых растительных сообществах</a> и способны расти в <a href="/wiki/%D0%9F%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8F" title="Пустыня">пустынях</a>, <a href="/wiki/%D0%A2%D1%83%D0%BD%D0%B4%D1%80%D0%B0" title="Тундра">тундрах</a>, высокогорьях <a href="/wiki/%D0%A1%D1%83%D0%B1%D1%82%D1%80%D0%BE%D0%BF%D0%B8%D0%BA%D0%B8" title="Субтропики">субтропиков</a> и <a href="/wiki/%D0%A2%D1%80%D0%BE%D0%BF%D0%B8%D0%BA%D0%B8" title="Тропики">тропиков</a>, где они представлены своеобразной подушечной формой.
+</p><p>Два представителя семейства гвоздичных достойны включения в <a href="/wiki/%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0_%D1%80%D0%B5%D0%BA%D0%BE%D1%80%D0%B4%D0%BE%D0%B2_%D0%93%D0%B8%D0%BD%D0%BD%D0%B5%D1%81%D1%81%D0%B0" title="Книга рекордов Гиннесса">Книгу рекордов Гиннесса</a>&#160;— это <a href="/wiki/%D0%9A%D0%BE%D0%BB%D0%BE%D0%B1%D0%B0%D0%BD%D1%82%D1%83%D1%81_%D0%BA%D0%B8%D1%82%D0%BE" title="Колобантус кито">Колобантус кито</a>&#32;(<i><span lang="la">Colobanthus quitensis</span></i>) и <a href="/w/index.php?title=%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D1%87%D0%B0%D1%82%D0%BA%D0%B0_%D1%81%D1%82%D0%B5%D0%BB%D1%8E%D1%89%D0%B0%D1%8F%D1%81%D1%8F&amp;action=edit&amp;redlink=1" class="new" title="Звездчатка стелющаяся (страница отсутствует)">Звездчатка стелющаяся</a>&#32;(<i><span lang="la"><a href="/w/index.php?title=Stellaria_decumbens&amp;action=edit&amp;redlink=1" class="new" title="Stellaria decumbens (страница отсутствует)">Stellaria decumbens</a></span></i>). Первое растение входит во флору цветковых <a href="/wiki/%D0%90%D0%BD%D1%82%D0%B0%D1%80%D0%BA%D1%82%D0%B8%D0%B4%D0%B0" title="Антарктида">Антарктиды</a>, состоящую всего из двух видов. Второе&#160;— обнаружено в <a href="/wiki/%D0%93%D0%B8%D0%BC%D0%B0%D0%BB%D0%B0%D0%B8" title="Гималаи">Гималаях</a> на высоте 6&#160;тыс. м над уровнем моря<sup id="cite&#95;ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Хозяйственное_значение"><span id=".D0.A5.D0.BE.D0.B7.D1.8F.D0.B9.D1.81.D1.82.D0.B2.D0.B5.D0.BD.D0.BD.D0.BE.D0.B5_.D0.B7.D0.BD.D0.B0.D1.87.D0.B5.D0.BD.D0.B8.D0.B5"></span>Хозяйственное значение</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Хозяйственное значение»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5&amp;action=edit&amp;section=3" title="Редактировать код раздела «Хозяйственное значение»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Представители семейства Гвоздичные имеют важное хозяйственное значение. Некоторые представители гвоздичных, такие как <a href="/wiki/%D0%93%D0%B8%D0%BF%D1%81%D0%BE%D1%84%D0%B8%D0%BB%D0%B0" class="mw-redirect" title="Гипсофила">Гипсофила</a>, <a href="/wiki/%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D0%BA%D0%B0_(%D1%80%D0%BE%D0%B4_%D1%80%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D0%B9)" class="mw-redirect" title="Гвоздика (род растений)">Гвоздика</a>, <a href="/wiki/%D0%9C%D1%8B%D0%BB%D1%8C%D0%BD%D1%8F%D0%BD%D0%BA%D0%B0" title="Мыльнянка">Мыльнянка</a>, <a href="/wiki/%D0%94%D1%80%D1%91%D0%BC%D0%B0" title="Дрёма">Дрёма</a>, <a href="/wiki/%D0%97%D0%BE%D1%80%D1%8C%D0%BA%D0%B0_(%D1%80%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D0%B5)" title="Зорька (растение)">Зорька</a> введены в культуру и используются как <a href="/wiki/%D0%94%D0%B5%D0%BA%D0%BE%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5_%D1%80%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D1%8F" title="Декоративные растения">декоративные растения</a>. Гвоздичные содержат различные физиологически активные вещества: <a href="/wiki/%D0%A4%D0%BB%D0%B0%D0%B2%D0%BE%D0%BD%D0%BE%D0%B8%D0%B4%D1%8B" title="Флавоноиды">флавоноиды</a>, <a href="/wiki/%D0%90%D0%BB%D0%BA%D0%B0%D0%BB%D0%BE%D0%B8%D0%B4%D1%8B" title="Алкалоиды">алкалоиды</a>, <a href="/wiki/%D0%92%D0%B8%D1%82%D0%B0%D0%BC%D0%B8%D0%BD%D1%8B" title="Витамины">витамины</a>, <a href="/wiki/%D0%9A%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0#Органические_кислоты" class="mw-redirect" title="Кислота">органические кислоты</a>, <a href="/w/index.php?title=%D0%A4%D0%B8%D1%82%D0%BE%D1%8D%D0%BA%D0%B4%D0%B8%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B8%D0%B4%D1%8B&amp;action=edit&amp;redlink=1" class="new" title="Фитоэкдистероиды (страница отсутствует)">фитоэкдистероиды</a> и <a href="/wiki/%D0%A1%D0%B0%D0%BF%D0%BE%D0%BD%D0%B8%D0%BD%D1%8B" title="Сапонины">сапонины</a>. Наличие данных веществ обусловливает применение отдельных видов семейства&#160;— <a href="/wiki/%D0%93%D1%80%D1%8B%D0%B6%D0%BD%D0%B8%D0%BA_%D0%B3%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8%D0%B9" title="Грыжник гладкий">Грыжник гладкий</a>&#32;(<i><span lang="la">Herniaria glabra</span></i>), представителей родов <a href="/wiki/%D0%9A%D0%B0%D1%87%D0%B8%D0%BC" title="Качим">Качим</a>&#32;(<i><span lang="la">Gypsophila</span></i>), <a href="/wiki/%D0%9A%D0%BE%D0%BB%D1%8E%D1%87%D0%B5%D0%BB%D0%B8%D1%81%D1%82%D0%BD%D0%B8%D0%BA" title="Колючелистник">Колючелистник</a>&#32;(<i><span lang="la">Acanthophyllum</span></i>), <a href="/wiki/%D0%A1%D0%BC%D0%BE%D0%BB%D1%91%D0%B2%D0%BA%D0%B0" title="Смолёвка">Смолёвка</a>&#32;(<i><span lang="la">Silene</span></i>)&#160;— в народной и официальной медицине. Из-за значительного содержания сапонинов ряд гвоздичных используется в качестве заменителей <a href="/wiki/%D0%9C%D1%8B%D0%BB%D0%BE" title="Мыло">мыла</a>, при производстве пенобетона и восточных сладостей. Многие виды дают хорошее <a href="/wiki/%D0%A1%D0%B5%D0%BD%D0%BE" title="Сено">сено</a>, <a href="/wiki/%D0%A2%D0%BE%D1%80%D0%B8%D1%86%D0%B0_%D0%BF%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F" title="Торица полевая">Торица полевая</a>&#32;(<i><span lang="la">Spergula arvensis</span></i>) сеется как <a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BC%D0%BE%D0%B2%D1%8B%D0%B5_%D1%82%D1%80%D0%B0%D0%B2%D1%8B" class="mw-redirect" title="Кормовые травы">кормовая трава</a>.
+</p><p>Ядовит для человека и скота <a href="/wiki/%D0%9A%D1%83%D0%BA%D0%BE%D0%BB%D1%8C_%D0%BE%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9" title="Куколь обыкновенный">Куколь обыкновенный</a>&#32;(<i><span lang="la">Agrostemma githago</span></i>). Сорняками являются <a href="/wiki/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D1%87%D0%B0%D1%82%D0%BA%D0%B0_%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F" title="Звездчатка средняя">Звездчатка средняя</a>&#32;(<i><span lang="la">Stellaria media</span></i>), <a href="/wiki/%D0%A2%D1%8B%D1%81%D1%8F%D1%87%D0%B5%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2_%D0%B8%D1%81%D0%BF%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9" class="mw-redirect" title="Тысячеголов испанский">Тысячеголов испанский</a>&#32;(<i><span lang="la">Vaccaria hispanica</span></i>) и некоторые другие виды.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="История_изучения_и_классификация"><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F_.D0.B8.D0.B7.D1.83.D1.87.D0.B5.D0.BD.D0.B8.D1.8F_.D0.B8_.D0.BA.D0.BB.D0.B0.D1.81.D1.81.D0.B8.D1.84.D0.B8.D0.BA.D0.B0.D1.86.D0.B8.D1.8F"></span>История изучения и классификация</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5&amp;veaction=edit&amp;section=4" title="Редактировать раздел «История изучения и классификация»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5&amp;action=edit&amp;section=4" title="Редактировать код раздела «История изучения и классификация»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p><span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Caryophylleae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Juss." class="mw-redirect" title="Juss.">Juss.</a></span> 1789, Gen. PL: 299, nom. cons.&#160;— <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Alsinaceae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Adans." class="mw-redirect" title="Adans.">Adans.</a></span> 1763, Fam. PL: 2: 250.&#160;— <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Spergulaceae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Adans." class="mw-redirect" title="Adans.">Adans.</a></span> 1763, Fam. PL: 2: 270.&#160;— <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Illecebraceae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/R.Br." class="mw-redirect" title="R.Br.">R.Br.</a></span> 1810, Prodr.: 413.&#160;— <b>Гвоздичные</b>.
+</p><p>Ряд видов гвоздичных упоминается ещё в работах долиннеевских авторов (<a href="/wiki/%D0%91%D0%B0%D1%83%D1%85%D0%B8%D0%BD,_%D0%9A%D0%B0%D1%81%D0%BF%D0%B0%D1%80" class="mw-redirect" title="Баухин, Каспар">Bauhin</a><sup id="cite&#95;ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>; <a href="/wiki/%D0%9F%D0%B8%D1%82%D1%82%D0%BE%D0%BD_%D0%B4%D0%B5_%D0%A2%D1%83%D1%80%D0%BD%D0%B5%D1%84%D0%BE%D1%80,_%D0%96%D0%BE%D0%B7%D0%B5%D1%84" title="Питтон де Турнефор, Жозеф">Tournefort</a><sup id="cite&#95;ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>; <a href="/wiki/%D0%91%D1%83%D0%BA%D1%81%D0%B1%D0%B0%D1%83%D0%BC,_%D0%98%D0%BE%D0%B3%D0%B0%D0%BD%D0%BD_%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD" title="Буксбаум, Иоганн Христиан">Buxbaum</a><sup id="cite&#95;ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>, и др.). Однако основы научного подхода к изучению семейства гвоздичных были заложены в работах <a href="/wiki/%D0%9B%D0%B8%D0%BD%D0%BD%D0%B5%D0%B9,_%D0%9A%D0%B0%D1%80%D0%BB" title="Линней, Карл">К. Линнея</a><sup id="cite&#95;ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>. В соответствии с числом тычинок и столбиков он распределил виды, относимые в настоящее время к семейству гвоздичных, между несколькими классами своей системы.
+</p><p>Описание <a href="/wiki/%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%BE" title="Семейство">семейства</a> («порядка») как <a href="/wiki/%D0%A2%D0%B0%D0%BA%D1%81%D0%BE%D0%BD" title="Таксон">таксона</a> впервые приводится французским ботаником <a href="/wiki/%D0%96%D1%8E%D1%81%D1%81%D1%8C%D1%91,_%D0%90%D0%BD%D1%82%D1%83%D0%B0%D0%BD_%D0%9B%D0%BE%D1%80%D0%B0%D0%BD_%D0%B4%D0%B5" title="Жюссьё, Антуан Лоран де">Антуаном Лораном Жюссьё</a><sup id="cite&#95;ref-8" class="reference"><a href="#cite_note-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup> в разработанной им естественной системе растений. В этой системе он разделил семейство на 6 групп по совокупности различных признаков. В системе Jussieu отмечена важность признака строения околоцветника при делении семейства на естественные группы.
+</p><p>Со времён Линнея до начала XIX&#160;века был накоплен значительный гербарный материал по растениям из различных областей Земли, в том числе и по гвоздичным. Он был обобщен в капитальной сводке «Prodromus…»<sup id="cite&#95;ref-9" class="reference"><a href="#cite_note-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup><sup id="cite&#95;ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup> французского ботаника <a href="/wiki/%D0%94%D0%B5%D0%BA%D0%B0%D0%BD%D0%B4%D0%BE%D0%BB%D1%8C,_%D0%9E%D0%B3%D1%8E%D1%81%D1%82%D0%B5%D0%BD_%D0%9F%D0%B8%D1%80%D0%B0%D0%BC" title="Декандоль, Огюстен Пирам">Огюстена Пирама Декандоля</a>, где рассматриваются два самостоятельных «порядка», охватывающих семейство в нашем понимании&#160;— <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Caryophylleae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Juss." class="mw-redirect" title="Juss.">Juss.</a></span> и <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Paronychieae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/A.St.-Hil." class="mw-redirect" title="A.St.-Hil.">A.St.-Hil.</a></span>. Порядок <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Caryophylleae</span>, в свою очередь, делится по признаку сросшейся или несросшейся чашечки на две <a href="/wiki/%D0%A2%D1%80%D0%B8%D0%B1%D0%B0_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Триба (биология)">трибы</a>: <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Sileneae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/DC." class="mw-redirect" title="DC.">DC.</a></span> и <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Alsineae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/DC." class="mw-redirect" title="DC.">DC.</a></span>. Порядок <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Paronychieae</span>, на основании различий в строении цветка, плода и расположения листьев подразделяется на ряд триб: <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Telephieae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/DC." class="mw-redirect" title="DC.">DC.</a></span>, <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Illecebreae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/DC." class="mw-redirect" title="DC.">DC.</a></span>, <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Polycarpaeae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/DC." class="mw-redirect" title="DC.">DC.</a></span>, <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Pollichieae </span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/DC." class="mw-redirect" title="DC.">DC.</a></span>, <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Queriaeae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/DC." class="mw-redirect" title="DC.">DC.</a></span>, <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Sclerantheae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/%D0%9B%D0%B8%D0%BD%D0%BA,_%D0%98%D0%BE%D0%B3%D0%B0%D0%BD%D0%BD_%D0%93%D0%B5%D0%BD%D1%80%D0%B8%D1%85_%D0%A4%D1%80%D0%B8%D0%B4%D1%80%D0%B8%D1%85" class="mw-redirect" title="Линк, Иоганн Генрих Фридрих">Link</a></span>, <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Minuartieae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/DC." class="mw-redirect" title="DC.">DC.</a></span>.
+</p><p>В дальнейшем разработкой системы семейства в целом занимаются многие известные ботаники. Немецкий ботаник <a href="/wiki/%D0%A4%D0%B5%D0%BD%D1%86%D0%BB%D1%8C,_%D0%AD%D0%B4%D1%83%D0%B0%D1%80%D0%B4" title="Фенцль, Эдуард">Эдуард Фенцль</a> в работе «Genera plantarum…»<sup id="cite&#95;ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup> приводит значительно изменённую по сравнению с «Prodromus…» систему порядка <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Caryophylleae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Juss." class="mw-redirect" title="Juss.">Juss.</a></span>, который он разделяет на 4 подпорядка: <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Paronychieae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/A.St.-Hil." class="mw-redirect" title="A.St.-Hil.">A.St.-Hil.</a></span>, <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Sclerantheae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/%D0%9B%D0%B8%D0%BD%D0%BA,_%D0%98%D0%BE%D0%B3%D0%B0%D0%BD%D0%BD_%D0%93%D0%B5%D0%BD%D1%80%D0%B8%D1%85_%D0%A4%D1%80%D0%B8%D0%B4%D1%80%D0%B8%D1%85" class="mw-redirect" title="Линк, Иоганн Генрих Фридрих">Link</a></span>, <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Alsineae </span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Bartl." class="mw-redirect" title="Bartl.">Bartl.</a></span> и <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Sileneae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/DC." class="mw-redirect" title="DC.">DC.</a></span>. В составе первого подпорядка рассматриваются четыре трибы: <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Illecebreae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/R.Br." class="mw-redirect" title="R.Br.">R.Br.</a></span>, <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Pterantheae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/R.Br." class="mw-redirect" title="R.Br.">R.Br.</a></span>, <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Pollichieae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/DC." class="mw-redirect" title="DC.">DC.</a></span>, <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Telephieae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/DC." class="mw-redirect" title="DC.">DC.</a></span>. Подпорядок <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Sclerantheae</span> не подразделяется на трибы. Подпорядок <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Alsineae</span> делится на три трибы: <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Sabulineae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Fenzl" class="mw-redirect" title="Fenzl">Fenzl</a></span>, <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Merckieae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Fenzl" class="mw-redirect" title="Fenzl">Fenzl</a></span>, <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Stellarineae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Fenzl" class="mw-redirect" title="Fenzl">Fenzl</a></span>. Наконец, подпорядок <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Sileneae</span> рассматривается в составе трёх триб: <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Diantheae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Kunth" class="mw-redirect" title="Kunth">Kunth</a></span>, <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Lychnideae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Fenzl" class="mw-redirect" title="Fenzl">Fenzl</a></span>, <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Drypideae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Fenzl" class="mw-redirect" title="Fenzl">Fenzl</a></span>.
+</p><p>Однако существует и другая точка зрения на объём семейства. <a href="/wiki/%D0%91%D0%B5%D0%BD%D1%82%D0%B0%D0%BC_%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6" class="mw-redirect" title="Бентам Джордж">Дж. Бентам</a> и <a href="/wiki/%D0%93%D1%83%D0%BA%D0%B5%D1%80,_%D0%94%D0%B6%D0%BE%D0%B7%D0%B5%D1%84_%D0%94%D0%BE%D0%BB%D1%82%D0%BE%D0%BD" title="Гукер, Джозеф Долтон">Дж. Гукер</a><sup id="cite&#95;ref-12" class="reference"><a href="#cite_note-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup><sup id="cite&#95;ref-13" class="reference"><a href="#cite_note-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup> вновь рассматривают 2 таксона: <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Caryophylleae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Juss." class="mw-redirect" title="Juss.">Juss.</a></span> (с трибами <i>Sileneae</i>, <i>Alsineae</i>, <i>Polycarpeae</i>) и <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Illecebreae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/R.Br." class="mw-redirect" title="R.Br.">R.Br.</a></span> (с трибами <i>Pollichieae</i>, <i>Pamnychieae</i>, <i>Pterantheae</i>, <i>Sclerantheae</i>).
+</p><p><a href="/wiki/%D0%9F%D0%B0%D0%BA%D1%81,_%D0%A4%D0%B5%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D0%BD%D0%B4_%D0%90%D0%BB%D0%B1%D0%B8%D0%BD" class="mw-redirect" title="Пакс, Фердинанд Албин">Фердинанд Албин Пакс</a><sup id="cite&#95;ref-14" class="reference"><a href="#cite_note-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup>, который снова признает единое семейство <i>Caryophyllaceae</i>, выделяет в его составе две группы неопределённого ранга&#160;— <i>Silenoideae</i> и <i>Alsinoideae</i>. Внутри первой он различает подгруппы, ранг которых также не определён&#160;— <i>Silenoideae-Lychnideae</i> и <i>Silenoideae-Diantheae</i>, а в составе второй&#160;—<i>Alsinoideae-Alsineae</i>, <i>Alsinoideae-Sperguleae</i>, <i>Alsinoideae-Polycarpeae</i>, <i>Alsinoideae-Paronychieae</i>, <i>Alsinoideae-Dysphanieae</i>, <i>Alsinoideae-Sclerantheae</i>, <i>Alsinoideae-Pterantheae</i>. Во втором издании этой работы система семейства подверглась значительному изменению<sup id="cite&#95;ref-15" class="reference"><a href="#cite_note-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup>. Семейство разделено на 3 подсемейства: <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Paronychioideae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Vierh." class="mw-redirect" title="Vierh.">Vierh.</a></span>, <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Silenoideae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/A.Br." class="mw-redirect" title="A.Br.">A.Br.</a></span>, <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Alsinoideae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Vierh." class="mw-redirect" title="Vierh.">Vierh.</a></span>. Каждое подсемейство, в свою очередь, состоит из триб, названия которых двойные и включают название подсемейства и собственно название трибы. Названия подтриб уже тройные и состоят из названий подсемейства, трибы и подтрибы. Подсемейство <i>Paronychioideae</i> включает 4 трибы: <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Pamnychieae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Pax_(%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA)" class="mw-redirect" title="Pax (ботаник)">Pax</a><span style="font-variant:normal;"> et </span><a href="/wiki/K.Hoffm." class="mw-redirect" title="K.Hoffm.">K.Hoffm.</a></span>, <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Pterantheae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Endl." class="mw-redirect" title="Endl.">Endl.</a></span>, <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Polycarpeae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Pax_(%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA)" class="mw-redirect" title="Pax (ботаник)">Pax</a></span>, <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Sperguleae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Vierh." class="mw-redirect" title="Vierh.">Vierh.</a></span> (здесь и далее первые таксоны опущены, приводится только собственное название таксона данного ранга). Триба <i>Pamnychieae</i> разделяется на 3 подтрибы: <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Pollichiinae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Pax_(%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA)" class="mw-redirect" title="Pax (ботаник)">Pax</a><span style="font-variant:normal;"> et </span><a href="/wiki/K.Hoffm." class="mw-redirect" title="K.Hoffm.">K.Hoffm.</a></span>, <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Paronychiinae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Pax_(%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA)" class="mw-redirect" title="Pax (ботаник)">Pax</a><span style="font-variant:normal;"> et </span><a href="/wiki/K.Hoffm." class="mw-redirect" title="K.Hoffm.">K.Hoffm.</a></span>, <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Illecebrinae</span>&#32;<span style="font-variant:small-caps;"> <a href="/wiki/Aschers." class="mw-redirect" title="Aschers.">Aschers.</a><span style="font-variant:normal;"> et </span><a href="/wiki/Graebn." class="mw-redirect" title="Graebn.">Graebn.</a></span>. Две других трибы&#160;— <i>Pterantheae</i> и <i>Polycarpeae</i>&#160;— приводятся без деления на подтрибы. Четвёртая триба&#160;— <i>Sperguleae</i>&#160;— делится на 3 подтрибы: <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Spergulinae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Pax_(%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA)" class="mw-redirect" title="Pax (ботаник)">Pax</a><span style="font-variant:normal;"> et </span><a href="/wiki/K.Hoffm." class="mw-redirect" title="K.Hoffm.">K.Hoffm.</a></span>, <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225"> Telephiinae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Aschers." class="mw-redirect" title="Aschers.">Aschers.</a><span style="font-variant:normal;"> et </span><a href="/wiki/Graebn." class="mw-redirect" title="Graebn.">Graebn.</a></span>, <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Xerotiineae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Pax_(%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA)" class="mw-redirect" title="Pax (ботаник)">Pax</a><span style="font-variant:normal;"> et </span><a href="/wiki/K.Hoffm." class="mw-redirect" title="K.Hoffm.">K.Hoffm.</a></span>. Подсемейство <i>Alsinoideae</i> делится на трибы: <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Alsineae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Pax_(%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA)" class="mw-redirect" title="Pax (ботаник)">Pax</a></span> (с подтрибами <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Stellariinae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Aschers." class="mw-redirect" title="Aschers.">Aschers.</a><span style="font-variant:normal;"> et </span><a href="/wiki/Graebn." class="mw-redirect" title="Graebn.">Graebn.</a></span>, и <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Sabulininae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Aschers." class="mw-redirect" title="Aschers.">Aschers.</a><span style="font-variant:normal;"> et </span><a href="/wiki/Graebn." class="mw-redirect" title="Graebn.">Graebn.</a></span>), <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Pycnophylleae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Mattf." class="mw-redirect" title="Mattf.">Mattf.</a></span>, <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Habrosieae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Pax_(%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA)" class="mw-redirect" title="Pax (ботаник)">Pax</a><span style="font-variant:normal;"> et </span><a href="/wiki/K.Hoffm." class="mw-redirect" title="K.Hoffm.">K.Hoffm.</a></span>, <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Sclerantheae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Vierh." class="mw-redirect" title="Vierh.">Vierh.</a></span>. Подсемейство <i>Silenoideae</i> разделяется на трибы: <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Lychnideae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/A.Br." class="mw-redirect" title="A.Br.">A.Br.</a></span> (с подтрибами <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Sileninae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Pax_(%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA)" class="mw-redirect" title="Pax (ботаник)">Pax</a><span style="font-variant:normal;"> et </span><a href="/wiki/K.Hoffm." class="mw-redirect" title="K.Hoffm.">K.Hoffm.</a></span>, <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Cucubalinae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Pax_(%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA)" class="mw-redirect" title="Pax (ботаник)">Pax</a><span style="font-variant:normal;"> et </span><a href="/wiki/K.Hoffm." class="mw-redirect" title="K.Hoffm.">K.Hoffm.</a></span>, <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Drypidinae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Pax_(%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA)" class="mw-redirect" title="Pax (ботаник)">Pax</a><span style="font-variant:normal;"> et </span><a href="/wiki/K.Hoffm." class="mw-redirect" title="K.Hoffm.">K.Hoffm.</a></span>) и <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Diantheae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Pax_(%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA)" class="mw-redirect" title="Pax (ботаник)">Pax</a></span>.
+</p><p>Большинство современных ботаников, следуя F. Pax и К. Hoffman, принимает единое семейство <i>Caryophyllaceae</i>, разделяя его на 3 подсемейства: <i><b>Alsinoideae</b></i>, <i><b>Silenoideae</b></i>, <i><b>Paronychioideae</b></i>. Другие<sup id="cite&#95;ref-16" class="reference"><a href="#cite_note-16"><span class="cite-bracket">&#91;</span>16<span class="cite-bracket">&#93;</span></a></sup>, предпочитают более узкую трактовку семейства <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Caryophylleae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Juss." class="mw-redirect" title="Juss.">Juss.</a></span>, с выделением из него семейства <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Illecebraceae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/R.Br." class="mw-redirect" title="R.Br.">R.Br.</a></span>. Реже каждое или большинство из подсемейств рассматриваются в качестве <b>отдельных семейств</b>, а из <i>Illecebraceae</i> выделяется семейство <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Spergulaceae</span>&#32;<span style="font-variant:small-caps;"><a href="/wiki/Adans." class="mw-redirect" title="Adans.">Adans.</a></span><sup id="cite&#95;ref-17" class="reference"><a href="#cite_note-17"><span class="cite-bracket">&#91;</span>17<span class="cite-bracket">&#93;</span></a></sup><sup id="cite&#95;ref-18" class="reference"><a href="#cite_note-18"><span class="cite-bracket">&#91;</span>18<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Наличие в составе семейства ряда полиморфных родов (<span style="font-style: italic;" lang="la" data-wikidata-property-id="P225"><a href="/wiki/Silene" class="mw-redirect" title="Silene">Silene</a></span>, <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225"><a href="/wiki/Dianthus" class="mw-redirect" title="Dianthus">Dianthus</a></span>, <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225"><a href="/w/index.php?title=Elisanthe&amp;action=edit&amp;redlink=1" class="new" title="Elisanthe (страница отсутствует)">Elisanthe</a></span>, <span style="font-style: italic;" lang="la" data-wikidata-property-id="P225"><a href="/wiki/Gypsophila" class="mw-redirect" title="Gypsophila">Gypsophila</a></span>), значительная внутривидовая изменчивость, зачастую осложненная межвидовой <a href="/wiki/%D0%93%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_(%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Гибридизация (биология)">гибридизацией</a>, затрудняет распознавание видов и делает гвоздичные одним из наиболее трудных и интересных в таксономическом отношении семейств.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Роды"><span id=".D0.A0.D0.BE.D0.B4.D1.8B"></span>Роды</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Роды»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5&amp;action=edit&amp;section=5" title="Редактировать код раздела «Роды»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>В соответствии с современной таксономической <a href="/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_APG_IV" title="Система APG IV">системой APG IV</a> по состоянию на декабрь 2023 года семейство насчитывает 98 родов и 2 511 видов<sup id="cite&#95;ref-WFOPL&#95;2-1" class="reference"><a href="#cite_note-WFOPL-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div role="note" class="hatnote navigation-not-searchable ts-main"><style data-mw-deduplicate="TemplateStyles:r142002967">.mw-parser-output .ts-main a{font-weight:bold}.mw-parser-output .ts-main a.new,.mw-parser-output .ts-main a.extiw,.mw-parser-output .ts-main a.external{font-weight:normal}</style>Основная статья: <a href="/wiki/%D0%A0%D0%BE%D0%B4%D1%8B_%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B0_%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5" title="Роды семейства Гвоздичные">Роды семейства Гвоздичные</a></div>
+<div class="mw-heading mw-heading2"><h2 id="Примечания"><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span>Примечания</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Примечания»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5&amp;action=edit&amp;section=6" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite&#95;note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation"><i><a href="/wiki/%D0%A6%D0%B2%D0%B5%D0%BB%D1%91%D0%B2,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87" title="Цвелёв, Николай Николаевич">Цвелёв Н. Н.</a></i>&#32;О русских названиях семейств покрытосеменных растений&#32;// Новости систематики высших растений&#160;: сборник.&#160;— <abbr title="Москва">М.</abbr>—<abbr title="Санкт-Петербург">СПб.</abbr>&#160;: <a href="/wiki/%D0%A2%D0%BE%D0%B2%D0%B0%D1%80%D0%B8%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE_%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D1%8B%D1%85_%D0%B8%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B9_%D0%9A%D0%9C%D0%9A" title="Товарищество научных изданий КМК">Товарищество научных изданий КМК</a>, 2011.&#160;— Т.&#160;42.&#160;— С.&#160;24—29.&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785873177592" class="internal mw-magiclink-isbn">ISBN 978-5-87317-759-2</a>.&#160;— <a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D1%8B%D0%B9_%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80" title="Международный стандартный сериальный номер">ISSN</a> <a rel="nofollow" class="external text" href="//www.worldcat.org/search?fq=x0:jrnl&amp;q=n2:0568-5443">0568-5443</a>.</span></span>
+</li>
+<li id="cite&#95;note-WFOPL-2"><span class="mw-cite-backlink">↑ <a href="#cite_ref-WFOPL_2-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-WFOPL_2-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="https://wfoplantlist.org/taxon/wfo-7000000117-2023-12?page=1">Caryophyllaceae Juss.</a></span>&#160;<span class="ref-info" title="на английском языке" style="cursor:help;">(англ.)</span>.&#32;<i><a href="/wiki/WFOPL" class="mw-redirect" title="WFOPL">WFOPL</a></i>.&#32;Дата обращения: 25 декабря 2023.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20231225143802/https://wfoplantlist.org/taxon/wfo-7000000117-2023-12?page=1">Архивировано</a> 25 декабря 2023 года.</span></span>
+</li>
+<li id="cite&#95;note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Миркин&#160;Б.&#160;М., Наумова&#160;Л.&#160;Г., Мулдашев А.&#160;А.&#160;Высшие растения: краткий курс систематики с основами науки о растительности: Учебник. Изд. 2-е, прераб.&#160;— М.: Логос, 2002. с. 88. <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5940100414" class="internal mw-magiclink-isbn">ISBN 5-94010-041-4</a>.</span>
+</li>
+<li id="cite&#95;note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Bauhin C. Pinax theatri botanici. Basiliae, Helvetiae. 552 p.</span>
+</li>
+<li id="cite&#95;note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">Tournefort J. P. Institutiones rei herbariae. Parisiis. 1700. T. 1. 697 p.</span>
+</li>
+<li id="cite&#95;note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">Buxbaum J. C. Enumeratio plantarum acculatior in argo Halense. 1721. Halae. 342 p.</span>
+</li>
+<li id="cite&#95;note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">Linnaeus C. Species plantarum exhibentes plantas rite cognitas, ad genera relatas, cum differentiis specificis, nominibus trivialibus, synonimis selectis, locis natalibus, secundum systema sexuale digestas. Ed 1. Holmiae, 1753. T. 1&#160;560 p.</span>
+</li>
+<li id="cite&#95;note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">Jussieu A. L. Genera plantarum secundum ordines naturales disposita, juxta methodum in horto regio Parisiensi exaratam, anno 1774. 1789, Parisiis. 498 p.</span>
+</li>
+<li id="cite&#95;note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">De Candolle A. P. Prodromus Systematis Naturalis Regni Vegetabilis. 1824, Parisiis. Pars. 1&#160;748 p.</span>
+</li>
+<li id="cite&#95;note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">De Candolle A. P. Prodromus Systematis Naturalis Regni Vegetabilis. 1828, Parisiis. Pars. 4&#160;498 p.</span>
+</li>
+<li id="cite&#95;note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">Endlicher S. Genera plantarum secundum ordines naturalis disposita. Vindobonae, 1836—1840/ 1438 p.</span>
+</li>
+<li id="cite&#95;note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text">Betham G., Hooker J. D. Genera plantarum ad exemplaria imprimis in herbariis kewensibus servata definita. London, 1862—1867. Vol. 1 1040 p.</span>
+</li>
+<li id="cite&#95;note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text">Betham G., Hooker J. D. Genera plantarum ad exemplaria imprimis in herbariis kewensibus servata definita. London, 1883. Vol. 3. 1258 p.</span>
+</li>
+<li id="cite&#95;note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text">Pax F. <i>Caryophylleae</i> // A. Engler, K. Prantl. Die natürlichen Pflanzenfamilien. Leipzig. 1889. Teil. 3, abt. 1b. S. 61-94)</span>
+</li>
+<li id="cite&#95;note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text">Pax F. Hoffman K.<i>Caryophylleae</i> // A. Engler. Die natürlichen Pflanzenfamilien. Leipzig. 1934. Bd 16c. S. 275 − 364)</span>
+</li>
+<li id="cite&#95;note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text">Brummitt R. K. Vascular plant families and genera. Kew, 1992. 804 p.</span>
+</li>
+<li id="cite&#95;note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text">Löve A., Löve D. Cytotaxonomical atlas of the arctic flora. Vaduz. 1975. 598 p.</span>
+</li>
+<li id="cite&#95;note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text">Цвелев Н.&#160;Н.&#160;Заметки о некоторых родах семейства гвоздичных (<i>Caryophylleae</i> sensu lato) в Восточной Европе //Новости сист. высш. раст. 2000. Т. 32. С.26—36.</span>
+</li>
+</ol></div></div>
+<div class="mw-heading mw-heading2"><h2 id="Литература"><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span>Литература</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Литература»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5&amp;action=edit&amp;section=7" title="Редактировать код раздела «Литература»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><span class="citation" id="CITEREFБСЭ1971">Гвоздичные&#160;//&#32;Газлифт&#160;— Гоголево.&#160;— <abbr title="Москва">М.</abbr>&#160;: Советская энциклопедия, 1971.&#160;— (<a href="/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F#Третье_издание" title="Большая советская энциклопедия">Большая советская энциклопедия</a>&#160;: <span class="nowrap">[в 30 т.]</span>&#160;/ гл. ред. <span class="nowrap"> <a href="/wiki/%D0%9F%D1%80%D0%BE%D1%85%D0%BE%D1%80%D0%BE%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" title="Прохоров, Александр Михайлович">А. М. Прохоров</a></span>&#160;; 1969—1978, т.&#160;6).</span></li>
+<li><style data-mw-deduplicate="TemplateStyles:r150646110">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"«""»""„""“"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a::after,.mw-parser-output .id-lock-limited a::after,.mw-parser-output .id-lock-registration a::after,.mw-parser-output .id-lock-subscription a::after,.mw-parser-output .cs1-ws-icon a::after{content:"";width:1.1em;height:1.1em;display:inline-block;vertical-align:middle;background-position:center;background-repeat:no-repeat;background-size:contain}.mw-parser-output .id-lock-free.id-lock-free a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")}.mw-parser-output .id-lock-limited.id-lock-limited a::after,.mw-parser-output .id-lock-registration.id-lock-registration a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")}.mw-parser-output .id-lock-subscription.id-lock-subscription a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")}.mw-parser-output .cs1-ws-icon a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}html.skin-theme-clientpref-night .mw-parser-output .id-lock-free a::after,html.skin-theme-clientpref-night .mw-parser-output .id-lock-limited a::after,html.skin-theme-clientpref-night .mw-parser-output .id-lock-registration a::after,html.skin-theme-clientpref-night .mw-parser-output .id-lock-subscription a::after{filter:invert(1)hue-rotate(180deg)}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}html.skin-theme-clientpref-os .mw-parser-output .id-lock-free a::after,html.skin-theme-clientpref-os .mw-parser-output .id-lock-limited a::after,html.skin-theme-clientpref-os .mw-parser-output .id-lock-registration a::after,html.skin-theme-clientpref-os .mw-parser-output .id-lock-subscription a::after{filter:invert(1)hue-rotate(180deg)}}</style><span class="citation no-wikidata" data-wikidata-property-id="P1343"><span data-wikidata-qualifier-id="P248"><a href="https://ru.wikisource.org/wiki/%D0%AD%D0%A1%D0%91%D0%95/%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5" class="extiw" title="s:ЭСБЕ/Гвоздичные">Гвоздичные</a></span>&#32;&#47;&#47;&#32;<a href="/wiki/%D0%AD%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C_%D0%91%D1%80%D0%BE%D0%BA%D0%B3%D0%B0%D1%83%D0%B7%D0%B0_%D0%B8_%D0%95%D1%84%D1%80%D0%BE%D0%BD%D0%B0" title="Энциклопедический словарь Брокгауза и Ефрона">Энциклопедический словарь Брокгауза и Ефрона</a>&#160;: в 86&#160;т. (82&#160;т. и 4&#160;доп.).&#160;— <abbr title="Санкт-Петербург">СПб.</abbr>, 1890—1907.</span></li>
+<li><span class="citation" id="CITEREFТахтаджян1980"><i>Тахтаджян А. Л.</i>&#32;Семейство гвоздичные (<i>Caryophyllaceae</i>)&#160;//&#32;<a href="/wiki/%D0%96%D0%B8%D0%B7%D0%BD%D1%8C_%D1%80%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D0%B9" title="Жизнь растений">Жизнь растений</a>&#160;: <span class="nowrap">в 6 т.</span>&#160;/ гл. ред. <a href="/wiki/%D0%A4%D1%91%D0%B4%D0%BE%D1%80%D0%BE%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_(%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA)" title="Фёдоров, Александр Александрович (ботаник)">Ал.&#160;А.&#160;Фёдоров</a>.&#160;— <abbr title="Москва">М.</abbr>&#160;: <a href="/wiki/%D0%9F%D1%80%D0%BE%D1%81%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_(%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE)" title="Просвещение (издательство)">Просвещение</a>, 1980.&#160;— Т.&#160;5. Ч.&#160;1&#160;: Цветковые растения&#160;/ под ред. <a href="/wiki/%D0%A2%D0%B0%D1%85%D1%82%D0%B0%D0%B4%D0%B6%D1%8F%D0%BD,_%D0%90%D1%80%D0%BC%D0%B5%D0%BD_%D0%9B%D0%B5%D0%BE%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Тахтаджян, Армен Леонович">А.&#160;Л.&#160;Тахтаджяна</a>.&#160;— 430&#160;с.&#160;— <span class="nowrap">300&#160;000 экз.</span></span></li>
+<li><span class="citation" id="CITEREFГиляров1986"><a href="/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C" title="Биологический энциклопедический словарь">Биологический энциклопедический словарь</a>&#160;/ Гл. ред. <a href="/wiki/%D0%93%D0%B8%D0%BB%D1%8F%D1%80%D0%BE%D0%B2,_%D0%9C%D0%B5%D1%80%D0%BA%D1%83%D1%80%D0%B8%D0%B9_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" title="Гиляров, Меркурий Сергеевич">М. С. Гиляров</a>; Редкол.: <a href="/wiki/%D0%91%D0%B0%D0%B5%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Баев, Александр Александрович">А. А. Баев</a>, <a href="/wiki/%D0%92%D0%B8%D0%BD%D0%B1%D0%B5%D1%80%D0%B3,_%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B9_%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B5%D0%B2%D0%B8%D1%87" title="Винберг, Георгий Георгиевич">Г. Г. Винберг</a>, <a href="/wiki/%D0%97%D0%B0%D0%B2%D0%B0%D1%80%D0%B7%D0%B8%D0%BD,_%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Заварзин, Георгий Александрович">Г. А. Заварзин</a> и др.&#160;— <abbr title="Москва">М.</abbr>&#160;: <a href="/wiki/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" class="mw-redirect" title="Советская энциклопедия">Сов. энциклопедия</a>, 1986.&#160;— С.&#160;119.&#160;— 831&#160;с.&#160;— <span class="nowrap">100&#160;000 экз.</span></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r150646110" /><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i><a href="/wiki/%D0%95%D0%BB%D0%B5%D0%BD%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9,_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9_%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B5%D0%B2%D0%B8%D1%87" title="Еленевский, Андрей Георгиевич">Еленевский А. Г.</a>, Соловьева М. П., Тихомиров В. Н.</i>&#32;Ботаника. Систематика высших, или наземных растений: учеб. для студ. высш. пед. уч. заведений.&#160;— <abbr title="Москва">М.</abbr>: Изд. центр «Академия», 2006.&#160;— С.&#160;233—235.&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5769521414" class="internal mw-magiclink-isbn">ISBN 5-7695-2141-4</a>.</span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r150646110" /><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Яковлев Г. П., Челомбитько В. А.</i>&#32;<a rel="nofollow" class="external text" href="https://archive.org/details/isbn_5299002378">Ботаника. Учебник для вузов</a>.&#160;— <abbr title="Санкт-Петербург">СПб.</abbr>: СпецЛит, Изд. СПХФА, 2003.&#160;— С.&#160;<a rel="nofollow" class="external text" href="https://archive.org/details/isbn_5299002378/page/n387">387</a> — 388.&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5299002378" class="internal mw-magiclink-isbn">ISBN 5-299-00237-8</a>.</span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r150646110" /><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Барабанов Е. И.</i>&#32;Ботаника: учебник для студ. высш. уч. заведений.&#160;— <abbr title="Москва">М.</abbr>: Изд. центр «Академия», 2006.&#160;— С.&#160;249—250.&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5769526564" class="internal mw-magiclink-isbn">ISBN 5-7695-2656-4</a>.</span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r150646110" /><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Лазьков Г. А.</i>&#32;Семейство гвоздичные (<span style="font-style: italic;" lang="la" data-wikidata-property-id="P225">Caryophylleae</span>) во флоре Кыргызстана..&#160;— <abbr title="Москва">М.</abbr>: <a href="/wiki/%D0%A2%D0%BE%D0%B2%D0%B0%D1%80%D0%B8%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE_%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D1%8B%D1%85_%D0%B8%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B9_%D0%9A%D0%9C%D0%9A" title="Товарищество научных изданий КМК">Товарищество научных изданий КМК</a>, 2006.&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5873173192" class="internal mw-magiclink-isbn">ISBN 5-87317-319-2</a>.</span></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Ссылки&#95;на&#95;внешние&#95;ресурсы" data-name="External links" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a></span></span><div id="Ссылки&#95;на&#95;внешние&#95;ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px;background: #90ee90;"><div style="padding: 0 35px 0 0; width: 100%;"><div class="skin-invert-image" style="float: left;"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a></span>&#160;<span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q25995#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/40px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></div>&#160;&#160;Словари и энциклопедии</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://www.enciclopedia.cat/ec-gec-0088749.xml">Большая каталанская</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.zgbk.com/ecph/words?SiteID=1&amp;ID=119128">Большая китайская</a></li>
+<li><a rel="nofollow" class="external text" href="https://snl.no/nellikfamilien">Большая норвежская</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/old.bigenc.ru/text/2347418">Большая российская (старая версия)</a></li>
+<li><a href="https://ru.wikisource.org/wiki/%D0%91%D0%A1%D0%AD1/%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5" class="extiw" title="s:БСЭ1/Гвоздичные">Большая советская (1 изд.)</a></li>
+<li><a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Caryophyllaceae" class="extiw" title="wikisource:1911 Encyclopædia Britannica/Caryophyllaceae">Britannica (11-th)</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.britannica.com/plant/Caryophyllaceae">Britannica (онлайн)</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.sapere.it/enciclopedia/Cariofillàcee.html">De Agostini</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.universalis.fr/encyclopedie/caryophyllacees/">Universalis</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px;background: #90ee90;">Таксономия</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://id.biodiversity.org.au/name/apni/54667">APNI</a></li>
+<li><a rel="nofollow" class="external text" href="https://eol.org/pages/4229">EOL</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.fossilworks.org/cgi-bin/bridge.pl?a=taxonInfo&amp;taxon_no=53554">Fossilworks</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.gbif.org/species/2518">GBIF</a></li>
+<li><a rel="nofollow" class="external text" href="https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?id=222">GRIN</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.inaturalist.org/taxa/48567">iNaturalist</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=3568">NCBI</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ipni.org/ipni/idPlantNameSearch.do?id=30000815-2">IPNI</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.irmng.org/aphia.php?p=taxdetails&amp;id=114980">IRMNG</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=19942">ITIS TSN</a></li>
+<li><a rel="nofollow" class="external text" href="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000815-2">POWO</a></li>
+<li><a rel="nofollow" class="external text" href="http://legacy.tropicos.org/Name/42000077">Tropicos</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.worldfloraonline.org/taxon/wfo-7000000117">WFO</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=395046">WoRMS</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.efloras.org/florataxon.aspx?flora_id=2&amp;taxon_id=10166">Флора Китая</a></li></ul>
+</div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"><style data-mw-deduplicate="TemplateStyles:r113287755">.mw-parser-output .ts-navbox-plaintitle{font-size:100%!important;margin:0 6em!important}</style></div><table class="nowraplinks authoritycontrol collapsible collapsed navbox-subgroup" style="border-spacing:0;text-align: left;"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2" style="background: #90ee90;"><div id="В&#95;библиографических&#95;каталогах" class="ts-navbox-plaintitle" style="font-size:114%;margin:0 5em">В&#160;библиографических каталогах</div></th></tr><tr><td class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8" title="Национальная библиотека Испании">BNE</a>: <a rel="nofollow" class="external text" href="https://datos.bne.es/resource/XX557329">XX557329</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8" title="Национальная библиотека Франции">BNF</a>: <a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb12266094n">12266094n</a></li>
+<li><a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">GND</a>: <a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4171425-8">4171425-8</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8F" title="Национальная библиотека Израиля">J9U</a>: <a rel="nofollow" class="external text" href="https://www.nli.org.il/en/authorities/987007284725005171">987007284725005171</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80_%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8_%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B0" title="Контрольный номер Библиотеки Конгресса">LCCN</a>: <a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/sh85020552">sh85020552</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%A7%D0%B5%D1%88%D1%81%D0%BA%D0%BE%D0%B9_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8" title="Национальная библиотека Чешской Республики">NKC</a>: <a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ph508913&amp;CON_LNG=ENG">ph508913</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐6c5fccf66b‐6dw5x
+Cached time: 20260406020649
+Cache expiry: 79200
+Cache expiry source: Модуль:Wikidata (os.time)
+Reduced expiry: true
+Complications: [vary‐revision‐sha1, prevent‐selective‐update, show‐toc]
+CPU time usage: 0.560 seconds
+Real time usage: 0.803 seconds
+Preprocessor visited node count: 10996/1000000
+Revision size: 23933/2097152 bytes
+Post‐expand include size: 108196/2097152 bytes
+Template argument size: 32797/2097152 bytes
+Highest expansion depth: 18/100
+Expensive parser function count: 23/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 25128/5000000 bytes
+Lua time usage: 0.310/10.000 seconds
+Lua memory usage: 6858712/52428800 bytes
+Number of Wikibase entities loaded: 9/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  684.238      1 -total
+ 52.95%  362.300      1 Шаблон:Таксон
+ 42.85%  293.187      1 Шаблон:Карточка
+ 33.75%  230.947     41 Шаблон:Wikidata
+ 18.03%  123.369     15 Шаблон:If-wikidata
+ 11.90%   81.415      1 Шаблон:ВС
+ 11.05%   75.590      4 Шаблон:Публикация
+  8.45%   57.828      1 Шаблон:Примечания
+  6.77%   46.289      5 Шаблон:Книга
+  4.61%   31.548      1 Шаблон:ВТ-ЭСБЕ
+-->
+
+<!-- Saved in parser cache with key ruwiki:stable-pcache:723850:|#|:idhash:canonical and timestamp 20260406020649 and revision id 149477601. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Гвоздичные&amp;oldid=149477601">https://ru.wikipedia.org/w/index.php?title=Гвоздичные&amp;oldid=149477601</a></div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Растения по алфавиту">Растения по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D0%BE%D1%86%D0%B2%D0%B5%D1%82%D0%BD%D1%8B%D0%B5" title="Категория:Гвоздичноцветные">Гвоздичноцветные</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B0_%D1%80%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D0%B9" title="Категория:Семейства растений">Семейства растений</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B4%D0%BB%D1%8F_%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BF%D0%BE_WFOPL" title="Категория:Википедия:Статьи для обновления по WFOPL">Википедия:Статьи для обновления по WFOPL</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 30 октября 2025 года в 16:01.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br />
+Wikipedia®&#160;— зарегистрированный товарный знак некоммерческой организации <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/ru/">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-legal-safety-contacts"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information">Контакты по вопросам права и безопасности</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikipedia.org/w/index.php?title=%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Искать в Википедии">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Служебная:Поиск">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Найти</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">Гвоздичные</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>72 языка</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Добавить тему</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-d69665788-nkdz6","wgBackendResponseTime":117,"wgPageParseReport":{"limitreport":{"cputime":"0.560","walltime":"0.803","ppvisitednodes":{"value":10996,"limit":1000000},"revisionsize":{"value":23933,"limit":2097152},"postexpandincludesize":{"value":108196,"limit":2097152},"templateargumentsize":{"value":32797,"limit":2097152},"expansiondepth":{"value":18,"limit":100},"expensivefunctioncount":{"value":23,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":25128,"limit":5000000},"entityaccesscount":{"value":9,"limit":500},"timingprofile":["100.00%  684.238      1 -total"," 52.95%  362.300      1 Шаблон:Таксон"," 42.85%  293.187      1 Шаблон:Карточка"," 33.75%  230.947     41 Шаблон:Wikidata"," 18.03%  123.369     15 Шаблон:If-wikidata"," 11.90%   81.415      1 Шаблон:ВС"," 11.05%   75.590      4 Шаблон:Публикация","  8.45%   57.828      1 Шаблон:Примечания","  6.77%   46.289      5 Шаблон:Книга","  4.61%   31.548      1 Шаблон:ВТ-ЭСБЕ"]},"scribunto":{"limitreport-timeusage":{"value":"0.310","limit":"10.000"},"limitreport-memusage":{"value":6858712,"limit":52428800},"limitreport-logs":"Loaded datatype string of P935 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype string of P935 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype string of P935 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P815 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P685 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P830 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P961 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P5037 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P7715 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P842 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype string of P935 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw-web.codfw.main-6c5fccf66b-6dw5x","timestamp":"20260406020649","ttl":79200,"transientcontent":true,"expiry-source":"Модуль:Wikidata (os.time)"}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0413\u0432\u043e\u0437\u0434\u0438\u0447\u043d\u044b\u0435","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5","sameAs":"http:\/\/www.wikidata.org\/entity\/Q25995","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q25995","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-07-07T10:00:18Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/7a\/Illustration_Dianthus_deltoides0-clean.jpg","headline":"\u0441\u0435\u043c\u0435\u0439\u0441\u0442\u0432\u043e \u0440\u0430\u0441\u0442\u0435\u043d\u0438\u0439"}</script>
+</body>
+</html>

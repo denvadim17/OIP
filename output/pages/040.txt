@@ -1,0 +1,890 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available skin-theme-clientpref-thumb-standard" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Routledge — Википедия</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available skin-theme-clientpref-thumb-standard";var cookie=document.cookie.match(/(?:^|; )ruwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"c9094d6c-7d5f-418e-89b1-1f026f1aeb05","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Routledge","wgTitle":"Routledge","wgCurRevisionId":151115503,"wgRevisionId":151115503,"wgArticleId":2187192,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Cite web (не указан язык)","Страницы, использующие волшебные ссылки ISBN","Издательства по алфавиту","Издательства, основанные в 1851 году","Издательства Великобритании","Импринты Taylor \u0026 Francis"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Routledge","wgRelevantArticleId":2187192,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":151115503,"wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q1508259","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgTestKitchenUserExperiments":{"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[]}};
+RLSTATE={"ext.gadget.common-site":"ready","ext.gadget.darkModeFixes":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.wikimediamessages.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","ext.scribunto.logs","ext.parsermigration.survey","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.edittop","ext.gadget.navboxDefaultGadgets","ext.gadget.markadmins","ext.gadget.wikibugs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.quicksurveys.init","ext.growthExperiments.SuggestedEditSession","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cmediawiki.codex.messagebox.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.gadget.common-site%2CdarkModeFixes&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector-2022"></noscript>
+<meta name="generator" content="MediaWiki 1.46.0-wmf.22">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Routledge_stand_at_Senate_House_History_Day_2018.jpg/1280px-Routledge_stand_at_Senate_House_History_Day_2018.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1132">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Routledge — Википедия">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=Routledge&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/Routledge">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Routledge rootpage-Routledge skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Перейти к содержанию</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Сайт">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Главное меню" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Главное меню"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Главное меню</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Главное меню</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Навигация
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-participation" class="vector-menu mw-portlet mw-portlet-participation"  >
+	<div class="vector-menu-heading">
+		Участие
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-lang" class="vector-menu mw-portlet mw-portlet-lang"  >
+	<div class="vector-menu-heading">
+		На других языках
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%B1%D9%88%D8%AA%D9%84%D9%8A%D8%AF%D8%AC_(%D8%AF%D8%A7%D8%B1_%D9%86%D8%B4%D8%B1)" title="روتليدج (دار نشر) — арабский" lang="ar" hreflang="ar" data-title="روتليدج (دار نشر)" data-language-autonym="العربية" data-language-local-name="арабский" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Routledge" title="Routledge — азербайджанский" lang="az" hreflang="az" data-title="Routledge" data-language-autonym="Azərbaycanca" data-language-local-name="азербайджанский" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%B0%E0%A6%BE%E0%A6%89%E0%A6%9F%E0%A6%B2%E0%A7%87%E0%A6%9C" title="রাউটলেজ — бенгальский" lang="bn" hreflang="bn" data-title="রাউটলেজ" data-language-autonym="বাংলা" data-language-local-name="бенгальский" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Routledge" title="Routledge — каталанский" lang="ca" hreflang="ca" data-title="Routledge" data-language-autonym="Català" data-language-local-name="каталанский" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Routledge" title="Routledge — датский" lang="da" hreflang="da" data-title="Routledge" data-language-autonym="Dansk" data-language-local-name="датский" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Routledge_(Verlag)" title="Routledge (Verlag) — немецкий" lang="de" hreflang="de" data-title="Routledge (Verlag)" data-language-autonym="Deutsch" data-language-local-name="немецкий" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Routledge" title="Routledge — английский" lang="en" hreflang="en" data-title="Routledge" data-language-autonym="English" data-language-local-name="английский" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Routledge" title="Routledge — эсперанто" lang="eo" hreflang="eo" data-title="Routledge" data-language-autonym="Esperanto" data-language-local-name="эсперанто" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Routledge" title="Routledge — испанский" lang="es" hreflang="es" data-title="Routledge" data-language-autonym="Español" data-language-local-name="испанский" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Routledge" title="Routledge — баскский" lang="eu" hreflang="eu" data-title="Routledge" data-language-autonym="Euskara" data-language-local-name="баскский" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%AA%D9%84%D8%AC" title="روتلج — персидский" lang="fa" hreflang="fa" data-title="روتلج" data-language-autonym="فارسی" data-language-local-name="персидский" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Routledge" title="Routledge — финский" lang="fi" hreflang="fi" data-title="Routledge" data-language-autonym="Suomi" data-language-local-name="финский" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Routledge" title="Routledge — французский" lang="fr" hreflang="fr" data-title="Routledge" data-language-autonym="Français" data-language-local-name="французский" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Routledge" title="Routledge — галисийский" lang="gl" hreflang="gl" data-title="Routledge" data-language-autonym="Galego" data-language-local-name="галисийский" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%A8%D7%90%D7%95%D7%98%D7%9C%D7%92%27" title="ראוטלג&#039; — иврит" lang="he" hreflang="he" data-title="ראוטלג&#039;" data-language-autonym="עברית" data-language-local-name="иврит" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Routledge" title="Routledge — индонезийский" lang="id" hreflang="id" data-title="Routledge" data-language-autonym="Bahasa Indonesia" data-language-local-name="индонезийский" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Routledge" title="Routledge — итальянский" lang="it" hreflang="it" data-title="Routledge" data-language-autonym="Italiano" data-language-local-name="итальянский" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A6%E3%83%88%E3%83%AC%E3%83%83%E3%82%B8" title="ラウトレッジ — японский" lang="ja" hreflang="ja" data-title="ラウトレッジ" data-language-autonym="日本語" data-language-local-name="японский" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EB%9D%BC%EC%9A%B0%ED%8B%80%EB%A6%AC%EC%A7%80" title="라우틀리지 — корейский" lang="ko" hreflang="ko" data-title="라우틀리지" data-language-autonym="한국어" data-language-local-name="корейский" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Routledge" title="Routledge — литовский" lang="lt" hreflang="lt" data-title="Routledge" data-language-autonym="Lietuvių" data-language-local-name="литовский" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Routledge" title="Routledge — малайский" lang="ms" hreflang="ms" data-title="Routledge" data-language-autonym="Bahasa Melayu" data-language-local-name="малайский" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Routledge_(uitgeverij)" title="Routledge (uitgeverij) — нидерландский" lang="nl" hreflang="nl" data-title="Routledge (uitgeverij)" data-language-autonym="Nederlands" data-language-local-name="нидерландский" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Routledge" title="Routledge — норвежский букмол" lang="nb" hreflang="nb" data-title="Routledge" data-language-autonym="Norsk bokmål" data-language-local-name="норвежский букмол" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pa mw-list-item"><a href="https://pa.wikipedia.org/wiki/%E0%A8%B0%E0%A9%8C%E0%A8%9F%E0%A8%B2%E0%A9%88%E0%A9%B1%E0%A8%9C" title="ਰੌਟਲੈੱਜ — панджаби" lang="pa" hreflang="pa" data-title="ਰੌਟਲੈੱਜ" data-language-autonym="ਪੰਜਾਬੀ" data-language-local-name="панджаби" class="interlanguage-link-target"><span>ਪੰਜਾਬੀ</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Routledge" title="Routledge — польский" lang="pl" hreflang="pl" data-title="Routledge" data-language-autonym="Polski" data-language-local-name="польский" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Routledge" title="Routledge — португальский" lang="pt" hreflang="pt" data-title="Routledge" data-language-autonym="Português" data-language-local-name="португальский" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Routledge" title="Routledge — румынский" lang="ro" hreflang="ro" data-title="Routledge" data-language-autonym="Română" data-language-local-name="румынский" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Routledge" title="Routledge — сербскохорватский" lang="sh" hreflang="sh" data-title="Routledge" data-language-autonym="Srpskohrvatski / српскохрватски" data-language-local-name="сербскохорватский" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Routledge" title="Routledge — Simple English" lang="en-simple" hreflang="en-simple" data-title="Routledge" data-language-autonym="Simple English" data-language-local-name="Simple English" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/Routledge" title="Routledge — сербский" lang="sr" hreflang="sr" data-title="Routledge" data-language-autonym="Српски / srpski" data-language-local-name="сербский" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Routledge" title="Routledge — шведский" lang="sv" hreflang="sv" data-title="Routledge" data-language-autonym="Svenska" data-language-local-name="шведский" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Routledge" title="Routledge — турецкий" lang="tr" hreflang="tr" data-title="Routledge" data-language-autonym="Türkçe" data-language-local-name="турецкий" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/Routledge" title="Routledge — украинский" lang="uk" hreflang="uk" data-title="Routledge" data-language-autonym="Українська" data-language-local-name="украинский" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/%D8%B1%D9%88%D9%B9%D9%84%DB%8C%D8%AC" title="روٹلیج — урду" lang="ur" hreflang="ur" data-title="روٹلیج" data-language-autonym="اردو" data-language-local-name="урду" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Routledge" title="Routledge — вьетнамский" lang="vi" hreflang="vi" data-title="Routledge" data-language-autonym="Tiếng Việt" data-language-local-name="вьетнамский" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E5%8B%9E%E7%89%B9%E5%88%A9%E5%A5%87" title="勞特利奇 — китайский" lang="zh" hreflang="zh" data-title="勞特利奇" data-language-autonym="中文" data-language-local-name="китайский" class="interlanguage-link-target"><span>中文</span></a></li>
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1508259#sitelinks-wikipedia" title="Править ссылки на другие языки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Википедия" src="/static/images/mobile/copyright/wikipedia-wordmark-ru.svg" style="width: 7.5em; height: 1.25em;">
+		<img class="mw-logo-tagline" alt="свободная энциклопедия" src="/static/images/mobile/copyright/wikipedia-tagline-ru.svg" width="120" height="11" style="width: 7.5em; height: 0.6875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Искать в Википедии [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="none" spellcheck="false" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Служебная:Поиск">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Найти</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Персональные инструменты">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Измените внешний вид страницы, размер, ширину и цвет шрифта." >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Внешний вид"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Внешний вид</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" class=""><span>Пожертвовать</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=Routledge" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно." class=""><span>Создать учётную запись</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=Routledge" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o" class=""><span>Войти</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Больше возможностей" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Персональные инструменты"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Персональные инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Пользовательское меню" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru"><span class="vector-icon mw-ui-icon-heart mw-ui-icon-wikimedia-heart"></span> <span>Пожертвовать</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=Routledge" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Создать учётную запись</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=Routledge" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Сайт">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Содержание" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	data-pinned-container-id="vector-toc-pinned-container"
+	data-unpinned-container-id="vector-toc-unpinned-container"
+>
+	<h2 class="vector-pinnable-header-label">Содержание</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">скрыть</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Начало</div>
+			</a>
+		</li>
+		<li id="toc-История"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#История">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>История</span>
+			</div>
+		</a>
+		
+		<ul id="toc-История-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Примечания"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Примечания">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>Примечания</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Примечания-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Литература"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Литература">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>Литература</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Литература-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Ссылки"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Ссылки">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>Ссылки</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Ссылки-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Содержание" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Routledge</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Перейти к статье на другом языке. Доступно на 36 языках"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-36" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">36 языков</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%B1%D9%88%D8%AA%D9%84%D9%8A%D8%AF%D8%AC_(%D8%AF%D8%A7%D8%B1_%D9%86%D8%B4%D8%B1)" title="روتليدج (دار نشر) — арабский" lang="ar" hreflang="ar" data-title="روتليدج (دار نشر)" data-language-autonym="العربية" data-language-local-name="арабский" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Routledge" title="Routledge — азербайджанский" lang="az" hreflang="az" data-title="Routledge" data-language-autonym="Azərbaycanca" data-language-local-name="азербайджанский" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%B0%E0%A6%BE%E0%A6%89%E0%A6%9F%E0%A6%B2%E0%A7%87%E0%A6%9C" title="রাউটলেজ — бенгальский" lang="bn" hreflang="bn" data-title="রাউটলেজ" data-language-autonym="বাংলা" data-language-local-name="бенгальский" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Routledge" title="Routledge — каталанский" lang="ca" hreflang="ca" data-title="Routledge" data-language-autonym="Català" data-language-local-name="каталанский" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Routledge" title="Routledge — датский" lang="da" hreflang="da" data-title="Routledge" data-language-autonym="Dansk" data-language-local-name="датский" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Routledge_(Verlag)" title="Routledge (Verlag) — немецкий" lang="de" hreflang="de" data-title="Routledge (Verlag)" data-language-autonym="Deutsch" data-language-local-name="немецкий" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Routledge" title="Routledge — английский" lang="en" hreflang="en" data-title="Routledge" data-language-autonym="English" data-language-local-name="английский" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Routledge" title="Routledge — эсперанто" lang="eo" hreflang="eo" data-title="Routledge" data-language-autonym="Esperanto" data-language-local-name="эсперанто" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Routledge" title="Routledge — испанский" lang="es" hreflang="es" data-title="Routledge" data-language-autonym="Español" data-language-local-name="испанский" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Routledge" title="Routledge — баскский" lang="eu" hreflang="eu" data-title="Routledge" data-language-autonym="Euskara" data-language-local-name="баскский" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%AA%D9%84%D8%AC" title="روتلج — персидский" lang="fa" hreflang="fa" data-title="روتلج" data-language-autonym="فارسی" data-language-local-name="персидский" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Routledge" title="Routledge — финский" lang="fi" hreflang="fi" data-title="Routledge" data-language-autonym="Suomi" data-language-local-name="финский" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Routledge" title="Routledge — французский" lang="fr" hreflang="fr" data-title="Routledge" data-language-autonym="Français" data-language-local-name="французский" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Routledge" title="Routledge — галисийский" lang="gl" hreflang="gl" data-title="Routledge" data-language-autonym="Galego" data-language-local-name="галисийский" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%A8%D7%90%D7%95%D7%98%D7%9C%D7%92%27" title="ראוטלג&#039; — иврит" lang="he" hreflang="he" data-title="ראוטלג&#039;" data-language-autonym="עברית" data-language-local-name="иврит" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Routledge" title="Routledge — индонезийский" lang="id" hreflang="id" data-title="Routledge" data-language-autonym="Bahasa Indonesia" data-language-local-name="индонезийский" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Routledge" title="Routledge — итальянский" lang="it" hreflang="it" data-title="Routledge" data-language-autonym="Italiano" data-language-local-name="итальянский" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A6%E3%83%88%E3%83%AC%E3%83%83%E3%82%B8" title="ラウトレッジ — японский" lang="ja" hreflang="ja" data-title="ラウトレッジ" data-language-autonym="日本語" data-language-local-name="японский" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EB%9D%BC%EC%9A%B0%ED%8B%80%EB%A6%AC%EC%A7%80" title="라우틀리지 — корейский" lang="ko" hreflang="ko" data-title="라우틀리지" data-language-autonym="한국어" data-language-local-name="корейский" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Routledge" title="Routledge — литовский" lang="lt" hreflang="lt" data-title="Routledge" data-language-autonym="Lietuvių" data-language-local-name="литовский" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Routledge" title="Routledge — малайский" lang="ms" hreflang="ms" data-title="Routledge" data-language-autonym="Bahasa Melayu" data-language-local-name="малайский" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Routledge_(uitgeverij)" title="Routledge (uitgeverij) — нидерландский" lang="nl" hreflang="nl" data-title="Routledge (uitgeverij)" data-language-autonym="Nederlands" data-language-local-name="нидерландский" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Routledge" title="Routledge — норвежский букмол" lang="nb" hreflang="nb" data-title="Routledge" data-language-autonym="Norsk bokmål" data-language-local-name="норвежский букмол" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pa mw-list-item"><a href="https://pa.wikipedia.org/wiki/%E0%A8%B0%E0%A9%8C%E0%A8%9F%E0%A8%B2%E0%A9%88%E0%A9%B1%E0%A8%9C" title="ਰੌਟਲੈੱਜ — панджаби" lang="pa" hreflang="pa" data-title="ਰੌਟਲੈੱਜ" data-language-autonym="ਪੰਜਾਬੀ" data-language-local-name="панджаби" class="interlanguage-link-target"><span>ਪੰਜਾਬੀ</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Routledge" title="Routledge — польский" lang="pl" hreflang="pl" data-title="Routledge" data-language-autonym="Polski" data-language-local-name="польский" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Routledge" title="Routledge — португальский" lang="pt" hreflang="pt" data-title="Routledge" data-language-autonym="Português" data-language-local-name="португальский" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Routledge" title="Routledge — румынский" lang="ro" hreflang="ro" data-title="Routledge" data-language-autonym="Română" data-language-local-name="румынский" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Routledge" title="Routledge — сербскохорватский" lang="sh" hreflang="sh" data-title="Routledge" data-language-autonym="Srpskohrvatski / српскохрватски" data-language-local-name="сербскохорватский" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Routledge" title="Routledge — Simple English" lang="en-simple" hreflang="en-simple" data-title="Routledge" data-language-autonym="Simple English" data-language-local-name="Simple English" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/Routledge" title="Routledge — сербский" lang="sr" hreflang="sr" data-title="Routledge" data-language-autonym="Српски / srpski" data-language-local-name="сербский" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Routledge" title="Routledge — шведский" lang="sv" hreflang="sv" data-title="Routledge" data-language-autonym="Svenska" data-language-local-name="шведский" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Routledge" title="Routledge — турецкий" lang="tr" hreflang="tr" data-title="Routledge" data-language-autonym="Türkçe" data-language-local-name="турецкий" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/Routledge" title="Routledge — украинский" lang="uk" hreflang="uk" data-title="Routledge" data-language-autonym="Українська" data-language-local-name="украинский" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/%D8%B1%D9%88%D9%B9%D9%84%DB%8C%D8%AC" title="روٹلیج — урду" lang="ur" hreflang="ur" data-title="روٹلیج" data-language-autonym="اردو" data-language-local-name="урду" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Routledge" title="Routledge — вьетнамский" lang="vi" hreflang="vi" data-title="Routledge" data-language-autonym="Tiếng Việt" data-language-local-name="вьетнамский" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E5%8B%9E%E7%89%B9%E5%88%A9%E5%A5%87" title="勞特利奇 — китайский" lang="zh" hreflang="zh" data-title="勞特利奇" data-language-autonym="中文" data-language-local-name="китайский" class="interlanguage-link-target"><span>中文</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1508259#sitelinks-wikipedia" title="Править ссылки на другие языки" class="wbc-editpage">Править ссылки</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Пространства имён">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Routledge" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:Routledge" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Изменить вариант языка"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">русский</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Просмотры">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Routledge"><span>Читать</span></a></li><li id="ca-ve-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Routledge&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Routledge&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Routledge&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Инструменты"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Инструменты</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Больше возможностей" >
+	<div class="vector-menu-heading">
+		Действия
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Routledge"><span>Читать</span></a></li><li id="ca-more-ve-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Routledge&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-more-edit" class="collapsible vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Routledge&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Routledge&amp;action=history"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		Основное
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/Routledge" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/Routledge" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Routledge&amp;oldid=151115503" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Routledge&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=Routledge&amp;id=151115503&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FRoutledge"><span>Получить короткий URL</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Печать/экспорт
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=Routledge&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Routledge&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		В других проектах
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Routledge" hreflang="en"><span>Викисклад</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1508259" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Внешний вид</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">скрыть</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div role="note" class="hatnote navigation-not-searchable noprint dabhide">У этого термина существуют и другие значения, см. <a href="/wiki/%D0%A0%D0%B0%D1%83%D1%82%D0%BB%D0%B5%D0%B4%D0%B6" class="mw-disambig" title="Раутледж">Раутледж</a>.</div>
+<table class="infobox infobox-a0a9c14314f65e24" style="" data-name="Издательство"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="">Routledge</th></tr><tr><td colspan="2" class="" style="text-align:center;"><span data-wikidata-claim-id="Q1508259$142b091c-4c5a-4b7a-a3b4-2e27beb4d4e4" class="wikidata-claim" data-wikidata-property-id="P1705&#91;LANGUAGE!:RU&#93;"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Routledge</span></span></span></td></tr><tr><td colspan="2" class="infobox-image" style=""> <span data-wikidata-claim-id="Q1508259$234D2B65-07A1-491E-BB0E-6F970683181A" class="wikidata-claim" data-wikidata-property-id="P18"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File/Frameless"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Routledge_stand_at_Senate_House_History_Day_2018.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Routledge_stand_at_Senate_House_History_Day_2018.jpg/330px-Routledge_stand_at_Senate_House_History_Day_2018.jpg" decoding="async" width="274" height="258" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Routledge_stand_at_Senate_House_History_Day_2018.jpg/960px-Routledge_stand_at_Senate_House_History_Day_2018.jpg 2x" data-file-width="3145" data-file-height="2966" /></a></span></span></span> </td></tr>
+<tr>
+<th scope="row" class="plainlist">Основано</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q1508259$c3c1f970-47b4-f5b7-d2a4-776e525a471b" class="wikidata-claim" data-wikidata-property-id="P571"><span class="wikidata-snak wikidata-main-snak"><span class="nowrap"><a href="/wiki/1851_%D0%B3%D0%BE%D0%B4" title="1851 год">1851</a></span></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Основатели</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q1508259$1b5a2fc8-476b-ad5c-2287-8721ae98bfbf" class="wikidata-claim" data-wikidata-property-id="P112"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A0%D0%B0%D1%83%D1%82%D0%BB%D0%B5%D0%B4%D0%B6,_%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6" title="Раутледж, Джордж">Джордж Раутледж</a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Предшественник</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q1508259$20dc4daf-4c8c-99ee-3177-a6e61755566c" class="wikidata-claim" data-wikidata-property-id="P1365"><span class="wikidata-snak wikidata-main-snak"><style data-mw-deduplicate="TemplateStyles:r138326222">.mw-parser-output .ts-Wikidata-redLink a{background:none;padding:0}.mw-parser-output .ts-Wikidata-redLink a.external{color:#ba0000;color:var(--color-link-red,#ba0000)}.mw-parser-output .ts-Wikidata-redLink a.external:visited{color:#a55858;color:var(--color-link-red--visited,#a55858)}</style><span class="ts-Wikidata-redLink plainlinks"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=George_Routledge_%26_Sons&amp;action=edit&amp;editintro=T:Нет_статьи/editintro&amp;preload=T:Нет_статьи/preload&amp;preloadparams%5B%5D=Q19444229&amp;preloadparams%5B%5D=George+Routledge+%26+Sons&amp;preloadparams%5B%5D=%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F+%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B0">George Routledge &#38; Sons</a></span><sup class="noprint"><a href="https://www.wikidata.org/wiki/Q19444229#sitelinks-wikipedia" class="extiw" title="d:Q19444229"><span>[вд]</span></a></sup></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Страна</th>
+<td class="plainlist">
+<ul><li><span data-wikidata-claim-id="Q1508259$3b37f296-45c0-6b13-444f-96d892598df8" class="wikidata-claim" data-wikidata-property-id="P17"><span class="mw-image-border" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/20px-Flag_of_the_United_Kingdom_%281-2%29.svg.png" decoding="async" width="20" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/40px-Flag_of_the_United_Kingdom_%281-2%29.svg.png 2x" data-file-width="1200" data-file-height="600" /></span></span>&#160;<span class="country-name"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F" title="Великобритания">Великобритания</a></span></span></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Владелец</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q1508259$03613256-4a62-0c71-6604-d48abfab2775" class="wikidata-claim" data-wikidata-property-id="P127"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/Taylor_%26_Francis" title="Taylor &amp; Francis">Taylor &amp; Francis</a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Префикс <a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80_%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8" class="mw-redirect" title="Международный стандартный номер книги">ISBN</a></th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q1508259$45895903-4c05-722e-97c0-530b95d06d59" class="wikidata-claim" data-wikidata-property-id="P3035"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://grp.isbn-international.org/search/piid_solr?keys=978-0-415">978-0-415</a></span></span>,&#32;<span data-wikidata-claim-id="Q1508259$55da5539-4fb3-222e-7720-aaa92c375c68" class="wikidata-claim" data-wikidata-property-id="P3035"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://grp.isbn-international.org/search/piid_solr?keys=978-0-7100">978-0-7100</a></span></span>,&#32;<span data-wikidata-claim-id="Q1508259$c66969c5-4a42-6286-284f-ee58c93eb404" class="wikidata-claim" data-wikidata-property-id="P3035"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://grp.isbn-international.org/search/piid_solr?keys=978-0-203">978-0-203</a></span></span>,&#32;<span data-wikidata-claim-id="Q1508259$51eddc4e-4fc0-79a0-cf59-c2a9d675dd85" class="wikidata-claim" data-wikidata-property-id="P3035"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://grp.isbn-international.org/search/piid_solr?keys=978-0-367">978-0-367</a></span></span>,&#32;<span data-wikidata-claim-id="Q1508259$2315faff-4845-c386-1e85-aec34a573a4f" class="wikidata-claim" data-wikidata-property-id="P3035"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://grp.isbn-international.org/search/piid_solr?keys=978-0-419">978-0-419</a></span></span>,&#32;<span data-wikidata-claim-id="Q1508259$e9f2b8fb-4f14-efb1-5d2f-f80fbbe45f65" class="wikidata-claim" data-wikidata-property-id="P3035"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://grp.isbn-international.org/search/piid_solr?keys=978-0-422">978-0-422</a></span></span>,&#32;<span data-wikidata-claim-id="Q1508259$6824a7f6-41f7-4cd7-b71d-6573637abd8b" class="wikidata-claim" data-wikidata-property-id="P3035"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://grp.isbn-international.org/search/piid_solr?keys=978-0-677">978-0-677</a></span></span>,&#32;<span data-wikidata-claim-id="Q1508259$9cd1b2ca-41d0-a694-d9ab-4859b8b7ca4b" class="wikidata-claim" data-wikidata-property-id="P3035"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://grp.isbn-international.org/search/piid_solr?keys=978-0-7007">978-0-7007</a></span></span>,&#32;<span data-wikidata-claim-id="Q1508259$f29c51ac-4184-ae4b-4943-bdfbc6f7e5e0" class="wikidata-claim" data-wikidata-property-id="P3035"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://grp.isbn-international.org/search/piid_solr?keys=978-0-7099">978-0-7099</a></span></span>,&#32;<span data-wikidata-claim-id="Q1508259$87c58577-41ae-3a0d-7ad1-20b2c47e1e84" class="wikidata-claim" data-wikidata-property-id="P3035"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://grp.isbn-international.org/search/piid_solr?keys=978-0-7102">978-0-7102</a></span></span>&#32;и&#32;<span data-wikidata-claim-id="Q1508259$e74e9999-4d2b-250f-7f2f-7b106b726fe3" class="wikidata-claim" data-wikidata-property-id="P3035"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://grp.isbn-international.org/search/piid_solr?keys=978-0-7103">978-0-7103</a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Веб-сайт</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q1508259$0dfae53f-47bd-bbd0-b885-784c5d830f72" class="wikidata-claim" data-wikidata-property-id="P856"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://www.routledge.com/">routledge.com</a>&#160;<span class="ref-info" title="на английском языке" style="cursor:help;">(англ.)</span></span></span></td>
+</tr><tr><td colspan="2" class="infobox-below" style=";"><span data-wikidata-claim-id="Q1508259$F42BDD05-2589-4EB8-A937-269DACB241C9" class="wikidata-claim" data-wikidata-property-id="P373"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File"><a href="https://commons.wikimedia.org/wiki/Category:Routledge" title="commons:Category:Routledge"><img alt="Логотип Викисклада" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png" decoding="async" width="15" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></span>&#160;<a href="https://commons.wikimedia.org/wiki/Category:Routledge" class="extiw" title="commons:Category:Routledge">Медиафайлы на Викискладе</a></span></span></td></tr><tr><td colspan="2" class="infobox-below" style=";"><span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Special:ItemByTitle/ruwiki/Routledge" title="d:Special:ItemByTitle/ruwiki/Routledge"><img alt="Логотип Викиданных" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Wikidata-logo_S.svg/20px-Wikidata-logo_S.svg.png" decoding="async" width="18" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Wikidata-logo_S.svg/40px-Wikidata-logo_S.svg.png 2x" data-file-width="1050" data-file-height="590" /></a></span> <a href="https://www.wikidata.org/wiki/d:Special:ItemByTitle/ruwiki/Routledge" class="extiw" title="d:d:Special:ItemByTitle/ruwiki/Routledge">Информация в Викиданных</a>&#160;<sup><style data-mw-deduplicate="TemplateStyles:r113275842">.mw-parser-output .ts-comment-commentedText{border-bottom:1px dotted;cursor:help}@media(hover:none){.mw-parser-output .ts-comment-commentedText:not(.rt-commentedText){border-bottom:0;cursor:auto}}</style><span class="ts-comment-commentedText" title="Элементы карточки, которых нет в окне редактирования статьи, редактируются в Викиданных">?</span></sup></td></tr>
+</tbody></table>
+<p><b>Ра́утледж</b><sup id="cite&#95;ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>, также <b>Рутледж</b> (неверное, но распространённое написание и произношение)<sup id="cite&#95;ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Routledge</span>, <span class="IPA"><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82" title="Международный фонетический алфавит">[ˈraʊtlɛdʒ]</a></span><sup id="cite&#95;ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>)&#160;— <a href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F" title="Великобритания">британский</a> <a href="/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F" title="Транснациональная компания">международный</a> <a href="/wiki/%D0%98%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%BE%D0%BC" class="mw-redirect" title="Издательский дом">издательский дом</a>, крупное <a href="/w/index.php?title=%D0%9D%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B5_%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Научное издательство (страница отсутствует)">научное издательство</a><sup id="cite&#95;ref-&#95;1339b81be2157907&#95;4-0" class="reference"><a href="#cite_note-_1339b81be2157907-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>. Функционировал под несколькими названиями. Штаб-квартира издательства находится в <span data-interwiki-lang="en" data-interwiki-article="Milton Park"><a href="/w/index.php?title=%D0%9C%D0%B8%D0%BB%D1%82%D0%BE%D0%BD-%D0%BF%D0%B0%D1%80%D0%BA&amp;action=edit&amp;redlink=1" class="new" title="Милтон-парк (страница отсутствует)">Милтон-парке</a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a href="https://en.wikipedia.org/wiki/Milton_Park" class="extiw" title="en:Milton Park"><span title="Milton Park — версия статьи «Милтон-парк» на английском языке">[англ.]</span></a></sup>, <a href="/wiki/%D0%90%D0%B1%D0%B8%D0%BD%D0%B3%D0%B4%D0%BE%D0%BD_(%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F)" title="Абингдон (Англия)">Абингдон</a>, графство <a href="/wiki/%D0%9E%D0%BA%D1%81%D1%84%D0%BE%D1%80%D0%B4%D1%88%D0%B8%D1%80" title="Оксфордшир">Оксфордшир</a>, <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" title="Англия">Англия</a>. Издательство имеет офисы по всему миру, в частности в <a href="/wiki/%D0%A4%D0%B8%D0%BB%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%84%D0%B8%D1%8F" title="Филадельфия">Филадельфии</a> (<a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a>), <a href="/wiki/%D0%9C%D0%B5%D0%BB%D1%8C%D0%B1%D1%83%D1%80%D0%BD" title="Мельбурн">Мельбурне</a> (<a href="/wiki/%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B0%D0%BB%D0%B8%D1%8F" title="Австралия">Австралия</a>), <a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%94%D0%B5%D0%BB%D0%B8" title="Нью-Дели">Нью-Дели</a> (<a href="/wiki/%D0%98%D0%BD%D0%B4%D0%B8%D1%8F" title="Индия">Индия</a>), <a href="/wiki/%D0%A1%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80" title="Сингапур">Сингапуре</a> и <a href="/wiki/%D0%9F%D0%B5%D0%BA%D0%B8%D0%BD" title="Пекин">Пекине</a> (<a href="/wiki/%D0%9A%D0%B8%D1%82%D0%B0%D0%B9" title="Китай">Китай</a>).
+</p><p>Современный Routledge издаёт книги в <a href="/wiki/%D0%93%D1%83%D0%BC%D0%B0%D0%BD%D0%B8%D1%82%D0%B0%D1%80%D0%BD%D1%8B%D0%B5_%D0%BD%D0%B0%D1%83%D0%BA%D0%B8" title="Гуманитарные науки">гуманитарных</a>, <a href="/wiki/%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%B0%D1%83%D0%BA%D0%B8" class="mw-redirect" title="Социальные науки">социальных</a>, <a href="/wiki/%D0%9F%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BD%D0%B0%D1%83%D0%BA%D0%B8" title="Поведенческие науки">поведенческих</a> и <a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%BE" title="Право">юридических</a> областях знаний, а также <a href="/wiki/%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA%D0%B8" class="mw-redirect" title="Учебники">учебники</a> по различным специальностям<sup id="cite&#95;ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>. Он считается самым крупным издательством в области гуманитарных и социальных наук<sup id="cite&#95;ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup><sup id="cite&#95;ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup><sup id="cite&#95;ref-ChKor&#95;8-0" class="reference"><a href="#cite_note-ChKor-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>В 1998&#160;году Routledge, входивший в состав издательской ассоциации <span data-interwiki-lang="en" data-interwiki-article="Cinven"><a href="/w/index.php?title=Cinven&amp;action=edit&amp;redlink=1" class="new" title="Cinven (страница отсутствует)">Cinven</a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a href="https://en.wikipedia.org/wiki/Cinven" class="extiw" title="en:Cinven"><span title="Cinven — версия статьи «Cinven» на английском языке">[англ.]</span></a></sup>, был приобретён у неё научной издательской группой <a href="/wiki/Taylor_%26_Francis" title="Taylor &amp; Francis">Taylor &amp; Francis</a> (T&amp;F) за 90 миллионов <a href="/wiki/%D0%A4%D1%83%D0%BD%D1%82_%D1%81%D1%82%D0%B5%D1%80%D0%BB%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2" title="Фунт стерлингов">фунтов стерлингов</a>. Двумя годами ранее Cinven договорилась о покупке Routledge лишь за 25 миллионов<sup id="cite&#95;ref-&#95;f3129f630fafd1c9&#95;9-0" class="reference"><a href="#cite_note-_f3129f630fafd1c9-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>. Ранее Routledge был прямым конкурентом T&amp;F и главной преградой к установлению монополии на рынке<sup id="cite&#95;ref-ChKor&#95;8-1" class="reference"><a href="#cite_note-ChKor-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup>. В 2004&#160;году произошло слияние Taylor &amp; Francis с британским издательством <span data-interwiki-lang="en" data-interwiki-article="Informa"><a href="/w/index.php?title=Informa&amp;action=edit&amp;redlink=1" class="new" title="Informa (страница отсутствует)">Informa plc</a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a href="https://en.wikipedia.org/wiki/Informa" class="extiw" title="en:Informa"><span title="Informa — версия статьи «Informa» на английском языке">[англ.]</span></a></sup>, что превратило T&amp;F в <a href="/wiki/%D0%98%D0%BC%D0%BF%D1%80%D0%B8%D0%BD%D1%82" title="Импринт">импринт</a> Informa, который стал «глобальным академическим издательским подразделением» компании<sup id="cite&#95;ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading2"><h2 id="История"><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F"></span>История</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Routledge&amp;veaction=edit&amp;section=1" title="Редактировать раздел «История»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Routledge&amp;action=edit&amp;section=1" title="Редактировать код раздела «История»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>История Routledge уходит своими корнями в первую половину XIX&#160;века, когда <a href="/wiki/%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD" title="Лондон">лондонский</a> книжный торговец <a href="/wiki/%D0%A0%D0%B0%D1%83%D1%82%D0%BB%D0%B5%D0%B4%D0%B6,_%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6" title="Раутледж, Джордж">Джордж Раутледж</a> (1812—1888) основал в 1836&#160;году издательство Camden Publishing. В 1851&#160;году в партнёрстве со своим шурином он зарегистрировал издательскую компанию George Routledge &amp; Co. Во второй половине XIX&#160;века фирма продолжала расти и расширяться, публикуя как популярную художественную литературу, так и туристические и справочные издания. В процессе компания вступала в партнёрство с другими издательствами и несколько раз меняла своё название. В 1902&#160;году компания чуть не обанкротилась, но смогла выжить и, преобразовавшись, начала расширяться, приобретая другие компании, среди которых было несколько престижных научных издательств. В результате слияния с <a href="/w/index.php?title=Kegan_Paul,_Trench,_Tr%C3%BCbner_%26_Co&amp;action=edit&amp;redlink=1" class="new" title="Kegan Paul, Trench, Trübner &amp; Co (страница отсутствует)">Kegan Paul, Trench, Trübner &amp; Co</a> в 1912&#160;году издательство стало называться Routledge &amp; Keegan Paul (Раутлежд и Киган Пол) и всё больше специализироваться на публикации научной литературы. Постепенно Routledge &amp; Keegan Paul приобрёл известность как крупный и авторитетный издатель книг в области <a href="/wiki/%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BD%D0%B0%D1%83%D0%BA%D0%B8" title="Общественные науки">общественных наук</a><sup id="cite&#95;ref-&#95;93a4c371ffa39e33&#95;11-0" class="reference"><a href="#cite_note-_93a4c371ffa39e33-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:ASA_conference_2008_-_17.JPG" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/ASA_conference_2008_-_17.JPG/250px-ASA_conference_2008_-_17.JPG" decoding="async" width="250" height="188" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/ASA_conference_2008_-_17.JPG/500px-ASA_conference_2008_-_17.JPG 2x" data-file-width="3264" data-file-height="2448" /></a><figcaption>Routledge на конференции American Sociological Association (ASA) в Бостоне в 2008&#160;году</figcaption></figure>
+<p>В 1985&#160;году издательство Routledge &amp; Keegan Paul объединилось с <a href="/w/index.php?title=Associated_Book_Publishers&amp;action=edit&amp;redlink=1" class="new" title="Associated Book Publishers (страница отсутствует)">Associated Book Publishers</a> (ABP)<sup id="cite&#95;ref-&#95;39d9e8737c52209d&#95;12-0" class="reference"><a href="#cite_note-_39d9e8737c52209d-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup>, которое в 1987&#160;году было куплено компанией <a href="/wiki/Thomson_Corporation" class="mw-redirect" title="Thomson Corporation">International Thomson</a>. Routledge функционировал как её дочерняя фирма до 1996&#160;года, когда в результате <a href="/wiki/MBO" title="MBO">MBO</a>, профинансированного европейской частной инвестиционной фирмой Cinven, издательство снова начало работать как самостоятельная компания. В 1998&#160;году совет директоров Cinven и Routledge приняли предложение о продаже компании международному издательству <a href="/wiki/Taylor_%26_Francis" title="Taylor &amp; Francis">Taylor &amp; Francis</a>. В соответствии с условиями сделки, Routledge продолжил публиковать литературу под своим именем, функционируя в качестве филиала-<a href="/wiki/%D0%98%D0%BC%D0%BF%D1%80%D0%B8%D0%BD%D1%82" title="Импринт">импринта</a> компании<sup id="cite&#95;ref-&#95;ed960f0c6c9dde40&#95;13-0" class="reference"><a href="#cite_note-_ed960f0c6c9dde40-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup>. В 2004&#160;году произошло слияние T&amp;F с компанией Informa <a href="/wiki/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%B0%D1%8F_%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D1%87%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F_%D1%81_%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C%D1%8E" title="Открытая публичная компания с ограниченной ответственностью">plc</a>. Routledge продолжил свою деятельность как импринт компании Taylor &amp; Francis, ставшей глобальным академическим подразделением, публикуя академическую литературу по <a href="/wiki/%D0%93%D1%83%D0%BC%D0%B0%D0%BD%D0%B8%D1%82%D0%B0%D1%80%D0%BD%D1%8B%D0%B5_%D0%BD%D0%B0%D1%83%D0%BA%D0%B8" title="Гуманитарные науки">гуманитарным</a> и общественным наукам<sup id="cite&#95;ref-&#95;850a24e96e78867e&#95;14-0" class="reference"><a href="#cite_note-_850a24e96e78867e-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Примечания"><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span>Примечания</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Routledge&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Примечания»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Routledge&amp;action=edit&amp;section=2" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite&#95;note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation" id="CITEREFРыбакин&#95;фамилии2000"><i><a href="/wiki/%D0%A0%D1%8B%D0%B1%D0%B0%D0%BA%D0%B8%D0%BD,_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D0%B9_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Рыбакин, Анатолий Иванович">Рыбакин А. И.</a></i>&#32;Словарь английских фамилий&#160;: ок. 22&#160;700 фамилий&#160;/ рецензент: д-р филол. наук <span class="nowrap"><a href="/wiki/%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0" title="Суперанская, Александра Васильевна">А. В. Суперанская</a></span>.&#160;— 2-е изд., стер.&#160;— <abbr title="Москва">М.</abbr>&#160;: Астрель&#160;: <a href="/wiki/%D0%90%D0%A1%D0%A2_(%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE)" title="АСТ (издательство)">АСТ</a>, 2000.&#160;— С.&#160;391.&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5271005909" class="internal mw-magiclink-isbn">ISBN 5-271-00590-9</a> (Астрель).&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5170000901" class="internal mw-magiclink-isbn">ISBN 5-17-000090-1</a> (АСТ).</span></span>
+</li>
+<li id="cite&#95;note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://inosmi.ru/social/20190925/245883185.html">В России есть «олигархи», а в Америке — только «бизнесмены»</a></span><span class="hidden-ref" style="display:none;">&#160;</span>.&#32;<i><span data-interwiki-lang="en" data-interwiki-article="Salon.com"><a href="/w/index.php?title=Salon.com&amp;action=edit&amp;redlink=1" class="new" title="Salon.com (страница отсутствует)">Salon.com</a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a href="https://en.wikipedia.org/wiki/Salon.com" class="extiw" title="en:Salon.com"><span title="Salon.com — версия статьи «Salon.com» на английском языке">[англ.]</span></a></sup></i>&#32;(25 сентября 2019).&#32;Дата обращения: 25 августа 2021.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20210824194240/https://inosmi.ru/social/20190925/245883185.html">Архивировано</a> 24 августа 2021 года.</span> via <a href="/wiki/%D0%98%D0%BD%D0%BE%D0%A1%D0%9C%D0%98.%D1%80%D1%83" title="ИноСМИ.ру">ИноСМИ.ру</a></span>
+</li>
+<li id="cite&#95;note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r150646110">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"«""»""„""“"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a::after,.mw-parser-output .id-lock-limited a::after,.mw-parser-output .id-lock-registration a::after,.mw-parser-output .id-lock-subscription a::after,.mw-parser-output .cs1-ws-icon a::after{content:"";width:1.1em;height:1.1em;display:inline-block;vertical-align:middle;background-position:center;background-repeat:no-repeat;background-size:contain}.mw-parser-output .id-lock-free.id-lock-free a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")}.mw-parser-output .id-lock-limited.id-lock-limited a::after,.mw-parser-output .id-lock-registration.id-lock-registration a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")}.mw-parser-output .id-lock-subscription.id-lock-subscription a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")}.mw-parser-output .cs1-ws-icon a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}html.skin-theme-clientpref-night .mw-parser-output .id-lock-free a::after,html.skin-theme-clientpref-night .mw-parser-output .id-lock-limited a::after,html.skin-theme-clientpref-night .mw-parser-output .id-lock-registration a::after,html.skin-theme-clientpref-night .mw-parser-output .id-lock-subscription a::after{filter:invert(1)hue-rotate(180deg)}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}html.skin-theme-clientpref-os .mw-parser-output .id-lock-free a::after,html.skin-theme-clientpref-os .mw-parser-output .id-lock-limited a::after,html.skin-theme-clientpref-os .mw-parser-output .id-lock-registration a::after,html.skin-theme-clientpref-os .mw-parser-output .id-lock-subscription a::after{filter:invert(1)hue-rotate(180deg)}}</style><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i><span data-interwiki-lang="en" data-interwiki-article="Clive Upton"><a href="/w/index.php?title=%D0%90%D0%BF%D1%82%D0%BE%D0%BD,_%D0%9A%D0%BB%D0%B0%D0%B9%D0%B2&amp;action=edit&amp;redlink=1" class="new" title="Аптон, Клайв (страница отсутствует)">Upton C.</a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a href="https://en.wikipedia.org/wiki/Clive_Upton" class="extiw" title="en:Clive Upton"><span title="Clive Upton — версия статьи «Аптон, Клайв» на английском языке">[англ.]</span></a></sup>, Kretzschmar W. A.</i>&#32;The Routledge Dictionary of Pronunciation for Current English&#160;<span class="ref-info" title="на английском языке" style="cursor:help;">(англ.)</span>.&#160;— 2nd edition, reprinted.&#160;— Abingon: Routledge, 2017.&#160;— P.&#160;1164.&#160;— 1590&#160;p.&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9781138125667" class="internal mw-magiclink-isbn">ISBN 978-1-138-12566-7</a>.</span></span>
+</li>
+<li id="cite&#95;note-&#95;1339b81be2157907-4"><span class="mw-cite-backlink"><a href="#cite_ref-_1339b81be2157907_4-0">↑</a></span> <span class="reference-text"><a href="#CITEREFClark_&amp;_Phillips2008">Clark &amp; Phillips, 2008</a>, p.&#160;xv&#59; <a href="#CITEREFCope1998">Cope, 1998</a>.</span>
+</li>
+<li id="cite&#95;note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="https://www.routledge.com/corporate/about-us">About Us</a></span>&#160;<span class="ref-info" title="на английском языке" style="cursor:help;">(англ.)</span>.&#32;Abingdon:&#32;Routledge.&#32;Дата обращения: 25 августа 2021.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20150706084209/http://www.routledge.com/info/about_us/">Архивировано</a> 6 июля 2015 года.</span></span>
+</li>
+<li id="cite&#95;note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="https://digest.sagepub.com/wp-login.php?redirect_to=%2Fwp-content%2Fuploads%2F2015%2F01%2FOutsell_Market_Performance_16jan2015_HSS_Market_Size_Share_Forecast.pdf">Outsell HSS Market Size Share Forecast</a></span>&#160;<span class="ref-info" title="на английском языке" style="cursor:help;">(англ.)</span>.&#32;Thousand Oaks:&#32;<a href="/wiki/Sage_Publications" class="mw-redirect" title="Sage Publications">Sage Publications</a>.&#32;Дата обращения: 25 августа 2021.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20160505150622/http://digest.sagepub.com/wp-content/uploads/2015/01/Outsell_Market_Performance_16jan2015_HSS_Market_Size_Share_Forecast.pdf">Архивировано</a> 5 мая 2016 года.</span></span>
+</li>
+<li id="cite&#95;note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://t-l.ru/286258.html">Тюменские ученые выпустили монографию в издательстве <i>Routledge</i></a></span><span class="hidden-ref" style="display:none;">&#160;</span>.&#32;<i>Тюменская линия</i>&#32;(8 июля 2020).&#32;Дата обращения: 25 августа 2021.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20210824210512/https://t-l.ru/286258.html">Архивировано</a> 24 августа 2021 года.</span></span>
+</li>
+<li id="cite&#95;note-ChKor-8"><span class="mw-cite-backlink">↑ <a href="#cite_ref-ChKor_8-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-ChKor_8-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Рассказова Е.</i>&#32;<span lang="und"><a rel="nofollow" class="external text" href="http://www.chaskor.ru/article/na_puti_k_dostupnomu_znaniyu_42718">На пути к доступному знанию</a></span>.&#32;Олигополия научных издательств, ситуация со Sci-Hub и будущее открытого доступа<span class="hidden-ref" style="display:none;">&#160;</span>.&#32;<i><a href="/wiki/%D0%A7%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D1%80%D0%B5%D1%81%D0%BF%D0%BE%D0%BD%D0%B4%D0%B5%D0%BD%D1%82" title="Частный корреспондент">Частный корреспондент</a></i>&#32;(20 ноября 2017).&#32;Дата обращения: 25 августа 2021.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20210824201349/http://www.chaskor.ru/article/na_puti_k_dostupnomu_znaniyu_42718">Архивировано</a> 24 августа 2021 года.</span></span>
+</li>
+<li id="cite&#95;note-&#95;f3129f630fafd1c9-9"><span class="mw-cite-backlink"><a href="#cite_ref-_f3129f630fafd1c9_9-0">↑</a></span> <span class="reference-text"><a href="#CITEREFCope1998">Cope, 1998</a>.</span>
+</li>
+<li id="cite&#95;note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="https://www.informa.com/divisions/academic-publishing/">Academic Publishing</a></span>&#160;<span class="ref-info" title="на английском языке" style="cursor:help;">(англ.)</span>.&#32;Informa.&#32;Дата обращения: 24 августа 2021.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20150801230424/https://www.informa.com/divisions/academic-publishing/">Архивировано</a> 1 августа 2015 года.</span></span>
+</li>
+<li id="cite&#95;note-&#95;93a4c371ffa39e33-11"><span class="mw-cite-backlink"><a href="#cite_ref-_93a4c371ffa39e33_11-0">↑</a></span> <span class="reference-text"><a href="#CITEREFClark_&amp;_Phillips2008">Clark &amp; Phillips, 2008</a>, pp.&#160;v—x.</span>
+</li>
+<li id="cite&#95;note-&#95;39d9e8737c52209d-12"><span class="mw-cite-backlink"><a href="#cite_ref-_39d9e8737c52209d_12-0">↑</a></span> <span class="reference-text"><a href="#CITEREFWhipp1992">Whipp, 1992</a>, p.&#160;47.</span>
+</li>
+<li id="cite&#95;note-&#95;ed960f0c6c9dde40-13"><span class="mw-cite-backlink"><a href="#cite_ref-_ed960f0c6c9dde40_13-0">↑</a></span> <span class="reference-text"><a href="#CITEREFClark_&amp;_Phillips2008">Clark &amp; Phillips, 2008</a>, p.&#160;xvi&#59; <a href="#CITEREFCope1998">Cope, 1998</a>.</span>
+</li>
+<li id="cite&#95;note-&#95;850a24e96e78867e-14"><span class="mw-cite-backlink"><a href="#cite_ref-_850a24e96e78867e_14-0">↑</a></span> <span class="reference-text"><a href="#CITEREFClark_&amp;_Phillips2008">Clark &amp; Phillips, 2008</a>, pp.&#160;xvii—xviii.</span>
+</li>
+</ol></div></div>
+<div class="mw-heading mw-heading2"><h2 id="Литература"><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span>Литература</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Routledge&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Литература»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Routledge&amp;action=edit&amp;section=3" title="Редактировать код раздела «Литература»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><span class="citation"><i>Boynton, Robert.</i>&#32;<a rel="nofollow" class="external text" href="http://www.robertboynton.com/articleDisplay.php?article_id=24">The Routledge Revolution: Has Academic Publishing Gone Tabloid?</a>&#160;<span class="ref-info" title="на английском языке" style="cursor:help;">(англ.)</span>&#160;// <a href="https://en.wikipedia.org/wiki/Lingua_Franca_(magazine)" class="extiw" title="en:Lingua Franca (magazine)">Lingua Franca: the review of academic life</a>.&#160;— <a href="/w/index.php?title=%D0%9C%D0%B0%D0%BC%D0%B0%D1%80%D0%BE%D0%BD%D0%B5%D0%BA_(%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA)&amp;action=edit&amp;redlink=1" class="new" title="Мамаронек (Нью-Йорк) (страница отсутствует)">Mamaroneck, N.Y.</a>: Lingua Franca, Inc., 1995.&#160;— 3/4&#32;(<span class="nowrap">vol. 5</span>, <span class="nowrap">no. 3</span>).&#160;— <span class="nowrap">P. 24–32</span>.</span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r150646110" /><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFClark&#95;&amp;&#95;Phillips2008"><i>Clark, Giles N. and Angus Phillips.</i>&#32;<a rel="nofollow" class="external text" href="https://books.google.com.au/books?id=ckjpngEACAAJ">Inside Book Publishing</a>&#160;<span class="ref-info" title="на английском языке" style="cursor:help;">(англ.)</span>.&#160;— 4th.&#160;— Abingdon, UK and New York: Routledge, 2008.&#160;— xx, 302&#160;p.&#160;— (Taylor &amp; Francis e-Library collection).&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9780203341544" class="internal mw-magiclink-isbn">ISBN 978-0-203-34154-4</a>.</span></li>
+<li><span class="citation" id="CITEREFCope1998"><i>Cope, Nigel.</i>&#32;<a rel="nofollow" class="external text" href="https://www.independent.co.uk/news/business/books-merger-yields-windfall-of-pounds-6m-1182898.html">Books merger yields windfall of £6m</a>&#160;<span class="ref-info" title="на английском языке" style="cursor:help;">(англ.)</span>&#160;// <a href="/wiki/The_Independent" title="The Independent">The Independent</a>.&#160;— London: <a href="/wiki/Independent_News_%26_Media" title="Independent News &amp; Media">Independent News &amp; Media</a>, 1998.&#160;— 5 November.</span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r150646110" /><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFWarburg1960"><i>Warburg, Fredric.</i>&#32;<a rel="nofollow" class="external text" href="https://archive.org/details/occupationforgen0000unse">An Occupation for Gentlemen</a>.&#160;— 1st American.&#160;— Boston, MA: <span data-interwiki-lang="en" data-interwiki-article="Houghton Mifflin Harcourt"><a href="/w/index.php?title=Houghton_Mifflin_Harcourt&amp;action=edit&amp;redlink=1" class="new" title="Houghton Mifflin Harcourt (страница отсутствует)">Houghton Mifflin</a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a href="https://en.wikipedia.org/wiki/Houghton_Mifflin_Harcourt" class="extiw" title="en:Houghton Mifflin Harcourt"><span title="Houghton Mifflin Harcourt — версия статьи «Houghton Mifflin Harcourt» на английском языке">[англ.]</span></a></sup>, 1960.</span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r150646110" /><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFWhipp1992"><i>Whipp, Richard.</i>&#32;<span data-wikidata-qualifier-id="P248">Human Resource Management, Competition and Strategy: Some Productive Tensions</span>&#32;&#47;&#47;&#32;<a rel="nofollow" class="external text" href="https://books.google.com.au/books?id=P5XZngEACAAJ">Reassessing Human Resource Management</a>&#32;&#47;&#32;Paul Blyton and Peter Turnbull (eds.).&#160;— London: <a href="/wiki/SAGE_Publications" class="mw-redirect" title="SAGE Publications">SAGE Publications</a>, 1992.&#160;— P.&#160;33–55.&#160;— ix, 270&#160;p.&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/0803986971" class="internal mw-magiclink-isbn">ISBN 0-8039-8697-1</a>.</span></li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Ссылки"><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span>Ссылки</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Routledge&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Ссылки»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Routledge&amp;action=edit&amp;section=4" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a rel="nofollow" class="external text" href="https://www.routledge.com">routledge.com</a>&#32;— официальный сайт издательства&#160;<span class="ref-info" title="на английском языке" style="cursor:help;">(англ.)</span></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Ссылки&#95;на&#95;внешние&#95;ресурсы" data-name="External links" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a></span></span><div id="Ссылки&#95;на&#95;внешние&#95;ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div class="skin-invert-image" style="float: left;"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/20px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/40px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a></span>&#160;<span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q1508259#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/40px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></div>&#160;&#160;В социальных сетях</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://x.com/routledgebooks">X</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.facebook.com/routledgebooks">Facebook</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.linkedin.com/company/routledge-taylor-&amp;-francis-group/">LinkedIn</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Тематические сайты</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://www.isfdb.org/cgi-bin/publisher.cgi?16469">Internet Speculative Fiction Database</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.comics.org/publisher/12584/">GCD</a></li>
+<li><a rel="nofollow" class="external text" href="https://fantlab.ru/publisher3052">Лаборатория Фантастики</a></li></ul>
+</div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"><style data-mw-deduplicate="TemplateStyles:r113287755">.mw-parser-output .ts-navbox-plaintitle{font-size:100%!important;margin:0 6em!important}</style></div><table class="nowraplinks authoritycontrol collapsible collapsed navbox-subgroup" style="border-spacing:0;text-align: left;"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><div id="В&#95;библиографических&#95;каталогах" class="ts-navbox-plaintitle" style="font-size:114%;margin:0 5em">В&#160;библиографических каталогах</div></th></tr><tr><td class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>BIBSYS: <a rel="nofollow" class="external text" href="https://authority.bibsys.no/authority/rest/authorities/html/9019369">9019369</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8" title="Национальная библиотека Франции">BNF</a>: <a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb12757325j">12757325j</a></li>
+<li><a href="/wiki/CiNii" title="CiNii">CiNii</a>: <a rel="nofollow" class="external text" href="https://ci.nii.ac.jp/author/DA08814184">DA08814184</a></li>
+<li><a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">GND</a>: <a rel="nofollow" class="external text" href="https://d-nb.info/gnd/16273062-7">16273062-7</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D1%8B%D1%85_%D0%BD%D0%B0%D0%B8%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9" title="Международный идентификатор стандартных наименований">ISNI</a>: <a rel="nofollow" class="external text" href="http://isni.org/isni/0000000115404508">0000000115404508</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8F" title="Национальная библиотека Израиля">J9U</a>: <a rel="nofollow" class="external text" href="https://www.nli.org.il/en/authorities/987007267370605171">987007267370605171</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80_%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8_%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B0" title="Контрольный номер Библиотеки Конгресса">LCCN</a>: <a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/n87840882">n87840882</a></li>
+<li><a href="/wiki/%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0" title="Латвийская национальная библиотека">LNB</a>: <a rel="nofollow" class="external text" href="https://kopkatalogs.lv/F/?func=direct&amp;local_base=lnc10&amp;doc_number=000358268">000358268</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%A7%D0%B5%D1%88%D1%81%D0%BA%D0%BE%D0%B9_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8" title="Национальная библиотека Чешской Республики">NKC</a>: <a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=xx0341138&amp;CON_LNG=ENG">xx0341138</a>, <a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=xx0342426&amp;CON_LNG=ENG">xx0342426</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B0%D0%BB%D0%B8%D0%B8" title="Национальная библиотека Австралии">NLA</a>: <a rel="nofollow" class="external text" href="https://nla.gov.au/anbd.aut-an35998494">35998494</a>, <a rel="nofollow" class="external text" href="https://nla.gov.au/anbd.aut-an35879265">35879265</a>, <a rel="nofollow" class="external text" href="https://nla.gov.au/anbd.aut-an35822720">35822720</a>, <a rel="nofollow" class="external text" href="https://nla.gov.au/anbd.aut-an36021148">36021148</a></li>
+<li><a href="/wiki/NUKAT" title="NUKAT">NUKAT</a>: <a rel="nofollow" class="external text" href="http://nukat.edu.pl/aut/n%202013022027">n2013022027</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D0%B8" title="Национальная библиотека Португалии">PTBNP</a>: <a rel="nofollow" class="external text" href="https://viaf.org/processed/PTBNP%7C802619">802619</a></li>
+<li><a href="/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8" title="Университетская система документации">SUDOC</a>: <a rel="nofollow" class="external text" href="https://www.idref.fr/243468733">243468733</a></li>
+<li><a href="/wiki/VIAF" title="VIAF">VIAF</a>: <a rel="nofollow" class="external text" href="https://viaf.org/viaf/132939832/">132939832</a>, <a rel="nofollow" class="external text" href="https://viaf.org/viaf/312803894/">312803894</a>, <a rel="nofollow" class="external text" href="https://viaf.org/viaf/2991159478233027990003/">2991159478233027990003</a>, <a rel="nofollow" class="external text" href="https://viaf.org/viaf/150531737/">150531737</a>, <a rel="nofollow" class="external text" href="https://viaf.org/viaf/138814795/">138814795</a>, <a rel="nofollow" class="external text" href="https://viaf.org/viaf/131875234/">131875234</a></li>
+<li><a href="/wiki/WorldCat" title="WorldCat">WorldCat VIAF</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/132939832">132939832</a>, <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/312803894">312803894</a>, <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/2991159478233027990003">2991159478233027990003</a>, <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/150531737">150531737</a>, <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/138814795">138814795</a>, <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/131875234">131875234</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐6897878f94‐mkf57
+Cached time: 20260403105247
+Cache expiry: 50400
+Cache expiry source: Модуль:Wikidata (os.time)
+Reduced expiry: true
+Complications: [vary‐revision‐sha1, prevent‐selective‐update, show‐toc]
+CPU time usage: 0.905 seconds
+Real time usage: 1.475 seconds
+Preprocessor visited node count: 6313/1000000
+Revision size: 12810/2097152 bytes
+Post‐expand include size: 80449/2097152 bytes
+Template argument size: 13599/2097152 bytes
+Highest expansion depth: 18/100
+Expensive parser function count: 19/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 23656/5000000 bytes
+Lua time usage: 0.582/10.000 seconds
+Lua memory usage: 11898437/52428800 bytes
+Number of Wikibase entities loaded: 16/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1281.649      1 -total
+ 57.60%  738.181      1 Шаблон:Издательство
+ 55.52%  711.550      1 Шаблон:Карточка
+ 15.49%  198.552      7 Шаблон:Wikidata
+ 11.27%  144.419      1 Шаблон:ВС
+ 11.16%  142.984      1 Шаблон:Примечания
+  6.59%   84.454      1 Шаблон:Карточка/оригинал_названия
+  5.87%   75.175      4 Шаблон:Книга
+  4.64%   59.515      2 Шаблон:Статья
+  3.70%   47.480      1 Шаблон:Рыбакин
+-->
+
+<!-- Saved in parser cache with key ruwiki:stable-pcache:2187192:|#|:idhash:canonical and timestamp 20260403105247 and revision id 151115503. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Routledge&amp;oldid=151115503">https://ru.wikipedia.org/w/index.php?title=Routledge&amp;oldid=151115503</a></div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Издательства по алфавиту">Издательства по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0,_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B2_1851_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Издательства, основанные в 1851 году">Издательства, основанные в 1851 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%B8" title="Категория:Издательства Великобритании">Издательства Великобритании</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D1%80%D0%B8%D0%BD%D1%82%D1%8B_Taylor_%26_Francis" title="Категория:Импринты Taylor &amp; Francis">Импринты Taylor &amp; Francis</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 11 января 2026 года в 19:02.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br />
+Wikipedia®&#160;— зарегистрированный товарный знак некоммерческой организации <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/ru/">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-legal-safety-contacts"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information">Контакты по вопросам права и безопасности</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikipedia.org/w/index.php?title=Routledge&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Искать в Википедии">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Служебная:Поиск">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Найти</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">Routledge</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>36 языков</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Добавить тему</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-6897878f94-9d48v","wgBackendResponseTime":173,"wgPageParseReport":{"limitreport":{"cputime":"0.905","walltime":"1.475","ppvisitednodes":{"value":6313,"limit":1000000},"revisionsize":{"value":12810,"limit":2097152},"postexpandincludesize":{"value":80449,"limit":2097152},"templateargumentsize":{"value":13599,"limit":2097152},"expansiondepth":{"value":18,"limit":100},"expensivefunctioncount":{"value":19,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":23656,"limit":5000000},"entityaccesscount":{"value":16,"limit":500},"timingprofile":["100.00% 1281.649      1 -total"," 57.60%  738.181      1 Шаблон:Издательство"," 55.52%  711.550      1 Шаблон:Карточка"," 15.49%  198.552      7 Шаблон:Wikidata"," 11.27%  144.419      1 Шаблон:ВС"," 11.16%  142.984      1 Шаблон:Примечания","  6.59%   84.454      1 Шаблон:Карточка/оригинал_названия","  5.87%   75.175      4 Шаблон:Книга","  4.64%   59.515      2 Шаблон:Статья","  3.70%   47.480      1 Шаблон:Рыбакин"]},"scribunto":{"limitreport-timeusage":{"value":"0.582","limit":"10.000"},"limitreport-memusage":{"value":11898437,"limit":52428800},"limitreport-logs":"Loaded datatype commonsMedia of P154 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P1365 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P112 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P1365 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P1366 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype monolingualtext of P6375 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P1037 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P98 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P749 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P127 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P3035 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw-web.eqiad.main-6897878f94-mkf57","timestamp":"20260403105247","ttl":50400,"transientcontent":true,"expiry-source":"Модуль:Wikidata (os.time)"}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Routledge","url":"https:\/\/ru.wikipedia.org\/wiki\/Routledge","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1508259","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1508259","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-01-02T20:43:08Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/6d\/Routledge_stand_at_Senate_House_History_Day_2018.jpg","headline":"\u0431\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u043e\u0435 \u043c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0435 \u043d\u0430\u0443\u0447\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e"}</script>
+</body>
+</html>
